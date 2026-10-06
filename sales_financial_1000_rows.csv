@@ -1,0 +1,1001 @@
+Order ID,Order Date,Customer ID,Customer Name,Region,State,City,Segment,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Cost,Profit,Profit Margin,Payment Mode,Shipping Mode,Shipping Days,Year,Month,Quarter,Profit Status
+ORD-10496,2025-10-06,CUST-1249,Customer 197,West,Gujarat,Surat,Consumer,Furniture,Storage,Cabinet,9025.0,1,0.05,6001.49,3023.51,0.335,Net Banking,Standard,4.0,2025,October,Q4,Profit
+ORD-10787,2025-10-28,CUST-1036,Customer 56,South,Kerala,Thiruvananthapuram,Corporate,Technology,Tablets,Tablet,118800.0,6,0.1,88400.7,30399.3,0.2559,Cash,Standard,3.0,2025,October,Q4,Profit
+ORD-10087,2023-12-20,CUST-1229,Customer 149,East,Bihar,Patna,Consumer,Office Supplies,Paper,Notebook,1995.0,6,0.05,1512.29,482.71,0.242,UPI,First Class,3.0,2023,December,Q4,Profit
+ORD-10726,2024-09-03,CUST-1087,Customer 31,East,Odisha,Bhubaneswar,Corporate,Office Supplies,Fasteners,Stapler,1785.0,7,0.15,1473.8,311.2,0.1743,Net Banking,Standard,4.0,2024,September,Q3,Profit
+ORD-10980,2024-04-27,CUST-1220,Customer 188,South,Kerala,Kochi,Corporate,Furniture,Tables,Dining Table,20900.0,1,0.05,12453.22,8446.78,0.4042,UPI,Standard,1.0,2024,April,Q2,Profit
+ORD-10983,2023-05-19,CUST-1133,Customer 132,West,Maharashtra,Nashik,Small Business,Technology,Phones,Smartphone,144000.0,5,0.1,96599.89,47400.11,0.3292,Debit Card,Standard,7.0,2023,May,Q2,Profit
+ORD-10617,2025-12-31,CUST-1123,Customer 116,South,Kerala,Kozhikode,Corporate,Furniture,Storage,Cabinet,42750.0,5,0.1,35434.14,7315.86,0.1711,UPI,Standard,4.0,2025,December,Q4,Profit
+ORD-10263,2023-05-09,CUST-1019,Customer 116,East,West Bengal,Durgapur,Small Business,Furniture,Tables,Coffee Table,13600.0,2,0.15,9018.44,4581.56,0.3369,Net Banking,Second Class,1.0,2023,May,Q2,Profit
+ORD-10894,2024-02-23,CUST-1131,Customer 298,East,Odisha,Cuttack,Corporate,Office Supplies,Fasteners,Stapler,720.0,3,0.2,511.28,208.72,0.2899,Credit Card,Standard,7.0,2024,February,Q1,Profit
+ORD-10384,2025-11-19,CUST-1252,Customer 53,North,Uttar Pradesh,Noida,Consumer,Furniture,Tables,Dining Table,66000.0,4,0.25,49109.19,16890.81,0.2559,UPI,Standard,4.0,2025,November,Q4,Profit
+ORD-10004,2025-08-16,CUST-1010,Customer 166,North,Delhi,New Delhi,Corporate,Office Supplies,Tables,Desk,56700.0,7,0.1,44607.38,12092.62,0.2133,UPI,Second Class,2.0,2025,August,Q3,Profit
+ORD-10637,2025-10-20,CUST-1114,Customer 46,West,Maharashtra,Mumbai,Small Business,Technology,Computers,Laptop,234000.0,4,0.1,190160.47,43839.53,0.1873,Cash,Standard,7.0,2025,October,Q4,Profit
+ORD-10075,2024-03-03,CUST-1177,Customer 152,West,Gujarat,Surat,Consumer,Technology,Printers,Printer,66000.0,6,0.0,52097.09,13902.91,0.2107,Cash,Standard,5.0,2024,March,Q1,Profit
+ORD-10631,2023-10-10,CUST-1265,Customer 70,North,Rajasthan,Udaipur,Small Business,Furniture,Tables,Dining Table,18700.0,1,0.15,14656.1,4043.9,0.2163,Credit Card,Standard,7.0,2023,October,Q4,Profit
+ORD-10296,2024-01-01,CUST-1063,Customer 274,East,Odisha,Cuttack,Consumer,Technology,Accessories,Monitor,79800.0,6,0.05,66066.6,13733.4,0.1721,UPI,Same Day,2.0,2024,January,Q1,Profit
+ORD-10933,2025-04-16,CUST-1188,Customer 42,East,West Bengal,Kolkata,Consumer,Technology,Computers,Laptop,331500.0,6,0.15,289460.88,42039.12,0.1268,UPI,Standard,1.0,2025,April,Q2,Profit
+ORD-10284,2023-03-28,CUST-1030,Customer 271,North,Rajasthan,Jodhpur,Corporate,Furniture,Storage,Cabinet,8075.0,1,0.15,5003.71,3071.29,0.3803,Debit Card,Standard,7.0,2023,March,Q1,Profit
+ORD-10125,2023-12-27,CUST-1169,Customer 58,North,Delhi,New Delhi,Small Business,Furniture,Tables,Dining Table,125400.0,6,0.05,89439.18,35960.82,0.2868,Cash,Standard,5.0,2023,December,Q4,Profit
+ORD-10616,2024-04-29,CUST-1111,Customer 236,South,Telangana,Hyderabad,Corporate,Technology,Accessories,Monitor,14000.0,1,0.0,11600.58,2399.42,0.1714,Cash,Second Class,1.0,2024,April,Q2,Profit
+ORD-10620,2024-07-12,CUST-1291,Customer 230,West,Maharashtra,Mumbai,Consumer,Office Supplies,Tables,Desk,42750.0,5,0.05,35553.3,7196.7,0.1683,Cash,First Class,1.0,2024,July,Q3,Profit
+ORD-10786,2025-12-24,CUST-1286,Customer 270,North,Uttar Pradesh,Agra,Corporate,Technology,Computers,Laptop,185250.0,3,0.05,116102.1,69147.9,0.3733,Credit Card,Same Day,5.0,2025,December,Q4,Profit
+ORD-10153,2025-07-19,CUST-1104,Customer 212,South,Kerala,Thiruvananthapuram,Consumer,Technology,Computers,Laptop,234000.0,4,0.1,195387.15,38612.85,0.165,Cash,First Class,1.0,2025,July,Q3,Profit
+ORD-10023,2024-12-20,CUST-1044,Customer 89,West,Gujarat,Ahmedabad,Consumer,Technology,Printers,Printer,65450.0,7,0.15,44329.21,21120.79,0.3227,Cash,Standard,4.0,2024,December,Q4,Profit
+ORD-10137,2023-09-01,CUST-1198,Customer 261,East,Odisha,Cuttack,Corporate,Technology,Accessories,Monitor,37800.0,3,0.1,23434.6,14365.4,0.38,Net Banking,First Class,4.0,2023,September,Q3,Profit
+ORD-10968,2023-12-09,CUST-1169,Customer 211,South,Telangana,Hyderabad,Consumer,Technology,Accessories,Headphones,29925.0,7,0.05,19257.45,10667.55,0.3565,Cash,Second Class,3.0,2023,December,Q4,Profit
+ORD-10938,2023-12-29,CUST-1146,Customer 122,East,West Bengal,Durgapur,Consumer,Furniture,Storage,Cabinet,30400.0,4,0.2,19028.68,11371.32,0.3741,Credit Card,Standard,6.0,2023,December,Q4,Profit
+ORD-10051,2025-02-08,CUST-1279,Customer 92,South,Karnataka,Mysuru,Corporate,Technology,Printers,Printer,33000.0,3,0.0,21700.06,11299.94,0.3424,Net Banking,Standard,2.0,2025,February,Q1,Profit
+ORD-10276,2025-08-02,CUST-1010,Customer 15,East,Odisha,Bhubaneswar,Small Business,Office Supplies,Tables,Desk,40500.0,5,0.1,29337.53,11162.47,0.2756,Cash,Same Day,2.0,2025,August,Q3,Profit
+ORD-10805,2024-06-23,CUST-1066,Customer 113,South,Kerala,Kozhikode,Corporate,Office Supplies,Paper,Notebook,945.0,3,0.1,767.88,177.12,0.1874,Net Banking,Standard,2.0,2024,June,Q2,Profit
+ORD-10952,2025-02-24,CUST-1115,Customer 45,North,Uttar Pradesh,Lucknow,Corporate,Technology,Tablets,Tablet,20900.0,1,0.05,15867.15,5032.85,0.2408,Net Banking,Standard,2.0,2025,February,Q1,Profit
+ORD-10582,2024-01-18,CUST-1280,Customer 86,North,Delhi,Delhi,Corporate,Technology,Accessories,Headphones,24300.0,6,0.1,17816.06,6483.94,0.2668,Cash,Standard,1.0,2024,January,Q1,Profit
+ORD-10132,2023-11-07,CUST-1040,Customer 121,West,Maharashtra,Pune,Small Business,Technology,Accessories,Monitor,63000.0,5,0.1,42318.56,20681.44,0.3283,Net Banking,First Class,3.0,2023,November,Q4,Profit
+ORD-10214,2025-02-06,CUST-1218,Customer 253,South,Karnataka,Bengaluru,Consumer,Office Supplies,Chairs,Office Chair,40950.0,7,0.1,34602.02,6347.98,0.155,Credit Card,Standard,2.0,2025,February,Q1,Profit
+ORD-10598,2024-03-22,CUST-1125,Customer 145,South,Kerala,Kozhikode,Consumer,Furniture,Tables,Coffee Table,38000.0,5,0.05,30498.55,7501.45,0.1974,Net Banking,Standard,2.0,2024,March,Q1,Profit
+ORD-10139,2023-01-12,CUST-1011,Customer 48,South,Tamil Nadu,Coimbatore,Consumer,Technology,Printers,Printer,20900.0,2,0.05,12926.6,7973.4,0.3815,UPI,Second Class,5.0,2023,January,Q1,Profit
+ORD-10564,2023-01-22,CUST-1079,Customer 270,South,Karnataka,Bengaluru,Small Business,Furniture,Tables,Coffee Table,16000.0,2,0.0,9579.67,6420.33,0.4013,Debit Card,Second Class,6.0,2023,January,Q1,Profit
+ORD-10561,2024-09-01,CUST-1293,Customer 201,East,West Bengal,Durgapur,Consumer,Office Supplies,Writing,Pen Set,2160.0,6,0.2,1872.48,287.52,0.1331,Credit Card,Standard,2.0,2024,September,Q3,Profit
+ORD-10841,2023-08-21,CUST-1106,Customer 79,North,Rajasthan,Jodhpur,Consumer,Office Supplies,Fasteners,Stapler,540.0,2,0.1,317.31,222.69,0.4124,Debit Card,Standard,6.0,2023,August,Q3,Profit
+ORD-10226,2025-01-11,CUST-1199,Customer 228,West,Gujarat,Surat,Consumer,Office Supplies,Chairs,Office Chair,11700.0,2,0.1,8461.73,3238.27,0.2768,Debit Card,First Class,2.0,2025,January,Q1,Profit
+ORD-10645,2024-01-01,CUST-1230,Customer 178,East,West Bengal,Kolkata,Consumer,Furniture,Tables,Dining Table,37400.0,2,0.15,25552.71,11847.29,0.3168,UPI,Standard,1.0,2024,January,Q1,Profit
+ORD-10318,2023-08-05,CUST-1005,Customer 9,North,Uttar Pradesh,Lucknow,Corporate,Office Supplies,Paper,Notebook,315.0,1,0.1,245.69,69.31,0.22,Credit Card,Second Class,4.0,2023,August,Q3,Profit
+ORD-10246,2023-07-02,CUST-1124,Customer 182,West,Maharashtra,Nashik,Consumer,Technology,Phones,Smartphone,57600.0,2,0.1,49098.56,8501.44,0.1476,Credit Card,Second Class,6.0,2023,July,Q3,Profit
+ORD-10700,2024-03-29,CUST-1091,Customer 277,West,Gujarat,Ahmedabad,Consumer,Technology,Computers,Laptop,234000.0,4,0.1,138454.84,95545.16,0.4083,Credit Card,Second Class,5.0,2024,March,Q1,Profit
+ORD-10114,2025-09-04,CUST-1127,Customer 115,South,Kerala,Kochi,Corporate,Technology,Computers,Laptop,195000.0,3,0.0,118075.8,76924.2,0.3945,UPI,Standard,5.0,2025,September,Q3,Profit
+ORD-10847,2025-11-30,CUST-1100,Customer 227,South,Karnataka,Mangaluru,Consumer,Furniture,Seating,Sofa,47600.0,2,0.15,33131.61,14468.39,0.304,Credit Card,First Class,7.0,2025,November,Q4,Profit
+ORD-10987,2023-09-30,CUST-1107,Customer 89,South,Karnataka,Mangaluru,Consumer,Furniture,Seating,Sofa,159600.0,6,0.05,100528.31,59071.69,0.3701,Debit Card,Standard,2.0,2023,September,Q3,Profit
+ORD-10548,2024-08-20,CUST-1089,Customer 145,North,Delhi,Delhi,Consumer,Furniture,Bedroom,Bed,108000.0,4,0.1,83545.08,24454.92,0.2264,Net Banking,First Class,5.0,2024,August,Q3,Profit
+ORD-10358,2024-10-24,CUST-1251,Customer 163,East,Bihar,Patna,Corporate,Technology,Tablets,Tablet,93500.0,5,0.15,73425.01,20074.99,0.2147,Cash,Standard,4.0,2024,October,Q4,Profit
+ORD-10474,2023-03-16,CUST-1211,Customer 176,North,Uttar Pradesh,Agra,Small Business,Technology,Accessories,Monitor,63000.0,5,0.1,47447.51,15552.49,0.2469,Credit Card,Standard,3.0,2023,March,Q1,Profit
+ORD-10110,2023-11-17,CUST-1156,Customer 161,South,Kerala,Kochi,Consumer,Technology,Computers,Laptop,65000.0,1,0.0,54297.44,10702.56,0.1647,Debit Card,Same Day,7.0,2023,November,Q4,Profit
+ORD-10220,2024-03-30,CUST-1090,Customer 16,South,Tamil Nadu,Coimbatore,Consumer,Technology,Phones,Smartphone,28800.0,1,0.1,17234.9,11565.1,0.4016,Cash,Standard,3.0,2024,March,Q1,Profit
+ORD-10047,2024-08-12,CUST-1032,Customer 121,North,Rajasthan,Jodhpur,Corporate,Furniture,Storage,Bookshelf,49875.0,7,0.05,33894.62,15980.38,0.3204,Credit Card,Standard,7.0,2024,August,Q3,Profit
+ORD-10779,2024-10-22,CUST-1288,Customer 149,North,Uttar Pradesh,Kanpur,Consumer,Office Supplies,Writing,Pen Set,810.0,2,0.1,637.77,172.23,0.2126,Credit Card,Second Class,3.0,2024,October,Q4,Profit
+ORD-10652,2024-10-31,CUST-1271,Customer 34,East,West Bengal,Kolkata,Consumer,Furniture,Tables,Dining Table,83600.0,4,0.05,73135.11,10464.89,0.1252,Credit Card,Standard,7.0,2024,October,Q4,Profit
+ORD-10270,2024-12-15,CUST-1194,Customer 53,South,Tamil Nadu,Tiruchirappalli,Corporate,Technology,Phones,Smartphone,64000.0,2,0.0,37893.48,26106.52,0.4079,Cash,Standard,3.0,2024,December,Q4,Profit
+ORD-10902,2024-02-24,CUST-1179,Customer 149,East,Bihar,Patna,Consumer,Furniture,Bedroom,Bed,85500.0,3,0.05,71265.27,14234.73,0.1665,Net Banking,First Class,2.0,2024,February,Q1,Profit
+ORD-10799,2023-08-20,CUST-1068,Customer 79,North,Rajasthan,Jaipur,Corporate,Furniture,Storage,Bookshelf,5625.0,1,0.25,4861.88,763.12,0.1357,Credit Card,Standard,1.0,2023,August,Q3,Profit
+ORD-10728,2025-04-19,CUST-1204,Customer 75,East,West Bengal,Durgapur,Small Business,Office Supplies,Chairs,Office Chair,20800.0,4,0.2,17227.75,3572.25,0.1717,Debit Card,Standard,7.0,2025,April,Q2,Profit
+ORD-10901,2023-10-04,CUST-1025,Customer 61,South,Karnataka,Mysuru,Consumer,Furniture,Seating,Sofa,159600.0,6,0.05,131116.06,28483.94,0.1785,Cash,Second Class,2.0,2023,October,Q4,Profit
+ORD-10871,2024-08-16,CUST-1020,Customer 230,North,Delhi,New Delhi,Consumer,Furniture,Storage,Bookshelf,27000.0,4,0.1,21814.57,5185.43,0.1921,UPI,Same Day,2.0,2024,August,Q3,Profit
+ORD-10130,2024-03-24,CUST-1127,Customer 148,North,Rajasthan,Jodhpur,Corporate,Technology,Printers,Printer,35200.0,4,0.2,28995.72,6204.28,0.1763,Net Banking,Standard,1.0,2024,March,Q1,Profit
+ORD-10302,2024-03-17,CUST-1043,Customer 78,South,Kerala,Thiruvananthapuram,Corporate,Furniture,Tables,Coffee Table,15200.0,2,0.05,11695.45,3504.55,0.2306,UPI,First Class,5.0,2024,March,Q1,Profit
+ORD-10895,2023-08-23,CUST-1185,Customer 133,South,Karnataka,Mysuru,Small Business,Office Supplies,Chairs,Office Chair,32500.0,5,0.0,27122.6,5377.4,0.1655,Cash,Standard,2.0,2023,August,Q3,Profit
+ORD-10127,2025-02-08,CUST-1178,Customer 20,South,Karnataka,Bengaluru,Consumer,Furniture,Storage,Bookshelf,22500.0,3,0.0,18946.93,3553.07,0.1579,Net Banking,First Class,5.0,2025,February,Q1,Profit
+ORD-10711,2024-06-16,CUST-1283,Customer 280,South,Telangana,Hyderabad,Small Business,Furniture,Tables,Dining Table,138600.0,7,0.1,99545.3,39054.7,0.2818,Debit Card,Standard,6.0,2024,June,Q2,Profit
+ORD-10822,2025-01-22,CUST-1002,Customer 57,West,Gujarat,Ahmedabad,Consumer,Furniture,Bedroom,Bed,150000.0,5,0.0,123647.28,26352.72,0.1757,Net Banking,Standard,3.0,2025,January,Q1,Profit
+ORD-10927,2025-05-30,CUST-1003,Customer 295,North,Delhi,New Delhi,Consumer,Office Supplies,Tables,Desk,17100.0,2,0.05,11211.65,5888.35,0.3443,Net Banking,Standard,7.0,2025,May,Q2,Profit
+ORD-10528,2023-07-18,CUST-1067,Customer 196,North,Rajasthan,Udaipur,Consumer,Technology,Printers,Printer,62700.0,6,0.05,42245.97,20454.03,0.3262,UPI,Standard,2.0,2023,July,Q3,Profit
+ORD-10533,2023-11-10,CUST-1066,Customer 58,South,Telangana,Warangal,Consumer,Furniture,Storage,Cabinet,25650.0,3,0.1,22068.32,3581.68,0.1396,Net Banking,Second Class,7.0,2023,November,Q4,Profit
+ORD-10370,2024-04-07,CUST-1014,Customer 237,North,Uttar Pradesh,Lucknow,Consumer,Furniture,Storage,Cabinet,25650.0,3,0.1,15061.72,10588.28,0.4128,UPI,Standard,6.0,2024,April,Q2,Profit
+ORD-10624,2024-04-12,CUST-1043,Customer 144,South,Telangana,Hyderabad,Small Business,Technology,Phones,Smartphone,32000.0,1,0.0,27001.08,4998.92,0.1562,Net Banking,Standard,4.0,2024,April,Q2,Profit
+ORD-10753,2025-07-24,CUST-1249,Customer 165,South,Tamil Nadu,Chennai,Consumer,Furniture,Tables,Coffee Table,45600.0,6,0.05,28142.21,17457.79,0.3828,Debit Card,Standard,6.0,2025,July,Q3,Profit
+ORD-10943,2023-09-02,CUST-1044,Customer 91,South,Kerala,Kochi,Corporate,Office Supplies,Storage,File Folder,250.0,1,0.0,218.16,31.84,0.1274,Debit Card,Standard,6.0,2023,September,Q3,Profit
+ORD-10155,2025-03-03,CUST-1300,Customer 205,South,Tamil Nadu,Coimbatore,Corporate,Office Supplies,Chairs,Office Chair,43225.0,7,0.05,26698.57,16526.43,0.3823,Credit Card,Standard,7.0,2025,March,Q1,Profit
+ORD-10498,2024-10-02,CUST-1180,Customer 262,East,Bihar,Gaya,Consumer,Technology,Tablets,Tablet,104500.0,5,0.05,86062.0,18438.0,0.1764,Credit Card,Standard,5.0,2024,October,Q4,Profit
+ORD-10361,2023-09-13,CUST-1036,Customer 42,South,Kerala,Kozhikode,Small Business,Technology,Printers,Printer,52250.0,5,0.05,36295.04,15954.96,0.3054,Net Banking,Second Class,1.0,2023,September,Q3,Profit
+ORD-10984,2025-09-22,CUST-1022,Customer 37,West,Gujarat,Ahmedabad,Consumer,Furniture,Seating,Sofa,53200.0,2,0.05,39354.24,13845.76,0.2603,UPI,Standard,3.0,2025,September,Q3,Profit
+ORD-10259,2023-07-11,CUST-1037,Customer 191,East,Bihar,Patna,Small Business,Office Supplies,Paper,Notebook,1662.5,5,0.05,1202.07,460.43,0.2769,Cash,Standard,5.0,2023,July,Q3,Profit
+ORD-10108,2024-09-21,CUST-1076,Customer 99,North,Delhi,Delhi,Small Business,Furniture,Tables,Dining Table,99000.0,5,0.1,57803.05,41196.95,0.4161,Debit Card,First Class,5.0,2024,September,Q3,Profit
+ORD-10604,2024-11-09,CUST-1029,Customer 105,West,Gujarat,Vadodara,Consumer,Technology,Tablets,Tablet,41800.0,2,0.05,33241.01,8558.99,0.2048,UPI,Standard,5.0,2024,November,Q4,Profit
+ORD-10168,2025-11-14,CUST-1106,Customer 214,South,Karnataka,Mysuru,Consumer,Furniture,Seating,Sofa,28000.0,1,0.0,23128.57,4871.43,0.174,Cash,Standard,4.0,2025,November,Q4,Profit
+ORD-10320,2023-04-29,CUST-1277,Customer 101,North,Uttar Pradesh,Kanpur,Small Business,Furniture,Storage,Bookshelf,21375.0,3,0.05,15230.76,6144.24,0.2874,Debit Card,Standard,2.0,2023,April,Q2,Profit
+ORD-10049,2024-03-16,CUST-1282,Customer 129,North,Uttar Pradesh,Agra,Consumer,Technology,Phones,Smartphone,168000.0,7,0.25,98129.59,69870.41,0.4159,Credit Card,Standard,3.0,2024,March,Q1,Profit
+ORD-10970,2025-06-17,CUST-1229,Customer 125,South,Kerala,Thiruvananthapuram,Consumer,Furniture,Tables,Coffee Table,44800.0,7,0.2,30312.59,14487.41,0.3234,UPI,First Class,1.0,2025,June,Q2,Profit
+ORD-10467,2024-02-05,CUST-1004,Customer 242,East,West Bengal,Durgapur,Consumer,Technology,Accessories,Headphones,7650.0,2,0.15,5700.47,1949.53,0.2548,Debit Card,First Class,5.0,2024,February,Q1,Profit
+ORD-10513,2023-09-27,CUST-1013,Customer 11,East,West Bengal,Kolkata,Corporate,Office Supplies,Fasteners,Stapler,1710.0,6,0.05,1361.24,348.76,0.204,Net Banking,Standard,2.0,2023,September,Q3,Profit
+ORD-10705,2025-05-04,CUST-1215,Customer 127,West,Maharashtra,Pune,Consumer,Office Supplies,Paper,Notebook,665.0,2,0.05,520.48,144.52,0.2173,Cash,Second Class,5.0,2025,May,Q2,Profit
+ORD-10795,2023-01-26,CUST-1107,Customer 220,West,Maharashtra,Nagpur,Consumer,Technology,Phones,Smartphone,172800.0,6,0.1,118488.63,54311.37,0.3143,Net Banking,First Class,4.0,2023,January,Q1,Profit
+ORD-10058,2024-07-07,CUST-1232,Customer 293,East,West Bengal,Durgapur,Corporate,Technology,Tablets,Tablet,19800.0,1,0.1,15427.12,4372.88,0.2209,Debit Card,Standard,6.0,2024,July,Q3,Profit
+ORD-10437,2025-12-14,CUST-1108,Customer 225,South,Telangana,Hyderabad,Corporate,Furniture,Seating,Sofa,25200.0,1,0.1,16204.41,8995.59,0.357,UPI,Standard,1.0,2025,December,Q4,Profit
+ORD-10481,2025-08-30,CUST-1152,Customer 136,South,Karnataka,Mangaluru,Consumer,Office Supplies,Tables,Desk,21600.0,3,0.2,16235.36,5364.64,0.2484,Debit Card,Same Day,2.0,2025,August,Q3,Profit
+ORD-10776,2025-11-24,CUST-1276,Customer 260,East,Odisha,Bhubaneswar,Consumer,Technology,Accessories,Monitor,66500.0,5,0.05,46416.75,20083.25,0.302,Credit Card,Second Class,6.0,2025,November,Q4,Profit
+ORD-10760,2023-03-30,CUST-1075,Customer 193,South,Kerala,Thiruvananthapuram,Consumer,Technology,Computers,Laptop,308750.0,5,0.05,267573.39,41176.61,0.1334,Cash,Second Class,7.0,2023,March,Q1,Profit
+ORD-10333,2024-06-05,CUST-1127,Customer 12,North,Delhi,New Delhi,Corporate,Office Supplies,Chairs,Office Chair,12350.0,2,0.05,7392.86,4957.14,0.4014,Credit Card,Second Class,6.0,2024,June,Q2,Profit
+ORD-10668,2024-04-01,CUST-1217,Customer 108,North,Uttar Pradesh,Noida,Corporate,Furniture,Bedroom,Bed,85500.0,3,0.05,57819.92,27680.08,0.3237,Cash,First Class,5.0,2024,April,Q2,Profit
+ORD-10599,2023-03-07,CUST-1179,Customer 208,North,Uttar Pradesh,Kanpur,Corporate,Furniture,Tables,Coffee Table,14400.0,2,0.1,11279.76,3120.24,0.2167,Net Banking,Second Class,2.0,2023,March,Q1,Profit
+ORD-10782,2025-09-03,CUST-1188,Customer 89,East,Odisha,Bhubaneswar,Consumer,Furniture,Storage,Bookshelf,42750.0,6,0.05,31250.4,11499.6,0.269,Debit Card,Standard,2.0,2025,September,Q3,Profit
+ORD-10178,2025-04-25,CUST-1200,Customer 227,East,Odisha,Bhubaneswar,Consumer,Office Supplies,Chairs,Office Chair,5200.0,1,0.2,4155.15,1044.85,0.2009,Net Banking,Same Day,5.0,2025,April,Q2,Profit
+ORD-10463,2025-02-01,CUST-1176,Customer 87,South,Tamil Nadu,Salem,Consumer,Office Supplies,Fasteners,Stapler,1140.0,4,0.05,720.85,419.15,0.3677,Net Banking,Standard,4.0,2025,February,Q1,Profit
+ORD-10101,2025-11-01,CUST-1285,Customer 214,North,Uttar Pradesh,Agra,Consumer,Office Supplies,Paper,Notebook,1190.0,4,0.15,950.43,239.57,0.2013,Net Banking,Standard,7.0,2025,November,Q4,Profit
+ORD-10817,2024-12-30,CUST-1159,Customer 12,North,Delhi,New Delhi,Consumer,Furniture,Tables,Dining Table,88000.0,4,0.0,59321.76,28678.24,0.3259,Cash,Standard,3.0,2024,December,Q4,Profit
+ORD-10464,2025-08-28,CUST-1145,Customer 242,North,Delhi,New Delhi,Consumer,Technology,Printers,Printer,77000.0,7,0.0,55555.1,21444.9,0.2785,UPI,Standard,4.0,2025,August,Q3,Profit
+ORD-10959,2024-09-29,CUST-1215,Customer 201,South,Tamil Nadu,Chennai,Consumer,Technology,Phones,Smartphone,212800.0,7,0.05,173014.81,39785.19,0.187,Net Banking,Standard,4.0,2024,September,Q3,Profit
+ORD-10260,2023-01-17,CUST-1045,Customer 25,East,Odisha,Cuttack,Consumer,Technology,Computers,Laptop,65000.0,1,0.0,49986.82,15013.18,0.231,Debit Card,Standard,3.0,2023,January,Q1,Profit
+ORD-10716,2024-01-28,CUST-1087,Customer 220,South,Karnataka,,Consumer,Office Supplies,Chairs,Office Chair,18525.0,3,0.05,12126.12,6398.88,0.3454,UPI,Same Day,4.0,2024,January,Q1,Profit
+ORD-10922,2025-07-02,CUST-1162,Customer 299,East,Odisha,Bhubaneswar,Consumer,Technology,Accessories,Headphones,12825.0,3,0.05,9081.79,3743.21,0.2919,Cash,First Class,7.0,2025,July,Q3,Profit
+ORD-10442,2023-06-11,CUST-1108,Customer 200,East,Bihar,Patna,Small Business,Furniture,Tables,Dining Table,99000.0,5,0.1,74167.62,24832.38,0.2508,Debit Card,Second Class,1.0,2023,June,Q2,Profit
+ORD-10773,2025-05-30,CUST-1079,Customer 86,South,Tamil Nadu,Coimbatore,Small Business,Technology,Phones,Smartphone,121600.0,4,0.05,80895.04,40704.96,0.3347,Debit Card,Standard,4.0,2025,May,Q2,Profit
+ORD-10085,2025-02-08,CUST-1042,Customer 294,North,Delhi,Delhi,Consumer,Office Supplies,Chairs,Office Chair,5200.0,1,0.2,4048.46,1151.54,0.2214,Cash,Standard,2.0,2025,February,Q1,Profit
+ORD-10503,2023-07-07,CUST-1227,Customer 65,East,Bihar,Patna,Corporate,Technology,Accessories,Monitor,71400.0,6,0.15,61391.57,10008.43,0.1402,Net Banking,Standard,2.0,2023,July,Q3,Profit
+ORD-10840,2024-01-17,CUST-1012,Customer 125,South,Kerala,Kozhikode,Consumer,Furniture,Storage,Cabinet,59850.0,7,0.1,46991.89,12858.11,0.2148,Credit Card,Second Class,1.0,2024,January,Q1,Profit
+ORD-10830,2025-05-30,CUST-1297,Customer 23,East,Bihar,Gaya,Consumer,Office Supplies,Storage,File Folder,212.5,1,0.15,167.63,44.87,0.2112,UPI,Standard,,2025,May,Q2,Profit
+ORD-10694,2025-12-25,CUST-1166,Customer 177,North,Uttar Pradesh,Kanpur,Consumer,Office Supplies,Writing,Pen Set,2677.5,7,0.15,1641.79,1035.71,0.3868,UPI,Standard,1.0,2025,December,Q4,Profit
+ORD-10649,2025-11-05,CUST-1072,Customer 287,West,Gujarat,Ahmedabad,Corporate,Furniture,Seating,Sofa,112000.0,5,0.2,81945.5,30054.5,0.2683,Cash,First Class,5.0,2025,November,Q4,Profit
+ORD-10064,2023-12-19,CUST-1229,Customer 174,North,Rajasthan,Jaipur,Corporate,Office Supplies,Storage,File Folder,712.5,3,0.05,520.18,192.32,0.2699,Cash,First Class,4.0,2023,December,Q4,Profit
+ORD-10400,2025-11-02,CUST-1146,Customer 9,North,Delhi,Delhi,Small Business,Furniture,Tables,Coffee Table,20400.0,3,0.15,16722.85,3677.15,0.1803,UPI,Standard,7.0,2025,November,Q4,Profit
+ORD-10133,2023-09-19,CUST-1255,Customer 26,South,Kerala,Thiruvananthapuram,Corporate,Office Supplies,Fasteners,Stapler,600.0,2,0.0,420.49,179.51,0.2992,Debit Card,Standard,2.0,2023,September,Q3,Profit
+ORD-10688,2025-05-11,CUST-1292,Customer 272,North,Delhi,,Consumer,Furniture,Storage,Cabinet,25650.0,3,0.1,15793.79,9856.21,0.3843,Net Banking,Standard,6.0,2025,May,Q2,Profit
+ORD-10601,2025-10-08,CUST-1260,Customer 166,South,Tamil Nadu,Madurai,Small Business,Furniture,Tables,Dining Table,99000.0,5,0.1,83349.38,15650.62,0.1581,Net Banking,First Class,4.0,2025,October,Q4,Profit
+ORD-10818,2023-10-10,CUST-1243,,North,Rajasthan,Jodhpur,Consumer,Office Supplies,Storage,File Folder,1662.5,7,0.05,1281.28,381.22,0.2293,Cash,Second Class,3.0,2023,October,Q4,Profit
+ORD-10475,2023-05-17,CUST-1219,Customer 8,East,Bihar,Patna,Consumer,Office Supplies,Chairs,Office Chair,30875.0,5,0.05,26157.22,4717.78,0.1528,UPI,First Class,6.0,2023,May,Q2,Profit
+ORD-10855,2024-03-31,CUST-1120,Customer 39,South,Tamil Nadu,Chennai,Consumer,Technology,Printers,Printer,35200.0,4,0.2,21717.49,13482.51,0.383,Net Banking,First Class,1.0,2024,March,Q1,Profit
+ORD-10375,2024-04-05,CUST-1210,Customer 63,South,Kerala,Thiruvananthapuram,Consumer,Furniture,Bedroom,Bed,25500.0,1,0.15,19375.1,6124.9,0.2402,Debit Card,First Class,3.0,2024,April,Q2,Profit
+ORD-10958,2024-03-06,CUST-1211,Customer 167,North,Uttar Pradesh,Agra,Consumer,Technology,Printers,Printer,62700.0,6,0.05,38023.81,24676.19,0.3936,Debit Card,Standard,4.0,2024,March,Q1,Profit
+ORD-10997,2023-06-13,CUST-1039,Customer 42,West,Maharashtra,Nagpur,Small Business,Furniture,Storage,Bookshelf,6750.0,1,0.1,5177.34,1572.66,0.233,Debit Card,Standard,7.0,2023,June,Q2,Profit
+ORD-10989,2025-01-31,CUST-1235,Customer 194,North,Delhi,Delhi,Consumer,Technology,Tablets,Tablet,82500.0,5,0.25,63125.56,19374.44,0.2348,Net Banking,First Class,1.0,2025,January,Q1,Profit
+ORD-10385,2023-04-18,CUST-1265,Customer 242,East,West Bengal,Kolkata,Corporate,Office Supplies,Tables,Desk,15300.0,2,0.15,11054.66,4245.34,0.2775,Debit Card,Standard,6.0,2023,April,Q2,Profit
+ORD-10404,2023-08-22,CUST-1167,Customer 173,West,Gujarat,Surat,Corporate,Office Supplies,Writing,Pen Set,810.0,2,0.1,610.34,199.66,0.2465,Net Banking,Standard,5.0,2023,August,Q3,Profit
+ORD-10647,2024-10-10,CUST-1236,Customer 104,East,Bihar,Gaya,Consumer,Furniture,Bedroom,Bed,28500.0,1,0.05,20297.68,8202.32,0.2878,Cash,Second Class,6.0,2024,October,Q4,Profit
+ORD-10553,2023-01-28,CUST-1052,Customer 284,South,Karnataka,Bengaluru,Consumer,Office Supplies,Writing,Pen Set,1800.0,4,0.0,1151.26,648.74,0.3604,Net Banking,Standard,7.0,2023,January,Q1,Profit
+ORD-10065,2023-03-14,CUST-1226,Customer 29,East,Bihar,Patna,Consumer,Office Supplies,Tables,Desk,38250.0,5,0.15,22981.3,15268.7,0.3992,Debit Card,Standard,7.0,2023,March,Q1,Profit
+ORD-10209,2025-03-30,CUST-1116,Customer 84,South,Tamil Nadu,Chennai,Small Business,Technology,Computers,Laptop,409500.0,7,0.1,360083.51,49416.49,0.1207,Cash,Second Class,4.0,2025,March,Q1,Profit
+ORD-10499,2025-03-02,CUST-1066,Customer 248,West,Maharashtra,Nashik,Consumer,Technology,Accessories,Headphones,18000.0,4,0.0,10514.86,7485.14,0.4158,Net Banking,First Class,1.0,2025,March,Q1,Profit
+ORD-10859,2023-04-13,CUST-1082,Customer 287,East,West Bengal,Durgapur,Consumer,Office Supplies,Fasteners,Stapler,270.0,1,0.1,234.83,35.17,0.1303,Credit Card,First Class,1.0,2023,April,Q2,Profit
+ORD-10082,2023-02-27,CUST-1013,Customer 195,South,Karnataka,Bengaluru,Consumer,Furniture,Storage,Bookshelf,31875.0,5,0.15,18498.13,13376.87,0.4197,Net Banking,Standard,3.0,2023,February,Q1,Profit
+ORD-10611,2023-09-25,CUST-1102,Customer 96,South,Kerala,Thiruvananthapuram,Consumer,Furniture,Tables,Dining Table,138600.0,7,0.1,88254.76,50345.24,0.3632,Net Banking,Second Class,5.0,2023,September,Q3,Profit
+ORD-10825,2025-01-18,CUST-1238,Customer 121,East,Odisha,Cuttack,Small Business,Office Supplies,Fasteners,Stapler,285.0,1,0.05,182.12,102.88,0.361,UPI,First Class,1.0,2025,January,Q1,Profit
+ORD-10116,2025-03-10,CUST-1088,Customer 31,East,Odisha,Bhubaneswar,Consumer,Technology,Computers,Laptop,409500.0,7,0.1,284190.43,125309.57,0.306,UPI,Standard,1.0,2025,March,Q1,Profit
+ORD-10960,2023-04-19,CUST-1040,Customer 134,North,Rajasthan,Jodhpur,Corporate,Furniture,Bedroom,Bed,189000.0,7,0.1,157675.95,31324.05,0.1657,Debit Card,Second Class,7.0,2023,April,Q2,Profit
+ORD-10692,2025-06-11,CUST-1093,Customer 171,South,Kerala,Kozhikode,Consumer,Furniture,Bedroom,Bed,189000.0,7,0.1,144849.45,44150.55,0.2336,Net Banking,Same Day,1.0,2025,June,Q2,Profit
+ORD-10595,2023-02-27,CUST-1147,Customer 114,North,Rajasthan,Jodhpur,Consumer,Furniture,Storage,Cabinet,51300.0,6,0.1,42966.41,8333.59,0.1624,Cash,Standard,2.0,2023,February,Q1,Profit
+ORD-10935,2024-03-18,CUST-1298,Customer 26,North,Rajasthan,Jaipur,Corporate,Office Supplies,Paper,Notebook,997.5,3,0.05,777.05,220.45,0.221,Credit Card,Second Class,3.0,2024,March,Q1,Profit
+ORD-10231,2025-11-02,CUST-1239,Customer 283,South,Kerala,Kochi,Consumer,Furniture,Seating,Sofa,53200.0,2,0.05,32880.11,20319.89,0.382,Net Banking,Standard,2.0,2025,November,Q4,Profit
+ORD-10654,2025-07-12,CUST-1144,Customer 113,South,Karnataka,Mangaluru,Consumer,Furniture,Tables,Coffee Table,21600.0,3,0.1,13003.4,8596.6,0.398,Net Banking,Same Day,3.0,2025,July,Q3,Profit
+ORD-10934,2025-07-14,CUST-1186,Customer 288,East,Bihar,Patna,Corporate,Office Supplies,Fasteners,Stapler,1275.0,5,0.15,832.2,442.8,0.3473,Cash,Standard,1.0,2025,July,Q3,Profit
+ORD-10273,2025-02-14,CUST-1042,Customer 287,South,Karnataka,Mangaluru,Corporate,Technology,Printers,Printer,49500.0,5,0.1,37332.58,12167.42,0.2458,UPI,Standard,6.0,2025,February,Q1,Profit
+ORD-10428,2025-12-16,CUST-1068,Customer 204,West,Gujarat,Surat,Consumer,Technology,Phones,Smartphone,27200.0,1,0.15,19723.83,7476.17,0.2749,Cash,Second Class,1.0,2025,December,Q4,Profit
+ORD-10376,2023-10-05,CUST-1017,Customer 175,East,Bihar,Patna,Consumer,Office Supplies,Chairs,Office Chair,26000.0,4,0.0,20763.52,5236.48,0.2014,UPI,Standard,7.0,2023,October,Q4,Profit
+ORD-10978,2023-12-25,CUST-1133,Customer 239,South,Tamil Nadu,Chennai,Corporate,Technology,Accessories,Monitor,23800.0,2,0.15,17570.98,6229.02,0.2617,Net Banking,Standard,2.0,2023,December,Q4,Profit
+ORD-10699,2025-12-06,CUST-1249,Customer 164,South,Tamil Nadu,Madurai,Corporate,Technology,Computers,Laptop,351000.0,6,0.1,223573.87,127426.13,0.363,Credit Card,Standard,7.0,2025,December,Q4,Profit
+ORD-10727,2024-05-15,CUST-1002,Customer 15,East,Bihar,Gaya,Consumer,Office Supplies,Chairs,Office Chair,29250.0,5,0.1,19925.08,9324.92,0.3188,Credit Card,Standard,3.0,2024,May,Q2,Profit
+ORD-10672,2024-04-20,CUST-1199,Customer 191,East,Bihar,Patna,Consumer,Furniture,Storage,Bookshelf,14250.0,2,0.05,12200.96,2049.04,0.1438,Net Banking,Second Class,6.0,2024,April,Q2,Profit
+ORD-10007,2023-10-25,CUST-1008,Customer 146,East,West Bengal,Durgapur,Small Business,Technology,Printers,Printer,9900.0,1,0.1,8057.16,1842.84,0.1861,Debit Card,Standard,,2023,October,Q4,Profit
+ORD-10173,2024-06-20,CUST-1181,Customer 263,East,Bihar,Patna,Consumer,Furniture,Seating,Sofa,126000.0,5,0.1,84713.74,41286.26,0.3277,Cash,Second Class,1.0,2024,June,Q2,Profit
+ORD-10550,2023-10-16,CUST-1072,Customer 141,East,Odisha,Cuttack,Consumer,Furniture,Storage,Bookshelf,13500.0,2,0.1,8770.51,4729.49,0.3503,Cash,Standard,6.0,2023,October,Q4,Profit
+ORD-10373,2023-03-29,CUST-1211,Customer 286,South,Tamil Nadu,Madurai,Corporate,Furniture,Tables,Dining Table,130900.0,7,0.15,79787.12,51112.88,0.3905,Net Banking,Standard,6.0,2023,March,Q1,Profit
+ORD-10594,2024-11-10,CUST-1048,Customer 254,South,Tamil Nadu,Tiruchirappalli,Corporate,Office Supplies,Fasteners,Stapler,1200.0,5,0.2,808.65,391.35,0.3261,UPI,Standard,4.0,2024,November,Q4,Profit
+ORD-10041,2024-10-23,CUST-1244,Customer 247,North,Rajasthan,Jodhpur,Consumer,Furniture,Tables,Coffee Table,21600.0,3,0.1,18032.41,3567.59,0.1652,Cash,Same Day,6.0,2024,October,Q4,Profit
+ORD-10306,2023-05-18,CUST-1095,Customer 21,North,Delhi,New Delhi,Consumer,Technology,Accessories,Headphones,4050.0,1,0.1,3512.9,537.1,0.1326,Net Banking,Standard,6.0,2023,May,Q2,Profit
+ORD-10725,2023-05-22,CUST-1082,Customer 190,North,Uttar Pradesh,Kanpur,Consumer,Furniture,Tables,Coffee Table,22800.0,3,0.05,14829.72,7970.28,0.3496,Debit Card,Second Class,2.0,2023,May,Q2,Profit
+ORD-10308,2024-01-03,CUST-1071,Customer 15,North,Delhi,Delhi,Small Business,Furniture,Storage,Cabinet,66500.0,7,0.0,50641.54,15858.46,0.2385,UPI,Second Class,1.0,2024,January,Q1,Profit
+ORD-10018,2025-09-10,CUST-1135,Customer 99,West,Gujarat,Vadodara,Corporate,Furniture,Tables,Dining Table,83600.0,4,0.05,51067.29,32532.71,0.3891,Cash,Standard,3.0,2025,September,Q3,Profit
+ORD-10865,2024-03-06,CUST-1270,Customer 201,North,Delhi,New Delhi,Corporate,Office Supplies,Paper,Notebook,2450.0,7,0.0,1813.9,636.1,0.2596,UPI,Standard,5.0,2024,March,Q1,Profit
+ORD-10994,2024-05-31,CUST-1282,Customer 28,South,Tamil Nadu,Salem,Corporate,Furniture,Tables,Coffee Table,15200.0,2,0.05,11514.23,3685.77,0.2425,UPI,First Class,1.0,2024,May,Q2,Profit
+ORD-10192,2024-10-03,CUST-1281,Customer 158,North,Rajasthan,Udaipur,Small Business,Furniture,Storage,Cabinet,51300.0,6,0.1,34853.51,16446.49,0.3206,Cash,Standard,1.0,2024,October,Q4,Profit
+ORD-10527,2025-08-01,CUST-1162,Customer 235,North,Delhi,New Delhi,Small Business,Technology,Accessories,Headphones,10800.0,3,0.2,8726.42,2073.58,0.192,Debit Card,Standard,6.0,2025,August,Q3,Profit
+ORD-10519,2024-08-18,CUST-1035,Customer 206,East,West Bengal,Kolkata,Corporate,Office Supplies,Storage,File Folder,1350.0,6,0.1,886.76,463.24,0.3431,Credit Card,Standard,3.0,2024,August,Q3,Profit
+ORD-10754,2024-04-09,CUST-1267,Customer 61,West,Maharashtra,Pune,Consumer,Technology,Printers,Printer,44000.0,5,0.2,26451.07,17548.93,0.3988,Cash,Standard,4.0,2024,April,Q2,Profit
+ORD-10772,2025-12-21,CUST-1176,Customer 145,West,Gujarat,Vadodara,Small Business,Technology,Accessories,Monitor,88200.0,7,0.1,56427.35,31772.65,0.3602,Credit Card,Standard,3.0,2025,December,Q4,Profit
+ORD-10438,2024-05-14,CUST-1178,Customer 202,East,West Bengal,Kolkata,Consumer,Furniture,Storage,Cabinet,42750.0,5,0.1,34314.63,8435.37,0.1973,Debit Card,Standard,1.0,2024,May,Q2,Profit
+ORD-10019,2024-01-13,CUST-1129,Customer 278,West,Maharashtra,Pune,Corporate,Office Supplies,Storage,File Folder,1000.0,4,0.0,617.79,382.21,0.3822,Credit Card,Standard,4.0,2024,January,Q1,Profit
+ORD-10033,2025-09-19,CUST-1200,Customer 226,South,Tamil Nadu,Tiruchirappalli,Corporate,Technology,Printers,Printer,28050.0,3,0.15,22095.16,5954.84,0.2123,Cash,Standard,6.0,2025,September,Q3,Profit
+ORD-10054,2024-04-03,CUST-1180,Customer 210,East,Bihar,Patna,Consumer,Office Supplies,Tables,Desk,30600.0,4,0.15,21662.34,8937.66,0.2921,Debit Card,Standard,2.0,2024,April,Q2,Profit
+ORD-10566,2025-12-25,CUST-1123,Customer 85,North,Uttar Pradesh,Kanpur,Consumer,Technology,Phones,Smartphone,108800.0,4,0.15,66662.2,42137.8,0.3873,Cash,Standard,6.0,2025,December,Q4,Profit
+ORD-10422,2025-05-20,CUST-1235,Customer 240,South,Kerala,Kozhikode,Consumer,Furniture,Tables,Coffee Table,53200.0,7,0.05,44894.44,8305.56,0.1561,Debit Card,Standard,5.0,2025,May,Q2,Profit
+ORD-10803,2023-05-12,CUST-1169,Customer 150,East,West Bengal,Kolkata,Consumer,Office Supplies,Paper,Notebook,630.0,2,0.1,550.86,79.14,0.1256,Net Banking,First Class,2.0,2023,May,Q2,Profit
+ORD-10823,2025-05-16,CUST-1244,Customer 203,West,Gujarat,Ahmedabad,Corporate,Office Supplies,Writing,Pen Set,2565.0,6,0.05,1781.74,783.26,0.3054,UPI,Second Class,4.0,2025,May,Q2,Profit
+ORD-10909,2025-11-30,CUST-1297,Customer 270,North,Uttar Pradesh,Noida,Consumer,Technology,Computers,Laptop,208000.0,4,0.2,142915.7,65084.3,0.3129,Cash,Standard,1.0,2025,November,Q4,Profit
+ORD-10454,2023-01-19,CUST-1271,Customer 40,South,Telangana,Warangal,Consumer,Technology,Printers,Printer,18700.0,2,0.15,13727.9,4972.1,0.2659,Cash,First Class,2.0,2023,January,Q1,Profit
+ORD-10905,2023-03-14,CUST-1300,Customer 82,West,Maharashtra,Nashik,Small Business,Technology,Phones,Smartphone,72000.0,3,0.25,50440.53,21559.47,0.2994,UPI,Standard,6.0,2023,March,Q1,Profit
+ORD-10079,2023-03-08,CUST-1218,Customer 232,South,Karnataka,Mysuru,Consumer,Technology,Printers,Printer,19800.0,2,0.1,15521.02,4278.98,0.2161,Debit Card,Standard,5.0,2023,March,Q1,Profit
+ORD-10718,2023-07-29,CUST-1182,Customer 23,South,Tamil Nadu,Tiruchirappalli,Consumer,Technology,Tablets,Tablet,41800.0,2,0.05,36685.38,5114.62,0.1224,UPI,Second Class,7.0,2023,July,Q3,Profit
+ORD-10570,2024-09-28,CUST-1087,Customer 240,West,Maharashtra,Nashik,Corporate,Office Supplies,Paper,Notebook,892.5,3,0.15,752.06,140.44,0.1574,Net Banking,Standard,3.0,2024,September,Q3,Profit
+ORD-10043,2024-02-23,CUST-1283,Customer 210,North,Uttar Pradesh,Agra,Consumer,Technology,Printers,Printer,39600.0,4,0.1,31689.72,7910.28,0.1998,UPI,Standard,3.0,2024,February,Q1,Profit
+ORD-10237,2024-11-02,CUST-1216,Customer 103,North,Rajasthan,Jodhpur,Corporate,Technology,Computers,Laptop,292500.0,5,0.1,218120.13,74379.87,0.2543,Debit Card,Standard,4.0,2024,November,Q4,Profit
+ORD-10676,2025-09-07,CUST-1276,Customer 175,North,Rajasthan,Udaipur,Consumer,Furniture,Tables,Coffee Table,15200.0,2,0.05,10725.25,4474.75,0.2944,UPI,Same Day,5.0,2025,September,Q3,Profit
+ORD-10028,2024-06-14,CUST-1242,Customer 251,East,Bihar,Gaya,Consumer,Office Supplies,Fasteners,Stapler,255.0,1,0.15,191.91,63.09,0.2474,Credit Card,Standard,1.0,2024,June,Q2,Profit
+ORD-10587,2025-01-13,CUST-1053,Customer 204,South,Karnataka,Bengaluru,Corporate,Furniture,Tables,Dining Table,66000.0,3,0.0,40998.54,25001.46,0.3788,,Standard,3.0,2025,January,Q1,Profit
+ORD-10919,2024-02-25,CUST-1300,Customer 238,North,Uttar Pradesh,Noida,Corporate,Technology,Accessories,Headphones,29925.0,7,0.05,26040.18,3884.82,0.1298,Debit Card,First Class,5.0,2024,February,Q1,Profit
+ORD-10026,2023-02-19,CUST-1145,Customer 233,West,Maharashtra,Nagpur,Corporate,Technology,Computers,Laptop,370500.0,6,0.05,281930.14,88569.86,0.2391,Credit Card,Second Class,3.0,2023,February,Q1,Profit
+ORD-10593,2025-09-27,CUST-1154,Customer 123,East,Bihar,Gaya,Consumer,Furniture,Storage,Cabinet,54150.0,6,0.05,46770.7,7379.3,0.1363,Credit Card,Standard,2.0,2025,September,Q3,Profit
+ORD-10908,2025-04-26,CUST-1246,Customer 280,West,Maharashtra,Mumbai,Consumer,Office Supplies,Tables,Desk,7650.0,1,0.15,6155.87,1494.13,0.1953,Cash,Standard,3.0,2025,April,Q2,Profit
+ORD-10746,2024-09-24,CUST-1024,Customer 71,West,Maharashtra,Mumbai,Consumer,Furniture,Seating,Sofa,142800.0,6,0.15,95575.34,47224.66,0.3307,UPI,Second Class,6.0,2024,September,Q3,Profit
+ORD-10345,2023-04-23,CUST-1191,Customer 290,West,Gujarat,Ahmedabad,Consumer,Office Supplies,Storage,File Folder,1000.0,5,0.2,773.67,226.33,0.2263,UPI,Standard,1.0,2023,April,Q2,Profit
+ORD-10747,2025-02-25,CUST-1028,Customer 103,North,Uttar Pradesh,Noida,Small Business,Technology,Accessories,Monitor,14000.0,1,0.0,9371.88,4628.12,0.3306,Net Banking,First Class,2.0,2025,February,Q1,Profit
+ORD-10288,2023-03-28,CUST-1145,Customer 279,South,Telangana,Hyderabad,Consumer,Office Supplies,Tables,Desk,30600.0,4,0.15,18248.91,12351.09,0.4036,Net Banking,Second Class,4.0,2023,March,Q1,Profit
+ORD-10215,2024-04-27,CUST-1273,Customer 222,South,Kerala,Kozhikode,Consumer,Furniture,Tables,Coffee Table,21600.0,3,0.1,15216.07,6383.93,0.2956,Cash,Second Class,3.0,2024,April,Q2,Profit
+ORD-10135,2023-05-23,CUST-1240,Customer 225,North,Delhi,Delhi,Corporate,Technology,Phones,Smartphone,152000.0,5,0.05,119267.94,32732.06,0.2153,Cash,First Class,1.0,2023,May,Q2,Profit
+ORD-10106,2023-12-14,CUST-1250,Customer 267,East,Bihar,Patna,Consumer,Office Supplies,Chairs,Office Chair,29250.0,5,0.1,20094.13,9155.87,0.313,Net Banking,Standard,2.0,2023,December,Q4,Profit
+ORD-10008,2025-08-09,CUST-1292,Customer 72,South,Kerala,Kochi,Consumer,Technology,Accessories,Monitor,44800.0,4,0.2,26201.73,18598.27,0.4151,Credit Card,Second Class,6.0,2025,August,Q3,Profit
+ORD-10126,2023-12-07,CUST-1181,Customer 180,East,Bihar,Patna,Small Business,Technology,Accessories,Monitor,39900.0,3,0.05,29508.51,10391.49,0.2604,Credit Card,Standard,6.0,2023,December,Q4,Profit
+ORD-10562,2025-04-21,CUST-1243,Customer 23,East,West Bengal,Durgapur,Corporate,Office Supplies,Storage,File Folder,1200.0,6,0.2,831.6,368.4,0.307,Credit Card,Standard,6.0,2025,April,Q2,Profit
+ORD-10417,2025-11-09,CUST-1158,Customer 255,South,Telangana,Warangal,Small Business,Office Supplies,Paper,Notebook,1330.0,4,0.05,1040.91,289.09,0.2174,Cash,Second Class,7.0,2025,November,Q4,Profit
+ORD-10764,2023-08-10,CUST-1215,Customer 10,East,West Bengal,Durgapur,Small Business,Technology,Printers,Printer,29700.0,3,0.1,24834.63,4865.37,0.1638,Net Banking,Standard,4.0,2023,August,Q3,Profit
+ORD-10367,2025-02-08,CUST-1285,Customer 136,West,Gujarat,Ahmedabad,Consumer,Technology,Printers,Printer,37400.0,4,0.15,26301.05,11098.95,0.2968,UPI,Standard,6.0,2025,February,Q1,Profit
+ORD-10693,2023-09-29,CUST-1102,Customer 295,East,Bihar,Patna,Corporate,Technology,Computers,Laptop,364000.0,7,0.2,289604.02,74395.98,0.2044,Net Banking,First Class,4.0,2023,September,Q3,Profit
+ORD-10836,2023-12-07,CUST-1140,Customer 134,West,Maharashtra,Nagpur,Consumer,Technology,Printers,Printer,31350.0,3,0.05,19877.39,11472.61,0.366,Debit Card,Same Day,4.0,2023,December,Q4,Profit
+ORD-10789,2023-11-28,CUST-1080,Customer 149,West,Maharashtra,Mumbai,Small Business,Technology,Accessories,Monitor,67200.0,6,0.2,46583.64,20616.36,0.3068,Credit Card,Second Class,4.0,2023,November,Q4,Profit
+ORD-10567,2025-04-21,CUST-1176,Customer 109,North,Rajasthan,Jaipur,Consumer,Furniture,Seating,Sofa,106400.0,4,0.05,69645.39,36754.61,0.3454,UPI,Standard,1.0,2025,April,Q2,Profit
+ORD-10549,2025-10-11,CUST-1252,Customer 130,East,West Bengal,Kolkata,Corporate,Office Supplies,Tables,Desk,25650.0,3,0.05,20611.43,5038.57,0.1964,Credit Card,Standard,5.0,2025,October,Q4,Profit
+ORD-10200,2023-07-09,CUST-1121,Customer 18,East,West Bengal,Kolkata,Corporate,Furniture,Tables,Coffee Table,43200.0,6,0.1,26617.0,16583.0,0.3839,Credit Card,Standard,6.0,2023,July,Q3,Profit
+ORD-10542,2023-06-10,CUST-1091,Customer 240,East,Odisha,Cuttack,Corporate,Furniture,Storage,Bookshelf,28500.0,4,0.05,22765.6,5734.4,0.2012,Cash,Standard,5.0,2023,June,Q2,Profit
+ORD-10419,2025-10-10,CUST-1167,Customer 213,South,Tamil Nadu,Tiruchirappalli,Consumer,Furniture,Storage,Cabinet,42750.0,5,0.1,26500.85,16249.15,0.3801,Debit Card,Standard,6.0,2025,October,Q4,Profit
+ORD-10300,2024-06-23,CUST-1097,Customer 191,South,Kerala,Thiruvananthapuram,Consumer,Office Supplies,Storage,File Folder,712.5,3,0.05,531.81,180.69,0.2536,Debit Card,Standard,1.0,2024,June,Q2,Profit
+ORD-10120,2025-01-07,CUST-1254,Customer 27,East,West Bengal,Durgapur,Consumer,Technology,Printers,Printer,66000.0,6,0.0,40160.31,25839.69,0.3915,Cash,Same Day,7.0,2025,January,Q1,Profit
+ORD-10460,2025-04-10,CUST-1051,Customer 298,East,Bihar,Patna,Small Business,Furniture,Tables,Dining Table,19800.0,1,0.1,11626.24,8173.76,0.4128,Net Banking,Standard,5.0,2025,April,Q2,Profit
+ORD-10081,2024-01-16,CUST-1161,Customer 29,East,Bihar,Patna,Consumer,Technology,Accessories,Monitor,67200.0,6,0.2,44939.81,22260.19,0.3313,Debit Card,Standard,3.0,2024,January,Q1,Profit
+ORD-10501,2025-03-19,CUST-1022,Customer 121,South,Telangana,Hyderabad,Consumer,Furniture,Tables,Dining Table,20900.0,1,0.05,16315.86,4584.14,0.2193,Cash,Standard,3.0,2025,March,Q1,Profit
+ORD-10272,2025-03-12,CUST-1266,Customer 267,North,Rajasthan,Udaipur,Small Business,Office Supplies,Fasteners,Stapler,1785.0,7,0.15,1311.77,473.23,0.2651,Net Banking,Standard,3.0,2025,March,Q1,Profit
+ORD-10479,2023-05-18,CUST-1024,Customer 49,East,West Bengal,Kolkata,Consumer,Office Supplies,Storage,File Folder,750.0,4,0.25,603.72,146.28,0.195,Cash,Standard,3.0,2023,May,Q2,Profit
+ORD-10225,2023-09-03,CUST-1059,Customer 178,East,Bihar,Gaya,Consumer,Technology,Computers,Laptop,110500.0,2,0.15,69109.98,41390.02,0.3746,UPI,Standard,1.0,2023,September,Q3,Profit
+ORD-10212,2024-02-26,CUST-1001,Customer 11,East,Bihar,Gaya,Corporate,Furniture,Storage,Bookshelf,12000.0,2,0.2,8402.54,3597.46,0.2998,Net Banking,Standard,4.0,2024,February,Q1,Profit
+ORD-10554,2025-08-11,CUST-1289,Customer 143,South,Kerala,Kozhikode,Corporate,Technology,Accessories,Monitor,37800.0,3,0.1,30807.61,6992.39,0.185,UPI,Standard,6.0,2025,August,Q3,Profit
+ORD-10397,2025-12-25,CUST-1047,Customer 189,South,Karnataka,Bengaluru,Consumer,Furniture,Bedroom,Bed,135000.0,6,0.25,94891.75,40108.25,0.2971,Cash,Standard,4.0,2025,December,Q4,Profit
+ORD-10435,2023-12-02,CUST-1106,Customer 201,West,Gujarat,Ahmedabad,Corporate,Technology,Tablets,Tablet,62700.0,3,0.05,46776.8,15923.2,0.254,UPI,Standard,2.0,2023,December,Q4,Profit
+ORD-10607,2024-12-09,CUST-1203,Customer 300,South,Tamil Nadu,Madurai,Small Business,Office Supplies,Storage,File Folder,1250.0,5,0.0,868.77,381.23,0.305,Debit Card,Same Day,3.0,2024,December,Q4,Profit
+ORD-10268,2023-08-20,CUST-1068,Customer 182,South,Telangana,Warangal,Consumer,Office Supplies,Storage,File Folder,225.0,1,0.1,142.46,82.54,0.3669,Debit Card,Second Class,7.0,2023,August,Q3,Profit
+ORD-10801,2024-05-19,CUST-1180,Customer 124,West,Maharashtra,Nagpur,Consumer,Furniture,Tables,Dining Table,130900.0,7,0.15,105905.27,24994.73,0.1909,Debit Card,Standard,1.0,2024,May,Q2,Profit
+ORD-10912,2023-12-26,CUST-1031,Customer 24,South,Karnataka,Bengaluru,Consumer,Furniture,Storage,Bookshelf,30000.0,4,0.0,24144.32,5855.68,0.1952,UPI,Standard,6.0,2023,December,Q4,Profit
+ORD-10349,2024-05-11,CUST-1017,Customer 214,North,Delhi,Delhi,Consumer,Office Supplies,Tables,Desk,38250.0,5,0.15,25588.63,12661.37,0.331,Cash,Standard,2.0,2024,May,Q2,Profit
+ORD-10873,2024-02-16,CUST-1112,Customer 259,South,Karnataka,Mangaluru,Corporate,Furniture,Tables,Coffee Table,12800.0,2,0.2,11079.92,1720.08,0.1344,UPI,Second Class,1.0,2024,February,Q1,Profit
+ORD-10756,2023-09-22,CUST-1218,Customer 286,East,Bihar,Gaya,Small Business,Technology,Tablets,Tablet,33000.0,2,0.25,21022.27,11977.73,0.363,Net Banking,First Class,4.0,2023,September,Q3,Profit
+ORD-10301,2024-07-16,CUST-1221,Customer 181,South,Kerala,Kozhikode,Small Business,Technology,Accessories,Headphones,29925.0,7,0.05,24771.31,5153.69,0.1722,Cash,Standard,7.0,2024,July,Q3,Profit
+ORD-10434,2024-06-09,CUST-1140,Customer 258,East,West Bengal,Durgapur,Consumer,Furniture,Tables,Coffee Table,28800.0,4,0.1,20779.83,8020.17,0.2785,Net Banking,Standard,2.0,2024,June,Q2,Profit
+ORD-10482,2023-09-11,CUST-1259,Customer 219,West,Gujarat,Vadodara,Consumer,Furniture,Storage,Cabinet,8550.0,1,0.1,5422.71,3127.29,0.3658,Debit Card,Same Day,6.0,2023,September,Q3,Profit
+ORD-10387,2023-12-28,CUST-1188,Customer 112,East,West Bengal,Durgapur,Corporate,Furniture,Tables,Dining Table,18700.0,1,0.15,11254.04,7445.96,0.3982,UPI,Standard,6.0,2023,December,Q4,Profit
+ORD-10016,2024-06-04,CUST-1020,Customer 26,North,Delhi,New Delhi,Corporate,Technology,Accessories,Headphones,12150.0,3,0.1,7969.28,4180.72,0.3441,Debit Card,Standard,1.0,2024,June,Q2,Profit
+ORD-10826,2024-10-14,CUST-1059,Customer 226,South,Karnataka,Mysuru,Consumer,Office Supplies,Tables,Desk,53550.0,7,0.15,34874.17,18675.83,0.3488,Net Banking,First Class,4.0,2024,October,Q4,Profit
+ORD-10899,2023-08-11,CUST-1003,Customer 213,West,Maharashtra,Nashik,Consumer,Technology,Computers,Laptop,351000.0,6,0.1,269204.05,81795.95,0.233,Net Banking,Standard,6.0,2023,August,Q3,Profit
+ORD-10878,2025-08-16,CUST-1008,Customer 271,East,Odisha,Cuttack,Corporate,Office Supplies,Chairs,Office Chair,19500.0,3,0.0,12813.82,6686.18,0.3429,Credit Card,Second Class,3.0,2025,August,Q3,Profit
+ORD-10102,2024-10-18,CUST-1259,Customer 215,North,Rajasthan,Udaipur,Corporate,Technology,Accessories,Headphones,4050.0,1,0.1,3296.48,753.52,0.1861,Debit Card,First Class,1.0,2024,October,Q4,Profit
+ORD-10439,2025-06-18,CUST-1298,Customer 226,West,Gujarat,Vadodara,Consumer,Office Supplies,Fasteners,Stapler,570.0,2,0.05,334.91,235.09,0.4124,Net Banking,Standard,1.0,2025,June,Q2,Profit
+ORD-10757,2023-11-16,CUST-1115,Customer 153,South,Kerala,Kozhikode,Consumer,Office Supplies,Writing,Pen Set,2992.5,7,0.05,2472.93,519.57,0.1736,UPI,Standard,7.0,2023,November,Q4,Profit
+ORD-10803,2023-05-12,CUST-1169,Customer 150,East,West Bengal,Kolkata,Consumer,Office Supplies,Paper,Notebook,630.0,2,0.1,550.86,79.14,0.1256,Net Banking,First Class,2.0,2023,May,Q2,Profit
+ORD-10421,2025-04-01,CUST-1194,Customer 206,East,Bihar,Patna,Small Business,Furniture,Storage,Bookshelf,31875.0,5,0.15,27564.92,4310.08,0.1352,Debit Card,Standard,5.0,2025,April,Q2,Profit
+ORD-10289,2023-02-12,CUST-1069,Customer 59,East,Bihar,Gaya,Corporate,Office Supplies,Chairs,Office Chair,15600.0,3,0.2,11853.48,3746.52,0.2402,Cash,Second Class,2.0,2023,February,Q1,Profit
+ORD-10945,2024-04-29,CUST-1181,Customer 290,East,Odisha,Cuttack,Consumer,Office Supplies,Chairs,Office Chair,33150.0,6,0.15,22624.62,10525.38,0.3175,UPI,Standard,5.0,2024,April,Q2,Profit
+ORD-10031,2023-05-26,CUST-1266,Customer 52,East,Bihar,Gaya,Consumer,Furniture,Seating,Sofa,186200.0,7,0.05,150928.95,35271.05,0.1894,Debit Card,Standard,1.0,2023,May,Q2,Profit
+ORD-10883,2023-07-29,CUST-1045,Customer 57,North,Rajasthan,Jodhpur,Consumer,Technology,Phones,Smartphone,51200.0,2,0.2,36205.11,14994.89,0.2929,Credit Card,Standard,3.0,2023,July,Q3,Profit
+ORD-10965,2024-11-04,CUST-1170,Customer 7,South,Tamil Nadu,Chennai,Small Business,Furniture,Tables,Dining Table,118800.0,6,0.1,87983.79,30816.21,0.2594,Credit Card,Standard,2.0,2024,November,Q4,Profit
+ORD-10144,2023-05-14,CUST-1237,Customer 205,West,Maharashtra,Nashik,Small Business,Technology,Accessories,Headphones,14400.0,4,0.2,12122.75,2277.25,0.1581,UPI,Standard,3.0,2023,May,Q2,Profit
+ORD-10267,2023-08-30,CUST-1117,Customer 227,North,Rajasthan,Jodhpur,Corporate,Technology,Printers,Printer,31350.0,3,0.05,27314.69,4035.31,0.1287,Cash,First Class,6.0,2023,August,Q3,Profit
+ORD-10254,2023-01-21,CUST-1151,Customer 273,East,Bihar,Gaya,Consumer,Furniture,Seating,Sofa,63000.0,3,0.25,54297.85,8702.15,0.1381,Net Banking,First Class,5.0,2023,January,Q1,Profit
+ORD-10634,2025-07-17,CUST-1230,Customer 137,East,West Bengal,Durgapur,Consumer,Technology,Accessories,Headphones,4500.0,1,0.0,2945.87,1554.13,0.3454,Cash,Standard,1.0,2025,July,Q3,Profit
+ORD-10820,2024-03-16,CUST-1049,Customer 296,East,West Bengal,Durgapur,Consumer,Technology,Tablets,Tablet,59400.0,3,0.1,37098.39,22301.61,0.3754,Credit Card,Standard,5.0,2024,March,Q1,Profit
+ORD-10575,2023-08-31,CUST-1156,Customer 47,North,Uttar Pradesh,Agra,Consumer,Office Supplies,Tables,Desk,25650.0,3,0.05,16005.82,9644.18,0.376,Cash,First Class,6.0,2023,August,Q3,Profit
+ORD-10175,2023-05-08,CUST-1071,Customer 90,East,Bihar,Gaya,Consumer,Furniture,Seating,Sofa,140000.0,5,0.0,118913.28,21086.72,0.1506,Cash,Same Day,2.0,2023,May,Q2,Profit
+ORD-10719,2024-10-07,CUST-1125,Customer 83,South,Tamil Nadu,Tiruchirappalli,Consumer,Technology,Accessories,Headphones,28350.0,7,0.1,23736.3,4613.7,0.1627,Credit Card,Standard,3.0,2024,October,Q4,Profit
+ORD-10888,2024-10-28,CUST-1126,Customer 88,North,Delhi,Delhi,Small Business,Furniture,Tables,Coffee Table,36000.0,5,0.1,24677.82,11322.18,0.3145,Net Banking,Standard,4.0,2024,October,Q4,Profit
+ORD-10293,2023-05-28,CUST-1296,Customer 136,East,Bihar,Patna,Corporate,Office Supplies,Tables,Desk,14400.0,2,0.2,10263.93,4136.07,0.2872,Net Banking,Standard,1.0,2023,May,Q2,Profit
+ORD-10848,2024-02-01,CUST-1146,Customer 106,South,Karnataka,Mangaluru,Small Business,Technology,Phones,Smartphone,81600.0,3,0.15,49300.62,32299.38,0.3958,Debit Card,Standard,7.0,2024,February,Q1,Profit
+ORD-10802,2023-06-28,CUST-1181,,West,Maharashtra,Nagpur,Corporate,Furniture,Seating,Sofa,196000.0,7,0.0,120070.53,75929.47,0.3874,Net Banking,Second Class,5.0,2023,June,Q2,Profit
+ORD-10456,2025-01-09,CUST-1178,Customer 197,North,Rajasthan,Udaipur,Consumer,Technology,Computers,Laptop,455000.0,7,0.0,264782.38,190217.62,0.4181,Credit Card,Standard,1.0,2025,January,Q1,Profit
+ORD-10683,2023-10-06,CUST-1271,Customer 275,South,Karnataka,Mysuru,Consumer,Technology,Accessories,Headphones,12825.0,3,0.05,7901.6,4923.4,0.3839,Cash,Standard,2.0,2023,October,Q4,Profit
+ORD-10613,2024-05-22,CUST-1066,Customer 224,North,Uttar Pradesh,Kanpur,Small Business,Technology,Phones,Smartphone,172800.0,6,0.1,126720.13,46079.87,0.2667,Cash,Standard,7.0,2024,May,Q2,Profit
+ORD-10327,2024-01-09,CUST-1237,Customer 226,South,Telangana,Hyderabad,Consumer,Office Supplies,Storage,File Folder,1062.5,5,0.15,779.36,283.14,0.2665,Cash,Second Class,3.0,2024,January,Q1,Profit
+ORD-10713,2025-08-06,CUST-1025,Customer 12,South,Kerala,Kozhikode,Corporate,Office Supplies,Writing,Pen Set,1800.0,4,0.0,1304.95,495.05,0.275,Net Banking,Standard,3.0,2025,August,Q3,Profit
+ORD-10095,2024-09-09,CUST-1018,Customer 168,North,Uttar Pradesh,Kanpur,Corporate,Technology,Computers,Laptop,58500.0,1,0.1,35587.05,22912.95,0.3917,UPI,Standard,3.0,2024,September,Q3,Profit
+ORD-10572,2023-12-10,CUST-1016,Customer 156,East,Odisha,Bhubaneswar,Consumer,Furniture,Storage,Bookshelf,14250.0,2,0.05,11935.93,2314.07,0.1624,Net Banking,First Class,3.0,2023,December,Q4,Profit
+ORD-10779,2024-10-22,CUST-1288,Customer 149,North,Uttar Pradesh,Kanpur,Consumer,Office Supplies,Writing,Pen Set,810.0,2,0.1,637.77,172.23,0.2126,Credit Card,Second Class,3.0,2024,October,Q4,Profit
+ORD-10720,2023-08-07,CUST-1067,Customer 229,West,Maharashtra,Nagpur,Corporate,Office Supplies,Tables,Desk,24300.0,3,0.1,14803.8,9496.2,0.3908,Credit Card,Standard,6.0,2023,August,Q3,Profit
+ORD-10470,2025-12-06,CUST-1088,Customer 190,West,Maharashtra,Nashik,Consumer,Office Supplies,Storage,File Folder,712.5,3,0.05,604.89,107.61,0.151,Net Banking,Standard,2.0,2025,December,Q4,Profit
+ORD-10494,2024-09-29,CUST-1241,Customer 205,South,Kerala,Kozhikode,Small Business,Furniture,Tables,Coffee Table,13600.0,2,0.15,10001.76,3598.24,0.2646,Net Banking,Second Class,5.0,2024,September,Q3,Profit
+ORD-10369,2023-08-01,CUST-1152,Customer 118,East,Bihar,Gaya,Consumer,Furniture,Storage,Cabinet,18050.0,2,0.05,12718.62,5331.38,0.2954,Net Banking,Second Class,6.0,2023,August,Q3,Profit
+ORD-10858,2024-08-24,CUST-1260,Customer 52,North,Rajasthan,Jodhpur,Consumer,Furniture,Seating,Sofa,75600.0,3,0.1,47515.23,28084.77,0.3715,Debit Card,Standard,7.0,2024,August,Q3,Profit
+ORD-10344,2024-11-16,CUST-1118,Customer 280,West,Gujarat,Ahmedabad,Small Business,Furniture,Storage,Bookshelf,24000.0,4,0.2,17817.14,6182.86,0.2576,Credit Card,Second Class,6.0,2024,November,Q4,Profit
+ORD-10351,2025-07-31,CUST-1258,Customer 24,East,Odisha,Bhubaneswar,Corporate,Office Supplies,Chairs,Office Chair,6175.0,1,0.05,3896.22,2278.78,0.369,UPI,Standard,2.0,2025,July,Q3,Profit
+ORD-10736,2024-09-05,CUST-1251,Customer 81,East,West Bengal,Kolkata,Corporate,Technology,Tablets,Tablet,18700.0,1,0.15,12480.54,6219.46,0.3326,,Standard,4.0,2024,September,Q3,Profit
+ORD-10768,2024-05-28,CUST-1007,Customer 195,West,Maharashtra,Nashik,Consumer,Furniture,Storage,Cabinet,34200.0,4,0.1,29427.0,4773.0,0.1396,UPI,Standard,4.0,2024,May,Q2,Profit
+ORD-10703,2023-01-01,CUST-1029,Customer 24,East,West Bengal,,Small Business,Technology,Computers,Laptop,208000.0,4,0.2,141933.65,66066.35,0.3176,Credit Card,First Class,6.0,2023,January,Q1,Profit
+ORD-10715,2024-07-04,CUST-1129,Customer 228,North,Uttar Pradesh,Kanpur,Consumer,Furniture,Storage,Cabinet,8550.0,1,0.1,6894.47,1655.53,0.1936,UPI,Second Class,7.0,2024,July,Q3,Profit
+ORD-10581,2024-06-15,CUST-1148,Customer 119,North,Uttar Pradesh,Noida,Consumer,Furniture,Bedroom,Bed,51000.0,2,0.15,39459.59,11540.41,0.2263,Debit Card,Standard,3.0,2024,June,Q2,Profit
+ORD-10136,2023-12-08,CUST-1228,Customer 1,West,Gujarat,Surat,Corporate,Technology,Accessories,Monitor,39900.0,3,0.05,26915.42,12984.58,0.3254,Credit Card,First Class,4.0,2023,December,Q4,Profit
+ORD-10800,2024-06-16,CUST-1292,Customer 86,West,Maharashtra,Nashik,Corporate,Office Supplies,Tables,Desk,24300.0,3,0.1,15123.34,9176.66,0.3776,UPI,First Class,6.0,2024,June,Q2,Profit
+ORD-10770,2025-11-05,CUST-1026,Customer 287,North,Delhi,New Delhi,Corporate,Technology,Accessories,Monitor,71400.0,6,0.15,58968.36,12431.64,0.1741,Net Banking,Standard,5.0,2025,November,Q4,Profit
+ORD-10248,2024-05-24,CUST-1196,Customer 255,South,Karnataka,Mysuru,Corporate,Furniture,Seating,Sofa,112000.0,4,0.0,74916.55,37083.45,0.3311,Credit Card,First Class,6.0,2024,May,Q2,Profit
+ORD-10309,2023-12-26,CUST-1219,Customer 211,South,Telangana,Warangal,Small Business,Technology,Printers,Printer,9900.0,1,0.1,6396.85,3503.15,0.3539,UPI,First Class,6.0,2023,December,Q4,Profit
+ORD-10295,2023-08-20,CUST-1171,Customer 229,West,Maharashtra,Nagpur,Consumer,Furniture,Seating,Sofa,126000.0,5,0.1,104094.43,21905.57,0.1739,Net Banking,Standard,3.0,2023,August,Q3,Profit
+ORD-10932,2025-11-20,CUST-1299,Customer 204,West,Gujarat,Surat,Consumer,Furniture,Tables,Dining Table,79200.0,4,0.1,46868.94,32331.06,0.4082,Cash,First Class,6.0,2025,November,Q4,Profit
+ORD-10378,2024-11-26,CUST-1203,Customer 293,South,Telangana,Warangal,Consumer,Technology,Printers,Printer,39600.0,4,0.1,27638.59,11961.41,0.3021,Credit Card,Standard,1.0,2024,November,Q4,Profit
+ORD-10964,2023-11-01,CUST-1083,Customer 239,North,Uttar Pradesh,Noida,Corporate,Technology,Accessories,Monitor,53200.0,4,0.05,42133.4,11066.6,0.208,Cash,Standard,4.0,2023,November,Q4,Profit
+ORD-10704,2025-08-25,CUST-1220,Customer 25,East,Bihar,Gaya,Corporate,Furniture,Storage,Bookshelf,42000.0,7,0.2,29956.71,12043.29,0.2867,UPI,Standard,3.0,2025,August,Q3,Profit
+ORD-10669,2024-12-25,CUST-1264,Customer 219,South,Telangana,Hyderabad,Consumer,Technology,Phones,Smartphone,30400.0,1,0.05,23067.98,7332.02,0.2412,UPI,Standard,6.0,2024,December,Q4,Profit
+ORD-10748,2025-07-31,CUST-1016,Customer 157,South,Telangana,Hyderabad,Small Business,Furniture,Storage,Bookshelf,6750.0,1,0.1,4563.81,2186.19,0.3239,Net Banking,Same Day,4.0,2025,July,Q3,Profit
+ORD-10619,2025-06-23,CUST-1099,Customer 226,West,Maharashtra,Pune,Consumer,Furniture,Storage,Bookshelf,25500.0,4,0.15,15596.32,9903.68,0.3884,Cash,Standard,6.0,2025,June,Q2,Profit
+ORD-10769,2024-11-25,CUST-1049,Customer 206,North,Rajasthan,Jaipur,Corporate,Office Supplies,Tables,Desk,34200.0,4,0.05,29164.41,5035.59,0.1472,UPI,First Class,1.0,2024,November,Q4,Profit
+ORD-10147,2025-08-05,CUST-1151,Customer 69,North,Rajasthan,Jaipur,Consumer,Furniture,Seating,Sofa,53200.0,2,0.05,40738.0,12462.0,0.2342,Cash,Second Class,5.0,2025,August,Q3,Profit
+ORD-10750,2024-02-02,CUST-1243,Customer 275,West,Gujarat,Surat,Corporate,Office Supplies,Fasteners,Stapler,300.0,1,0.0,244.48,55.52,0.1851,Credit Card,Standard,6.0,2024,February,Q1,Profit
+ORD-10806,2025-02-10,CUST-1021,Customer 91,South,Tamil Nadu,Tiruchirappalli,Corporate,Technology,Accessories,Headphones,7200.0,2,0.2,4916.0,2284.0,0.3172,UPI,First Class,3.0,2025,February,Q1,Profit
+ORD-10850,2025-06-25,CUST-1062,Customer 36,South,Kerala,Thiruvananthapuram,Consumer,Technology,Printers,Printer,46750.0,5,0.15,31294.13,15455.87,0.3306,Debit Card,Standard,5.0,2025,June,Q2,Profit
+ORD-10540,2024-03-20,CUST-1145,Customer 231,South,Tamil Nadu,Coimbatore,Corporate,Office Supplies,Chairs,Office Chair,16575.0,3,0.15,10263.49,6311.51,0.3808,UPI,Standard,5.0,2024,March,Q1,Profit
+ORD-10141,2023-02-11,CUST-1026,Customer 94,West,Maharashtra,Nashik,Consumer,Office Supplies,Writing,Pen Set,2677.5,7,0.15,2109.94,567.56,0.212,Net Banking,Second Class,3.0,2023,February,Q1,Profit
+ORD-10893,2023-09-25,CUST-1029,Customer 94,South,Kerala,Kochi,Consumer,Furniture,Storage,Cabinet,8075.0,1,0.15,5511.63,2563.37,0.3174,UPI,Same Day,4.0,2023,September,Q3,Profit
+ORD-10478,2024-05-14,CUST-1277,Customer 163,East,West Bengal,Kolkata,Consumer,Office Supplies,Writing,Pen Set,3150.0,7,0.0,2233.04,916.96,0.2911,Net Banking,First Class,6.0,2024,May,Q2,Profit
+ORD-10371,2024-03-11,CUST-1146,Customer 100,West,Maharashtra,Pune,Corporate,Office Supplies,Writing,Pen Set,427.5,1,0.05,290.96,136.54,0.3194,Cash,Standard,4.0,2024,March,Q1,Profit
+ORD-10974,2024-01-18,CUST-1135,Customer 62,West,Gujarat,Surat,Corporate,Office Supplies,Storage,File Folder,950.0,4,0.05,675.09,274.91,0.2894,Credit Card,Second Class,5.0,2024,January,Q1,Profit
+ORD-10502,2024-11-16,CUST-1107,Customer 141,West,Maharashtra,Nashik,Consumer,Office Supplies,Tables,Desk,24300.0,3,0.1,19916.2,4383.8,0.1804,UPI,Standard,5.0,2024,November,Q4,Profit
+ORD-10027,2024-10-25,CUST-1051,Customer 183,South,Tamil Nadu,Madurai,Corporate,Furniture,Storage,Cabinet,25650.0,3,0.1,20129.09,5520.91,0.2152,UPI,Second Class,7.0,2024,October,Q4,Profit
+ORD-10156,2023-09-10,CUST-1090,Customer 39,South,Telangana,Hyderabad,Small Business,Office Supplies,Storage,File Folder,637.5,3,0.15,554.02,83.48,0.131,Debit Card,Standard,4.0,2023,September,Q3,Profit
+ORD-10881,2024-03-25,CUST-1236,Customer 92,North,Uttar Pradesh,Agra,Small Business,Furniture,Tables,Dining Table,19800.0,1,0.1,15902.8,3897.2,0.1968,UPI,Standard,2.0,2024,March,Q1,Profit
+ORD-10391,2025-05-23,CUST-1076,Customer 197,South,Karnataka,Mysuru,Consumer,Furniture,Storage,Cabinet,53200.0,7,0.2,46696.53,6503.47,0.1222,Net Banking,Standard,7.0,2025,May,Q2,Profit
+ORD-10655,2023-09-04,CUST-1257,Customer 23,East,Odisha,Cuttack,Corporate,Office Supplies,Paper,Notebook,665.0,2,0.05,518.0,147.0,0.2211,Cash,Standard,6.0,2023,September,Q3,Profit
+ORD-10678,2023-02-10,CUST-1058,Customer 145,East,West Bengal,Durgapur,Consumer,Furniture,Tables,Dining Table,17600.0,1,0.2,10209.2,7390.8,0.4199,Debit Card,First Class,4.0,2023,February,Q1,Profit
+ORD-10357,2024-10-08,CUST-1246,Customer 234,West,Maharashtra,Nagpur,Corporate,Office Supplies,Paper,Notebook,2082.5,7,0.15,1826.04,256.46,0.1231,Cash,Same Day,7.0,2024,October,Q4,Profit
+ORD-10390,2024-03-24,CUST-1211,Customer 156,North,Delhi,Delhi,Consumer,Office Supplies,Paper,Notebook,1260.0,4,0.1,1026.56,233.44,0.1853,Cash,Second Class,4.0,2024,March,Q1,Profit
+ORD-10585,2023-08-02,CUST-1007,Customer 289,South,Kerala,Kochi,Consumer,Office Supplies,Tables,Desk,48600.0,6,0.1,39886.93,8713.07,0.1793,Cash,Standard,5.0,2023,August,Q3,Profit
+ORD-10100,2025-06-30,CUST-1013,Customer 248,South,Tamil Nadu,Coimbatore,Consumer,Office Supplies,Chairs,Office Chair,5850.0,1,0.1,4098.56,1751.44,0.2994,Debit Card,Standard,4.0,2025,June,Q2,Profit
+ORD-10374,2025-12-03,CUST-1268,Customer 103,West,Maharashtra,Nagpur,Consumer,Office Supplies,Fasteners,Stapler,1620.0,6,0.1,1404.57,215.43,0.133,UPI,Same Day,6.0,2025,December,Q4,Profit
+ORD-10819,2023-12-28,CUST-1073,Customer 172,East,West Bengal,Durgapur,Corporate,Office Supplies,Writing,Pen Set,405.0,1,0.1,278.15,126.85,0.3132,Cash,Second Class,1.0,2023,December,Q4,Profit
+ORD-10167,2025-06-20,CUST-1103,Customer 292,East,Bihar,Gaya,Small Business,Office Supplies,Tables,Desk,8550.0,1,0.05,6594.89,1955.11,0.2287,Debit Card,Second Class,1.0,2025,June,Q2,Profit
+ORD-10584,2025-06-02,CUST-1128,Customer 91,South,Tamil Nadu,Coimbatore,Corporate,Office Supplies,Writing,Pen Set,2992.5,7,0.05,2015.81,976.69,0.3264,UPI,First Class,7.0,2025,June,Q2,Profit
+ORD-10024,2025-12-08,CUST-1086,Customer 141,South,Karnataka,Bengaluru,Corporate,Technology,Accessories,Headphones,8100.0,2,0.1,6341.86,1758.14,0.2171,Debit Card,Standard,3.0,2025,December,Q4,Profit
+ORD-10633,2024-04-30,CUST-1188,Customer 279,East,West Bengal,Kolkata,Consumer,Technology,Printers,Printer,65450.0,7,0.15,43273.43,22176.57,0.3388,Net Banking,First Class,7.0,2024,April,Q2,Profit
+ORD-10205,2024-08-31,CUST-1207,Customer 219,North,Delhi,New Delhi,Consumer,Furniture,Storage,Cabinet,59850.0,7,0.1,40805.23,19044.77,0.3182,UPI,First Class,5.0,2024,August,Q3,Profit
+ORD-10034,2023-08-30,CUST-1248,Customer 51,East,Odisha,Cuttack,Consumer,Office Supplies,Storage,File Folder,200.0,1,0.2,130.0,70.0,0.35,Cash,Standard,1.0,2023,August,Q3,Profit
+ORD-10335,2023-09-30,CUST-1055,Customer 258,North,Rajasthan,Jodhpur,Corporate,Technology,Phones,Smartphone,128000.0,4,0.0,96276.45,31723.55,0.2478,Debit Card,Standard,4.0,2023,September,Q3,Profit
+ORD-10559,2025-08-23,CUST-1274,Customer 170,East,West Bengal,Kolkata,Corporate,Furniture,Storage,Bookshelf,44625.0,7,0.15,37209.99,7415.01,0.1662,Cash,First Class,7.0,2025,August,Q3,Profit
+ORD-10702,2023-05-04,CUST-1090,Customer 116,West,Gujarat,Surat,Small Business,Furniture,Storage,Bookshelf,12000.0,2,0.2,9848.65,2151.35,0.1793,Net Banking,Standard,1.0,2023,May,Q2,Profit
+ORD-10629,2025-05-26,CUST-1126,Customer 121,North,Rajasthan,Udaipur,Corporate,Furniture,Storage,Cabinet,27075.0,3,0.05,16086.86,10988.14,0.4058,Cash,Standard,7.0,2025,May,Q2,Profit
+ORD-10939,2024-03-23,CUST-1085,Customer 106,East,Odisha,Bhubaneswar,Corporate,Furniture,Storage,Cabinet,9500.0,1,0.0,7585.13,1914.87,0.2016,Debit Card,Second Class,1.0,2024,March,Q1,Profit
+ORD-10815,2025-02-18,CUST-1273,Customer 48,South,Karnataka,Mysuru,Consumer,Technology,Accessories,Monitor,13300.0,1,0.05,7989.46,5310.54,0.3993,Net Banking,First Class,7.0,2025,February,Q1,Profit
+ORD-10010,2024-07-12,CUST-1014,Customer 247,East,Odisha,Bhubaneswar,Corporate,Technology,Phones,Smartphone,192000.0,6,0.0,113672.0,78328.0,0.408,Cash,Standard,4.0,2024,July,Q3,Profit
+ORD-10011,2025-06-09,CUST-1240,Customer 186,East,Odisha,Cuttack,Consumer,Office Supplies,Storage,File Folder,500.0,2,0.0,423.49,76.51,0.153,Credit Card,Standard,5.0,2025,June,Q2,Profit
+ORD-10080,2025-10-10,CUST-1164,Customer 282,East,West Bengal,Durgapur,Consumer,Furniture,Seating,Sofa,56000.0,2,0.0,48371.53,7628.47,0.1362,Credit Card,Standard,5.0,2025,October,Q4,Profit
+ORD-10571,2024-08-10,CUST-1225,Customer 141,South,Karnataka,Mangaluru,Corporate,Technology,Phones,Smartphone,136000.0,5,0.15,91220.63,44779.37,0.3293,UPI,Second Class,6.0,2024,August,Q3,Profit
+ORD-10790,2024-03-13,CUST-1083,Customer 46,North,Rajasthan,Udaipur,Corporate,Furniture,Bedroom,Bed,90000.0,3,0.0,63364.95,26635.05,0.2959,Credit Card,Standard,6.0,2024,March,Q1,Profit
+ORD-10119,2024-04-04,CUST-1151,Customer 105,North,Rajasthan,Jaipur,Small Business,Office Supplies,Writing,Pen Set,720.0,2,0.2,469.5,250.5,0.3479,Debit Card,Second Class,7.0,2024,April,Q2,Profit
+ORD-10523,2024-11-20,CUST-1011,Customer 286,South,Tamil Nadu,Tiruchirappalli,Consumer,Office Supplies,Chairs,Office Chair,37050.0,6,0.05,27047.15,10002.85,0.27,Debit Card,Standard,6.0,2024,November,Q4,Profit
+ORD-10235,2023-12-04,CUST-1299,Customer 92,East,West Bengal,Durgapur,Corporate,Office Supplies,Paper,Notebook,1190.0,4,0.15,764.75,425.25,0.3574,UPI,Second Class,1.0,2023,December,Q4,Profit
+ORD-10514,2024-09-23,CUST-1120,Customer 118,West,Gujarat,Ahmedabad,Consumer,Office Supplies,Writing,Pen Set,1912.5,5,0.15,1274.04,638.46,0.3338,Debit Card,First Class,6.0,2024,September,Q3,Profit
+ORD-10537,2024-01-06,CUST-1226,Customer 7,South,Kerala,Thiruvananthapuram,Consumer,Technology,Tablets,Tablet,59400.0,3,0.1,46777.3,12622.7,0.2125,Debit Card,Same Day,2.0,2024,January,Q1,Profit
+ORD-10290,2024-02-12,CUST-1058,Customer 90,South,Tamil Nadu,Salem,Consumer,Technology,Phones,Smartphone,81600.0,3,0.15,69418.83,12181.17,0.1493,Cash,Standard,1.0,2024,February,Q1,Profit
+ORD-10217,2023-06-04,CUST-1174,Customer 7,West,Maharashtra,Mumbai,Corporate,Furniture,Seating,Sofa,95200.0,4,0.15,74056.75,21143.25,0.2221,UPI,Standard,2.0,2023,June,Q2,Profit
+ORD-10050,2025-07-09,CUST-1025,Customer 91,North,Rajasthan,Udaipur,Corporate,Technology,Computers,Laptop,325000.0,5,0.0,196455.88,128544.12,0.3955,Cash,Standard,6.0,2025,July,Q3,Profit
+ORD-10690,2023-10-16,CUST-1037,Customer 240,North,Rajasthan,Udaipur,Consumer,Furniture,Seating,Sofa,119000.0,5,0.15,81473.3,37526.7,0.3154,Net Banking,Standard,3.0,2023,October,Q4,Profit
+ORD-10665,2024-10-07,CUST-1090,Customer 158,South,Telangana,Hyderabad,Consumer,Technology,Accessories,Monitor,83300.0,7,0.15,54727.61,28572.39,0.343,Debit Card,Standard,3.0,2024,October,Q4,Profit
+ORD-10886,2025-02-09,CUST-1032,Customer 82,North,Delhi,New Delhi,Small Business,Office Supplies,Writing,Pen Set,1710.0,4,0.05,1220.01,489.99,0.2865,Cash,First Class,1.0,2025,February,Q1,Profit
+ORD-10409,2023-07-28,CUST-1038,Customer 281,South,Kerala,Kochi,Corporate,Office Supplies,Fasteners,Stapler,270.0,1,0.1,212.66,57.34,0.2124,UPI,Standard,2.0,2023,July,Q3,Profit
+ORD-10603,2025-02-12,CUST-1064,Customer 181,North,Uttar Pradesh,Kanpur,Consumer,Technology,Accessories,Monitor,47600.0,4,0.15,28373.9,19226.1,0.4039,Credit Card,Second Class,4.0,2025,February,Q1,Profit
+ORD-10145,2025-12-26,CUST-1237,Customer 185,East,West Bengal,Durgapur,Consumer,Office Supplies,Chairs,Office Chair,31200.0,6,0.2,22775.62,8424.38,0.27,Credit Card,Second Class,6.0,2025,December,Q4,Profit
+ORD-10462,2024-04-20,CUST-1093,Customer 137,South,Kerala,Thiruvananthapuram,Small Business,Technology,Accessories,Monitor,28000.0,2,0.0,24148.38,3851.62,0.1376,Debit Card,First Class,1.0,2024,April,Q2,Profit
+ORD-10679,2023-11-03,CUST-1031,Customer 232,East,West Bengal,Durgapur,Corporate,Technology,Accessories,Headphones,22500.0,5,0.0,19226.26,3273.74,0.1455,Debit Card,Second Class,5.0,2023,November,Q4,Profit
+ORD-10777,2025-02-17,CUST-1117,Customer 164,West,Maharashtra,Pune,Corporate,Technology,Accessories,Headphones,21375.0,5,0.05,15889.46,5485.54,0.2566,Credit Card,Standard,6.0,2025,February,Q1,Profit
+ORD-10334,2025-02-21,CUST-1237,Customer 237,North,Delhi,Delhi,Consumer,Technology,Tablets,Tablet,59400.0,3,0.1,35719.99,23680.01,0.3987,Credit Card,Standard,6.0,2025,February,Q1,Profit
+ORD-10113,2024-02-10,CUST-1258,Customer 165,South,Kerala,Thiruvananthapuram,Corporate,Technology,Accessories,Headphones,16200.0,4,0.1,11896.28,4303.72,0.2657,Net Banking,First Class,5.0,2024,February,Q1,Profit
+ORD-10412,2024-08-09,CUST-1255,Customer 27,North,Delhi,New Delhi,Small Business,Technology,Tablets,Tablet,39600.0,2,0.1,29485.23,10114.77,0.2554,Cash,First Class,2.0,2024,August,Q3,Profit
+ORD-10543,2024-09-20,CUST-1238,Customer 90,West,Maharashtra,Nashik,Small Business,Technology,Computers,Laptop,208000.0,4,0.2,156523.78,51476.22,0.2475,Credit Card,Standard,6.0,2024,September,Q3,Profit
+ORD-10675,2023-07-09,CUST-1248,Customer 190,West,Gujarat,Ahmedabad,Corporate,Furniture,Tables,Coffee Table,38400.0,6,0.2,24624.87,13775.13,0.3587,Debit Card,Standard,4.0,2023,July,Q3,Profit
+ORD-10657,2023-12-19,CUST-1259,Customer 135,South,Karnataka,Mysuru,Corporate,Office Supplies,Fasteners,Stapler,240.0,1,0.2,169.09,70.91,0.2955,Net Banking,Standard,3.0,2023,December,Q4,Profit
+ORD-10339,2025-04-25,CUST-1198,Customer 142,East,Bihar,Patna,Consumer,Technology,Accessories,Monitor,66500.0,5,0.05,57717.83,8782.17,0.1321,UPI,Standard,6.0,2025,April,Q2,Profit
+ORD-10583,2025-12-27,CUST-1189,Customer 52,South,Kerala,Kozhikode,Corporate,Office Supplies,Paper,Notebook,1190.0,4,0.15,733.02,456.98,0.384,Debit Card,Standard,3.0,2025,December,Q4,Profit
+ORD-10929,2023-11-21,CUST-1126,Customer 285,South,Kerala,Kochi,Consumer,Office Supplies,Storage,File Folder,950.0,4,0.05,586.18,363.82,0.383,Cash,Second Class,4.0,2023,November,Q4,Profit
+ORD-10638,2024-09-04,CUST-1076,Customer 278,South,Kerala,Kochi,Consumer,Technology,Accessories,Headphones,20250.0,5,0.1,14133.21,6116.79,0.3021,Credit Card,Second Class,5.0,2024,September,Q3,Profit
+ORD-10898,2023-02-18,CUST-1062,Customer 257,South,Kerala,Thiruvananthapuram,Consumer,Technology,Computers,Laptop,195000.0,3,0.0,168148.05,26851.95,0.1377,Cash,Standard,2.0,2023,February,Q1,Profit
+ORD-10352,2023-05-29,CUST-1063,Customer 274,South,Karnataka,Mysuru,Corporate,Furniture,Storage,Cabinet,51300.0,6,0.1,31707.67,19592.33,0.3819,UPI,Second Class,6.0,2023,May,Q2,Profit
+ORD-10667,2025-07-31,CUST-1174,Customer 45,North,Rajasthan,Udaipur,Corporate,Technology,Accessories,Headphones,10125.0,3,0.25,7430.36,2694.64,0.2661,Cash,First Class,6.0,2025,July,Q3,Profit
+ORD-10999,2023-09-24,CUST-1176,Customer 188,West,Gujarat,Vadodara,Consumer,Office Supplies,Storage,File Folder,712.5,3,0.05,517.94,194.56,0.2731,Cash,First Class,2.0,2023,September,Q3,Profit
+ORD-10398,2025-07-25,CUST-1096,Customer 290,East,West Bengal,Kolkata,Corporate,Office Supplies,Chairs,Office Chair,29250.0,5,0.1,25548.89,3701.11,0.1265,Credit Card,Standard,3.0,2025,July,Q3,Profit
+ORD-10408,2025-11-01,CUST-1162,Customer 108,East,West Bengal,Durgapur,Consumer,Technology,Tablets,Tablet,104500.0,5,0.05,62479.0,42021.0,0.4021,Net Banking,Second Class,4.0,2025,November,Q4,Profit
+ORD-10612,2023-01-08,CUST-1046,Customer 103,East,Bihar,Patna,Consumer,Office Supplies,Storage,File Folder,600.0,3,0.2,477.67,122.33,0.2039,Net Banking,First Class,6.0,2023,January,Q1,Profit
+ORD-10323,2024-01-05,CUST-1057,Customer 243,South,Karnataka,Mangaluru,Corporate,Technology,Phones,Smartphone,30400.0,1,0.05,19476.92,10923.08,0.3593,Debit Card,Second Class,2.0,2024,January,Q1,Profit
+ORD-10556,2024-02-27,CUST-1114,Customer 232,South,Kerala,Kozhikode,Small Business,Office Supplies,Paper,Notebook,332.5,1,0.05,229.78,102.72,0.3089,Cash,First Class,7.0,2024,February,Q1,Profit
+ORD-10426,2025-07-30,CUST-1279,Customer 105,South,Karnataka,Mysuru,Corporate,Office Supplies,Writing,Pen Set,405.0,1,0.1,278.09,126.91,0.3134,UPI,Second Class,5.0,2025,July,Q3,Profit
+ORD-10846,2023-07-02,CUST-1137,Customer 246,South,Karnataka,Mangaluru,Consumer,Furniture,Tables,Coffee Table,7200.0,1,0.1,4696.14,2503.86,0.3478,Debit Card,First Class,6.0,2023,July,Q3,Profit
+ORD-10184,2023-09-11,CUST-1166,Customer 289,South,Tamil Nadu,Chennai,Consumer,Office Supplies,Tables,Desk,48600.0,6,0.1,36301.25,12298.75,0.2531,Credit Card,First Class,2.0,2023,September,Q3,Profit
+ORD-10368,2024-06-24,CUST-1196,Customer 106,South,Kerala,Kozhikode,Corporate,Office Supplies,Fasteners,Stapler,1620.0,6,0.1,1177.57,442.43,0.2731,Net Banking,Standard,2.0,2024,June,Q2,Profit
+ORD-10452,2025-07-15,CUST-1179,Customer 235,South,Telangana,Hyderabad,Consumer,Technology,Accessories,Monitor,59500.0,5,0.15,41990.93,17509.07,0.2943,Debit Card,First Class,6.0,2025,July,Q3,Profit
+ORD-10343,2024-02-18,CUST-1211,Customer 229,North,Rajasthan,Udaipur,Consumer,Furniture,Storage,Cabinet,9025.0,1,0.05,5736.14,3288.86,0.3644,Credit Card,Standard,1.0,2024,February,Q1,Profit
+ORD-10307,2025-09-18,CUST-1262,Customer 171,South,Tamil Nadu,Madurai,Corporate,Technology,Phones,Smartphone,121600.0,4,0.05,90267.83,31332.17,0.2577,Net Banking,Standard,6.0,2025,September,Q3,Profit
+ORD-10218,2023-04-02,CUST-1170,Customer 272,South,Tamil Nadu,Tiruchirappalli,Consumer,Furniture,Tables,Dining Table,22000.0,1,0.0,15677.42,6322.58,0.2874,Debit Card,First Class,5.0,2023,April,Q2,Profit
+ORD-10436,2024-11-28,CUST-1133,Customer 258,South,Tamil Nadu,Chennai,Corporate,Office Supplies,Paper,Notebook,1400.0,5,0.2,1051.52,348.48,0.2489,Debit Card,Standard,3.0,2024,November,Q4,Profit
+ORD-10038,2024-11-03,CUST-1289,Customer 230,East,Bihar,Patna,Corporate,Technology,Tablets,Tablet,59400.0,3,0.1,35520.19,23879.81,0.402,Credit Card,Same Day,1.0,2024,November,Q4,Profit
+ORD-10314,2025-08-03,CUST-1238,Customer 151,West,Gujarat,Ahmedabad,Corporate,Office Supplies,Chairs,Office Chair,24700.0,4,0.05,18804.3,5895.7,0.2387,Credit Card,Standard,2.0,2025,August,Q3,Profit
+ORD-10577,2025-08-17,CUST-1169,Customer 62,North,Uttar Pradesh,Agra,Consumer,Office Supplies,Chairs,Office Chair,12350.0,2,0.05,10664.31,1685.69,0.1365,Cash,Standard,3.0,2025,August,Q3,Profit
+ORD-10189,2025-10-07,CUST-1010,Customer 186,South,Telangana,Warangal,Corporate,Office Supplies,Paper,Notebook,1330.0,4,0.05,794.1,535.9,0.4029,Cash,Standard,3.0,2025,October,Q4,Profit
+ORD-10469,2024-10-21,CUST-1231,Customer 252,East,West Bengal,Kolkata,Corporate,Furniture,Seating,Sofa,56000.0,2,0.0,41239.13,14760.87,0.2636,Net Banking,Standard,4.0,2024,October,Q4,Profit
+ORD-10037,2024-04-27,CUST-1039,Customer 291,East,Bihar,Gaya,Consumer,Office Supplies,Storage,File Folder,212.5,1,0.15,137.19,75.31,0.3544,Credit Card,Standard,1.0,2024,April,Q2,Profit
+ORD-10687,2024-09-11,CUST-1080,Customer 262,East,Bihar,Patna,Corporate,Office Supplies,Tables,Desk,17100.0,2,0.05,12126.65,4973.35,0.2908,Credit Card,Standard,4.0,2024,September,Q3,Profit
+ORD-10589,2023-03-20,CUST-1038,Customer 155,North,Rajasthan,Jaipur,Consumer,Technology,Accessories,Monitor,11200.0,1,0.2,7600.84,3599.16,0.3214,Net Banking,Standard,6.0,2023,March,Q1,Profit
+ORD-10862,2025-05-08,CUST-1231,Customer 146,West,Maharashtra,Pune,Consumer,Office Supplies,Storage,File Folder,950.0,4,0.05,706.8,243.2,0.256,Cash,First Class,3.0,2025,May,Q2,Profit
+ORD-10516,2023-07-24,CUST-1040,Customer 39,South,Telangana,Warangal,Consumer,Furniture,Tables,Dining Table,118800.0,6,0.1,70658.23,48141.77,0.4052,Debit Card,Second Class,6.0,2023,July,Q3,Profit
+ORD-10466,2023-06-10,CUST-1269,Customer 84,East,Bihar,Patna,Corporate,Office Supplies,Storage,File Folder,212.5,1,0.15,163.14,49.36,0.2323,UPI,Same Day,4.0,2023,June,Q2,Profit
+ORD-10234,2024-05-07,CUST-1051,Customer 137,East,Bihar,Patna,Consumer,Furniture,Tables,Coffee Table,38000.0,5,0.05,30411.77,7588.23,0.1997,UPI,Same Day,7.0,2024,May,Q2,Profit
+ORD-10510,2024-02-18,CUST-1297,Customer 177,West,Maharashtra,Pune,Corporate,Office Supplies,Tables,Desk,40500.0,5,0.1,31740.66,8759.34,0.2163,Credit Card,First Class,4.0,2024,February,Q1,Profit
+ORD-10781,2025-11-24,CUST-1001,Customer 118,East,Odisha,Bhubaneswar,Consumer,Technology,Tablets,Tablet,112200.0,6,0.15,75520.98,36679.02,0.3269,Credit Card,First Class,3.0,2025,November,Q4,Profit
+ORD-10829,2023-02-18,CUST-1243,Customer 43,West,Gujarat,Vadodara,Consumer,Office Supplies,Chairs,Office Chair,24700.0,4,0.05,18779.01,5920.99,0.2397,Credit Card,Standard,2.0,2023,February,Q1,Profit
+ORD-10712,2023-08-15,CUST-1058,Customer 11,South,Kerala,Kochi,Consumer,Technology,Phones,Smartphone,163200.0,6,0.15,143069.63,20130.37,0.1233,Cash,Standard,7.0,2023,August,Q3,Profit
+ORD-10066,2024-10-09,CUST-1084,Customer 143,North,Delhi,Delhi,Consumer,Technology,Phones,Smartphone,160000.0,5,0.0,97114.09,62885.91,0.393,Net Banking,Second Class,1.0,2024,October,Q4,Profit
+ORD-10406,2023-11-10,CUST-1072,Customer 281,East,West Bengal,Durgapur,Corporate,Furniture,Storage,Cabinet,54150.0,6,0.05,44470.67,9679.33,0.1788,UPI,First Class,2.0,2023,November,Q4,Profit
+ORD-10164,2024-01-16,CUST-1099,Customer 77,East,Odisha,Cuttack,Corporate,Office Supplies,Chairs,Office Chair,40950.0,7,0.1,30944.94,10005.06,0.2443,Net Banking,Second Class,6.0,2024,January,Q1,Profit
+ORD-10264,2024-07-25,CUST-1300,Customer 37,South,Kerala,Thiruvananthapuram,Corporate,Technology,Phones,Smartphone,144000.0,5,0.1,124166.02,19833.98,0.1377,Cash,Standard,4.0,2024,July,Q3,Profit
+ORD-10500,2024-09-03,CUST-1171,Customer 115,South,Tamil Nadu,Tiruchirappalli,Corporate,Furniture,Storage,Bookshelf,27000.0,4,0.1,20919.97,6080.03,0.2252,Credit Card,Same Day,6.0,2024,September,Q3,Profit
+ORD-10685,2023-09-30,CUST-1154,Customer 181,East,West Bengal,Kolkata,Corporate,Office Supplies,Chairs,Office Chair,17550.0,3,0.1,13991.01,3558.99,0.2028,Credit Card,Second Class,7.0,2023,September,Q3,Profit
+ORD-10236,2023-06-22,CUST-1098,Customer 259,West,Gujarat,Vadodara,Consumer,Office Supplies,Chairs,Office Chair,5200.0,1,0.2,3107.36,2092.64,0.4024,Credit Card,Second Class,2.0,2023,June,Q2,Profit
+ORD-10176,2023-04-02,CUST-1056,Customer 60,East,Bihar,Patna,Small Business,Technology,Accessories,Monitor,42000.0,3,0.0,34565.05,7434.95,0.177,Net Banking,Standard,5.0,2023,April,Q2,Profit
+ORD-10729,2024-12-02,CUST-1150,Customer 34,North,Delhi,New Delhi,Consumer,Furniture,Tables,Coffee Table,13600.0,2,0.15,7890.44,5709.56,0.4198,Cash,Standard,2.0,2024,December,Q4,Profit
+ORD-10490,2025-07-05,CUST-1155,Customer 221,North,Rajasthan,Jodhpur,Consumer,Technology,Tablets,Tablet,146300.0,7,0.05,111864.82,34435.18,0.2354,Debit Card,Second Class,3.0,2025,July,Q3,Profit
+ORD-10072,2025-04-07,CUST-1072,Customer 64,South,Telangana,Warangal,Consumer,Office Supplies,Chairs,Office Chair,12350.0,2,0.05,9811.03,2538.97,0.2056,Credit Card,Second Class,4.0,2025,April,Q2,Profit
+ORD-10813,2023-08-02,CUST-1090,Customer 115,South,Tamil Nadu,Tiruchirappalli,Corporate,Office Supplies,Chairs,Office Chair,33150.0,6,0.15,25446.94,7703.06,0.2324,Cash,First Class,7.0,2023,August,Q3,Profit
+ORD-10090,2024-03-28,CUST-1251,Customer 198,West,Maharashtra,Nagpur,Consumer,Technology,Accessories,Headphones,26775.0,7,0.15,18128.26,8646.74,0.3229,UPI,Standard,3.0,2024,March,Q1,Profit
+ORD-10118,2025-02-22,CUST-1016,Customer 130,East,West Bengal,Durgapur,Consumer,Technology,Phones,Smartphone,28800.0,1,0.1,20062.6,8737.4,0.3034,Debit Card,First Class,2.0,2025,February,Q1,Profit
+ORD-10322,2025-02-05,CUST-1198,Customer 146,South,Karnataka,Bengaluru,Corporate,Furniture,Seating,Sofa,151200.0,6,0.1,96063.06,55136.94,0.3647,Net Banking,Standard,4.0,2025,February,Q1,Profit
+ORD-10626,2025-02-13,CUST-1191,Customer 244,West,Maharashtra,Mumbai,Small Business,Furniture,Seating,Sofa,196000.0,7,0.0,120300.32,75699.68,0.3862,UPI,Second Class,5.0,2025,February,Q1,Profit
+ORD-10963,2025-12-28,CUST-1190,Customer 126,East,Bihar,Gaya,Corporate,Office Supplies,Fasteners,Stapler,1500.0,5,0.0,944.47,555.53,0.3704,UPI,Second Class,1.0,2025,December,Q4,Profit
+ORD-10568,2023-04-08,CUST-1300,Customer 31,South,Telangana,Hyderabad,Consumer,Furniture,Storage,Bookshelf,22500.0,3,0.0,15189.36,7310.64,0.3249,Cash,Standard,3.0,2023,April,Q2,Profit
+ORD-10062,2023-02-05,CUST-1018,Customer 99,East,Bihar,Patna,Corporate,Furniture,Tables,Coffee Table,43200.0,6,0.1,32532.38,10667.62,0.2469,UPI,Standard,3.0,2023,February,Q1,Profit
+ORD-10707,2023-07-10,CUST-1042,Customer 209,West,Maharashtra,Nagpur,Consumer,Technology,Accessories,Headphones,21375.0,5,0.05,17921.52,3453.48,0.1616,Net Banking,First Class,7.0,2023,July,Q3,Profit
+ORD-10187,2024-04-11,CUST-1083,Customer 279,East,Odisha,Bhubaneswar,Corporate,Technology,Accessories,Headphones,17100.0,4,0.05,10025.39,7074.61,0.4137,Net Banking,Standard,6.0,2024,April,Q2,Profit
+ORD-10767,2025-09-14,CUST-1204,Customer 52,East,Odisha,Bhubaneswar,Consumer,Furniture,Tables,Coffee Table,30400.0,4,0.05,24649.32,5750.68,0.1892,Cash,Standard,2.0,2025,September,Q3,Profit
+ORD-10402,2025-07-20,CUST-1220,Customer 210,North,Uttar Pradesh,Noida,Consumer,Technology,Tablets,Tablet,132000.0,6,0.0,105502.47,26497.53,0.2007,Cash,Standard,6.0,2025,July,Q3,Profit
+ORD-10233,2023-08-30,CUST-1048,Customer 66,West,Maharashtra,Pune,Consumer,Technology,Computers,Laptop,351000.0,6,0.1,220708.18,130291.82,0.3712,Cash,Standard,7.0,2023,August,Q3,Profit
+ORD-10495,2025-01-12,CUST-1258,Customer 186,West,Maharashtra,Nashik,Consumer,Furniture,Tables,Coffee Table,16000.0,2,0.0,10307.17,5692.83,0.3558,Cash,Standard,4.0,2025,January,Q1,Profit
+ORD-10073,2025-08-13,CUST-1030,Customer 243,South,Karnataka,Mysuru,Corporate,Office Supplies,Storage,File Folder,1425.0,6,0.05,951.91,473.09,0.332,Net Banking,Standard,2.0,2025,August,Q3,Profit
+ORD-10465,2025-10-16,CUST-1007,Customer 199,South,Kerala,Kochi,Small Business,Technology,Printers,Printer,16500.0,2,0.25,10022.54,6477.46,0.3926,Credit Card,Standard,4.0,2025,October,Q4,Profit
+ORD-10271,2025-01-28,CUST-1055,Customer 235,North,Delhi,New Delhi,Consumer,Technology,Tablets,Tablet,130900.0,7,0.15,91842.95,39057.05,0.2984,UPI,First Class,7.0,2025,January,Q1,Profit
+ORD-10112,2023-05-29,CUST-1077,Customer 174,North,Delhi,New Delhi,Small Business,Technology,Accessories,Monitor,13300.0,1,0.05,9971.32,3328.68,0.2503,Net Banking,Standard,6.0,2023,May,Q2,Profit
+ORD-10457,2023-07-02,CUST-1003,Customer 273,North,Delhi,New Delhi,Corporate,Furniture,Seating,Sofa,89600.0,4,0.2,65306.91,24293.09,0.2711,Net Banking,Standard,7.0,2023,July,Q3,Profit
+ORD-10852,2023-01-01,CUST-1029,Customer 267,South,Telangana,Warangal,Consumer,Technology,Tablets,Tablet,93500.0,5,0.15,79778.68,13721.32,0.1468,Debit Card,Second Class,4.0,2023,January,Q1,Profit
+ORD-10936,2023-03-16,CUST-1204,Customer 56,North,Delhi,New Delhi,Consumer,Furniture,Tables,Dining Table,104500.0,5,0.05,86915.78,17584.22,0.1683,Net Banking,First Class,5.0,2023,March,Q1,Profit
+ORD-10227,2024-10-22,CUST-1215,Customer 273,North,Rajasthan,Jodhpur,Corporate,Office Supplies,Paper,Notebook,1785.0,6,0.15,1357.57,427.43,0.2395,Net Banking,Standard,5.0,2024,October,Q4,Profit
+ORD-10330,2023-12-17,CUST-1233,Customer 206,South,Tamil Nadu,Tiruchirappalli,Corporate,Technology,Accessories,Monitor,13300.0,1,0.05,11062.19,2237.81,0.1683,Cash,Standard,7.0,2023,December,Q4,Profit
+ORD-10597,2025-05-30,CUST-1182,Customer 16,North,Uttar Pradesh,Kanpur,Consumer,Technology,Computers,Laptop,55250.0,1,0.15,43731.05,11518.95,0.2085,Debit Card,Second Class,2.0,2025,May,Q2,Profit
+ORD-10813,2023-08-02,CUST-1090,Customer 115,South,Tamil Nadu,Tiruchirappalli,Corporate,Office Supplies,Chairs,Office Chair,33150.0,6,0.15,25446.94,7703.06,0.2324,Cash,First Class,7.0,2023,August,Q3,Profit
+ORD-10196,2024-04-01,CUST-1009,Customer 151,North,Uttar Pradesh,Noida,Corporate,Technology,Accessories,Headphones,16200.0,4,0.1,11603.33,4596.67,0.2837,UPI,Standard,1.0,2024,April,Q2,Profit
+ORD-10337,2023-07-02,CUST-1109,Customer 222,South,Tamil Nadu,Tiruchirappalli,Consumer,Technology,Printers,Printer,44000.0,4,0.0,37110.04,6889.96,0.1566,Cash,Standard,7.0,2023,July,Q3,Profit
+ORD-10492,2023-09-18,CUST-1273,Customer 289,East,Bihar,Patna,Corporate,Office Supplies,Writing,Pen Set,450.0,1,0.0,272.85,177.15,0.3937,Debit Card,First Class,2.0,2023,September,Q3,Profit
+ORD-10771,2024-04-21,CUST-1161,Customer 93,South,Tamil Nadu,Salem,Consumer,Technology,Phones,Smartphone,81600.0,3,0.15,69070.92,12529.08,0.1535,Debit Card,First Class,6.0,2024,April,Q2,Profit
+ORD-10029,2025-12-19,CUST-1294,Customer 9,East,West Bengal,Kolkata,Consumer,Furniture,Tables,Dining Table,105600.0,6,0.2,74840.7,30759.3,0.2913,Net Banking,Second Class,4.0,2025,December,Q4,Profit
+ORD-10794,2024-10-20,CUST-1216,Customer 120,West,Maharashtra,Nashik,Consumer,Furniture,Seating,Sofa,196000.0,7,0.0,169753.6,26246.4,0.1339,Cash,Standard,2.0,2024,October,Q4,Profit
+ORD-10671,2024-08-10,CUST-1117,Customer 228,West,Gujarat,Surat,Small Business,Office Supplies,Storage,File Folder,1125.0,5,0.1,799.4,325.6,0.2894,Cash,Standard,4.0,2024,August,Q3,Profit
+ORD-10827,2024-12-01,CUST-1099,Customer 202,East,Bihar,Patna,Corporate,Technology,Computers,Laptop,65000.0,1,0.0,43548.0,21452.0,0.33,Cash,First Class,4.0,2024,December,Q4,Profit
+ORD-10138,2024-05-04,CUST-1065,Customer 13,South,Kerala,Thiruvananthapuram,Consumer,Office Supplies,Storage,File Folder,1350.0,6,0.1,1039.12,310.88,0.2303,Credit Card,Second Class,4.0,2024,May,Q2,Profit
+ORD-10975,2025-09-30,CUST-1026,Customer 161,South,Karnataka,Mysuru,Small Business,Furniture,Bedroom,Bed,135000.0,5,0.1,116901.36,18098.64,0.1341,Credit Card,Second Class,3.0,2025,September,Q3,Profit
+ORD-10755,2023-10-13,CUST-1193,Customer 92,South,Telangana,Warangal,Consumer,Office Supplies,Tables,Desk,7650.0,1,0.15,6524.14,1125.86,0.1472,Cash,Standard,6.0,2023,October,Q4,Profit
+ORD-10520,2023-09-07,CUST-1259,Customer 56,East,West Bengal,Kolkata,Consumer,Technology,Phones,Smartphone,57600.0,2,0.1,37220.85,20379.15,0.3538,Net Banking,Second Class,7.0,2023,September,Q3,Profit
+ORD-10394,2023-10-29,CUST-1109,Customer 83,South,Karnataka,Mysuru,Consumer,Furniture,Tables,Dining Table,39600.0,2,0.1,32835.8,6764.2,0.1708,Credit Card,Standard,1.0,2023,October,Q4,Profit
+ORD-10383,2024-02-17,CUST-1288,Customer 190,South,Karnataka,Mysuru,Consumer,Office Supplies,Fasteners,Stapler,540.0,2,0.1,422.96,117.04,0.2167,Debit Card,Same Day,1.0,2024,February,Q1,Profit
+ORD-10993,2024-06-03,CUST-1286,Customer 201,North,Uttar Pradesh,Noida,Consumer,Technology,Accessories,Monitor,59500.0,5,0.15,48115.49,11384.51,0.1913,Cash,Standard,6.0,2024,June,Q2,Profit
+ORD-10990,2025-02-25,CUST-1018,Customer 176,East,Odisha,Cuttack,Consumer,Office Supplies,Chairs,Office Chair,22100.0,4,0.15,19247.9,2852.1,0.1291,UPI,Second Class,2.0,2025,February,Q1,Profit
+ORD-10663,2024-12-01,CUST-1155,Customer 44,South,Tamil Nadu,Salem,Small Business,Furniture,Storage,Cabinet,38000.0,4,0.0,26816.26,11183.74,0.2943,Debit Card,Second Class,6.0,2024,December,Q4,Profit
+ORD-10453,2025-05-17,CUST-1044,Customer 289,West,Gujarat,Surat,Consumer,Furniture,Tables,Coffee Table,30400.0,4,0.05,23097.61,7302.39,0.2402,Net Banking,Standard,3.0,2025,May,Q2,Profit
+ORD-10171,2025-09-20,CUST-1075,Customer 280,West,Maharashtra,Mumbai,Consumer,Office Supplies,Storage,File Folder,1062.5,5,0.15,835.97,226.53,0.2132,UPI,Standard,3.0,2025,September,Q3,Profit
+ORD-10468,2023-07-17,CUST-1138,Customer 281,North,Rajasthan,Udaipur,Consumer,Office Supplies,Paper,Notebook,280.0,1,0.2,196.62,83.38,0.2978,Net Banking,Second Class,2.0,2023,July,Q3,Profit
+ORD-10329,2023-06-09,CUST-1227,Customer 214,South,Telangana,Hyderabad,Corporate,Office Supplies,Storage,File Folder,425.0,2,0.15,295.3,129.7,0.3052,Debit Card,Standard,4.0,2023,June,Q2,Profit
+ORD-10013,2025-06-05,CUST-1149,Customer 150,West,Maharashtra,Nashik,Consumer,Furniture,Tables,Dining Table,125400.0,6,0.05,83794.82,41605.18,0.3318,Debit Card,Standard,6.0,2025,June,Q2,Profit
+ORD-10596,2025-11-15,CUST-1064,Customer 20,North,Rajasthan,Jaipur,Corporate,Office Supplies,Writing,Pen Set,1620.0,4,0.1,1003.6,616.4,0.3805,Cash,First Class,5.0,2025,November,Q4,Profit
+ORD-10917,2025-07-21,CUST-1058,Customer 26,East,West Bengal,Kolkata,Consumer,Technology,Accessories,Monitor,14000.0,1,0.0,10146.93,3853.07,0.2752,Cash,Standard,1.0,2025,July,Q3,Profit
+ORD-10207,2023-04-11,CUST-1170,Customer 101,South,Telangana,Hyderabad,Corporate,Furniture,Storage,Cabinet,36100.0,4,0.05,22691.63,13408.37,0.3714,Debit Card,Second Class,2.0,2023,April,Q2,Profit
+ORD-10104,2024-05-29,CUST-1104,Customer 69,North,Delhi,New Delhi,Consumer,Technology,Tablets,Tablet,20900.0,1,0.05,12122.19,8777.81,0.42,Net Banking,Second Class,7.0,2024,May,Q2,Profit
+ORD-10606,2024-01-14,CUST-1097,Customer 90,South,Kerala,Thiruvananthapuram,Small Business,Office Supplies,Paper,Notebook,997.5,3,0.05,832.64,164.86,0.1653,Cash,Second Class,6.0,2024,January,Q1,Profit
+ORD-10310,2025-07-09,CUST-1021,Customer 48,East,Odisha,Cuttack,Consumer,Technology,Accessories,Headphones,21375.0,5,0.05,16409.49,4965.51,0.2323,Debit Card,Standard,2.0,2025,July,Q3,Profit
+ORD-10508,2025-05-25,CUST-1039,Customer 195,South,Telangana,Warangal,Consumer,Office Supplies,Tables,Desk,16200.0,2,0.1,12139.91,4060.09,0.2506,Debit Card,Standard,2.0,2025,May,Q2,Profit
+ORD-10223,2024-01-21,CUST-1150,Customer 241,South,Karnataka,Bengaluru,Consumer,Technology,Accessories,Headphones,8550.0,2,0.05,6623.08,1926.92,0.2254,Credit Card,Second Class,3.0,2024,January,Q1,Profit
+ORD-10154,2023-09-23,CUST-1159,Customer 16,North,Rajasthan,Jaipur,Small Business,Furniture,Tables,Dining Table,39600.0,2,0.1,25299.4,14300.6,0.3611,Cash,Standard,3.0,2023,September,Q3,Profit
+ORD-10181,2024-01-25,CUST-1074,Customer 245,East,Bihar,Gaya,Small Business,Office Supplies,Tables,Desk,9000.0,1,0.0,6478.69,2521.31,0.2801,Net Banking,First Class,2.0,2024,January,Q1,Profit
+ORD-10650,2024-07-28,CUST-1261,Customer 123,North,Rajasthan,Jodhpur,Corporate,Furniture,Storage,Cabinet,34200.0,4,0.1,25045.6,9154.4,0.2677,Credit Card,Standard,2.0,2024,July,Q3,Profit
+ORD-10183,2023-02-12,CUST-1143,Customer 79,North,Rajasthan,Jodhpur,Consumer,Office Supplies,Writing,Pen Set,2835.0,7,0.1,2241.13,593.87,0.2095,Cash,Standard,1.0,2023,February,Q1,Profit
+ORD-10884,2024-07-16,CUST-1137,Customer 50,East,Odisha,Bhubaneswar,Consumer,Technology,Computers,Laptop,308750.0,5,0.05,210765.03,97984.97,0.3174,Debit Card,Same Day,2.0,2024,July,Q3,Profit
+ORD-10332,2024-06-06,CUST-1153,Customer 100,South,Telangana,Warangal,Consumer,Office Supplies,Paper,Notebook,1260.0,4,0.1,921.95,338.05,0.2683,Credit Card,Second Class,2.0,2024,June,Q2,Profit
+ORD-10477,2025-04-16,CUST-1211,Customer 235,South,Tamil Nadu,Salem,Corporate,Furniture,Seating,Sofa,186200.0,7,0.05,153251.6,32948.4,0.177,Credit Card,Second Class,7.0,2025,April,Q2,Profit
+ORD-10142,2024-11-08,CUST-1151,Customer 261,South,Kerala,Kochi,Corporate,Office Supplies,Chairs,Office Chair,11050.0,2,0.15,8731.53,2318.47,0.2098,Credit Card,First Class,7.0,2024,November,Q4,Profit
+ORD-10660,2025-10-18,CUST-1208,Customer 131,West,Gujarat,Vadodara,Small Business,Furniture,Tables,Dining Table,41800.0,2,0.05,26698.24,15101.76,0.3613,UPI,Second Class,2.0,2025,October,Q4,Profit
+ORD-10778,2024-05-08,CUST-1164,Customer 6,East,West Bengal,Durgapur,Corporate,Office Supplies,Paper,Notebook,2450.0,7,0.0,1538.51,911.49,0.372,Cash,Second Class,4.0,2024,May,Q2,Profit
+ORD-10545,2024-05-04,CUST-1166,Customer 233,South,Kerala,Kochi,Consumer,Furniture,Bedroom,Bed,27000.0,1,0.1,19746.09,7253.91,0.2687,Debit Card,Standard,5.0,2024,May,Q2,Profit
+ORD-10539,2024-01-19,CUST-1039,Customer 55,South,Tamil Nadu,Chennai,Corporate,Technology,Phones,Smartphone,57600.0,2,0.1,40208.64,17391.36,0.3019,Debit Card,Standard,6.0,2024,January,Q1,Profit
+ORD-10709,2024-03-17,CUST-1042,Customer 94,East,Bihar,Patna,Consumer,Furniture,Seating,Sofa,26600.0,1,0.05,15507.09,11092.91,0.417,UPI,Standard,4.0,2024,March,Q1,Profit
+ORD-10317,2023-06-18,CUST-1156,Customer 260,South,Kerala,Kochi,Corporate,Furniture,Storage,Bookshelf,6000.0,1,0.2,3888.19,2111.81,0.352,Credit Card,Standard,7.0,2023,June,Q2,Profit
+ORD-10416,2023-05-12,CUST-1220,Customer 147,North,Uttar Pradesh,Lucknow,Consumer,Office Supplies,Fasteners,Stapler,1620.0,6,0.1,1005.32,614.68,0.3794,UPI,Second Class,5.0,2023,May,Q2,Profit
+ORD-10211,2023-05-04,CUST-1234,Customer 202,South,Telangana,Warangal,Consumer,Furniture,Storage,Cabinet,18050.0,2,0.05,12389.86,5660.14,0.3136,Cash,Second Class,6.0,2023,May,Q2,Profit
+ORD-10849,2025-02-17,CUST-1009,Customer 193,East,Odisha,Bhubaneswar,Consumer,Office Supplies,Tables,Desk,9000.0,1,0.0,5617.34,3382.66,0.3759,UPI,Second Class,5.0,2025,February,Q1,Profit
+ORD-10143,2024-08-16,CUST-1221,Customer 278,South,Tamil Nadu,Tiruchirappalli,Corporate,Technology,Accessories,Headphones,8550.0,2,0.05,6891.66,1658.34,0.194,Credit Card,Same Day,3.0,2024,August,Q3,Profit
+ORD-10003,2023-06-08,CUST-1228,Customer 50,East,Odisha,Bhubaneswar,Small Business,Office Supplies,Storage,File Folder,712.5,3,0.05,612.99,99.51,0.1397,UPI,Standard,5.0,2023,June,Q2,Profit
+ORD-10363,2024-10-23,CUST-1158,Customer 210,South,Tamil Nadu,Chennai,Consumer,Office Supplies,Fasteners,Stapler,1620.0,6,0.1,976.9,643.1,0.397,Net Banking,Same Day,1.0,2024,October,Q4,Profit
+ORD-10005,2023-11-08,CUST-1212,Customer 106,West,Maharashtra,Mumbai,Small Business,Technology,Tablets,Tablet,83600.0,4,0.05,69135.69,14464.31,0.173,Cash,First Class,7.0,2023,November,Q4,Profit
+ORD-10045,2024-10-11,CUST-1110,Customer 133,West,Maharashtra,Nashik,Consumer,Office Supplies,Fasteners,Stapler,1995.0,7,0.05,1443.5,551.5,0.2764,Credit Card,First Class,7.0,2024,October,Q4,Profit
+ORD-10954,2024-01-04,CUST-1281,Customer 150,West,Maharashtra,Nagpur,Consumer,Furniture,Bedroom,Bed,153000.0,6,0.15,110470.7,42529.3,0.278,Cash,Standard,6.0,2024,January,Q1,Profit
+ORD-10282,2025-07-28,CUST-1078,Customer 130,East,West Bengal,Kolkata,Consumer,Office Supplies,Writing,Pen Set,1620.0,4,0.1,1335.39,284.61,0.1757,Credit Card,Standard,4.0,2025,July,Q3,Profit
+ORD-10682,2025-08-10,CUST-1265,Customer 40,South,Kerala,Kozhikode,Consumer,Technology,Computers,Laptop,175500.0,3,0.1,110625.44,64874.56,0.3697,Credit Card,Standard,3.0,2025,August,Q3,Profit
+ORD-10203,2024-02-04,CUST-1260,Customer 17,East,Odisha,Cuttack,Consumer,Furniture,Storage,Cabinet,42750.0,5,0.1,29640.79,13109.21,0.3066,Net Banking,Second Class,4.0,2024,February,Q1,Profit
+ORD-10303,2025-02-11,CUST-1292,Customer 75,South,Telangana,Warangal,Small Business,Office Supplies,Writing,Pen Set,2565.0,6,0.05,2091.3,473.7,0.1847,Net Banking,First Class,6.0,2025,February,Q1,Profit
+ORD-10988,2023-04-14,CUST-1279,Customer 253,East,Odisha,Bhubaneswar,Consumer,Furniture,Tables,Dining Table,33000.0,2,0.25,22899.4,10100.6,0.3061,UPI,Second Class,2.0,2023,April,Q2,Profit
+ORD-10366,2025-05-09,CUST-1216,Customer 280,West,Maharashtra,Nagpur,Small Business,Office Supplies,Fasteners,Stapler,285.0,1,0.05,220.18,64.82,0.2275,Debit Card,First Class,6.0,2025,May,Q2,Profit
+ORD-10359,2023-08-24,CUST-1081,Customer 116,South,Kerala,Thiruvananthapuram,Corporate,Technology,Tablets,Tablet,37400.0,2,0.15,32339.56,5060.44,0.1353,Cash,Standard,3.0,2023,August,Q3,Profit
+ORD-10636,2025-10-11,CUST-1010,Customer 221,East,West Bengal,Kolkata,Corporate,Technology,Tablets,Tablet,83600.0,4,0.05,55968.67,27631.33,0.3305,Net Banking,Standard,1.0,2025,October,Q4,Profit
+ORD-10521,2025-05-24,CUST-1005,Customer 118,South,Kerala,Kochi,Corporate,Furniture,Tables,Dining Table,112200.0,6,0.15,69725.3,42474.7,0.3786,UPI,Standard,3.0,2025,May,Q2,Profit
+ORD-10372,2023-10-10,CUST-1057,Customer 261,North,Delhi,New Delhi,Corporate,Furniture,Storage,Cabinet,28500.0,3,0.0,18044.05,10455.95,0.3669,Credit Card,Standard,7.0,2023,October,Q4,Profit
+ORD-10708,2024-05-30,CUST-1135,Customer 93,East,Odisha,Bhubaneswar,Consumer,Office Supplies,Paper,Notebook,1662.5,5,0.05,1396.19,266.31,0.1602,Net Banking,First Class,6.0,2024,May,Q2,Profit
+ORD-10628,2024-01-22,CUST-1210,Customer 184,West,Maharashtra,Mumbai,Corporate,Technology,Tablets,Tablet,41800.0,2,0.05,35359.21,6440.79,0.1541,Cash,Standard,6.0,2024,January,Q1,Profit
+ORD-10379,2024-05-29,CUST-1099,Customer 226,West,Maharashtra,Nagpur,Consumer,Furniture,Bedroom,Bed,135000.0,5,0.1,87895.42,47104.58,0.3489,Cash,Same Day,1.0,2024,May,Q2,Profit
+ORD-10232,2023-08-01,CUST-1168,Customer 153,South,Karnataka,Bengaluru,Consumer,Technology,Phones,Smartphone,27200.0,1,0.15,18972.62,8227.38,0.3025,Cash,Standard,2.0,2023,August,Q3,Profit
+ORD-10238,2023-06-13,CUST-1177,Customer 55,South,Telangana,Warangal,Consumer,Technology,Tablets,Tablet,88000.0,4,0.0,66754.06,21245.94,0.2414,Net Banking,First Class,1.0,2023,June,Q2,Profit
+ORD-10946,2023-05-02,CUST-1187,Customer 110,East,Bihar,Patna,Consumer,Furniture,Seating,Sofa,140000.0,5,0.0,108435.51,31564.49,0.2255,Credit Card,Same Day,2.0,2023,May,Q2,Profit
+ORD-10172,2025-08-21,CUST-1042,Customer 146,West,Gujarat,Surat,Corporate,Technology,Computers,Laptop,276250.0,5,0.15,181135.35,95114.65,0.3443,Cash,Standard,5.0,2025,August,Q3,Profit
+ORD-10274,2024-12-26,CUST-1297,Customer 100,North,Delhi,New Delhi,Corporate,Technology,Printers,Printer,55000.0,5,0.0,47342.96,7657.04,0.1392,Net Banking,Second Class,6.0,2024,December,Q4,Profit
+ORD-10684,2025-06-14,CUST-1094,Customer 82,East,Bihar,Gaya,Consumer,Office Supplies,Tables,Desk,36000.0,5,0.2,21610.13,14389.87,0.3997,UPI,Second Class,1.0,2025,June,Q2,Profit
+ORD-10557,2023-06-26,CUST-1239,Customer 33,North,Rajasthan,Jaipur,Consumer,Technology,Printers,Printer,20900.0,2,0.05,16832.52,4067.48,0.1946,Credit Card,Standard,7.0,2023,June,Q2,Profit
+ORD-10921,2024-07-12,CUST-1171,Customer 163,North,Delhi,Delhi,Consumer,Technology,Accessories,Monitor,88200.0,7,0.1,76481.79,11718.21,0.1329,UPI,First Class,4.0,2024,July,Q3,Profit
+ORD-10195,2025-12-15,CUST-1101,Customer 77,East,Odisha,Cuttack,Consumer,Office Supplies,Paper,Notebook,1890.0,6,0.1,1525.0,365.0,0.1931,Net Banking,Standard,7.0,2025,December,Q4,Profit
+ORD-10721,2024-02-11,CUST-1006,Customer 80,West,Gujarat,Vadodara,Small Business,Technology,Accessories,Headphones,21375.0,5,0.05,16927.11,4447.89,0.2081,Cash,Standard,2.0,2024,February,Q1,Profit
+ORD-10103,2025-09-06,CUST-1090,Customer 158,North,Uttar Pradesh,Lucknow,Corporate,Technology,Accessories,Headphones,20250.0,5,0.1,12463.18,7786.82,0.3845,Debit Card,Standard,6.0,2025,September,Q3,Profit
+ORD-10775,2023-09-25,CUST-1132,Customer 2,South,Tamil Nadu,Coimbatore,Consumer,Technology,Phones,Smartphone,27200.0,1,0.15,18852.76,8347.24,0.3069,Cash,Standard,7.0,2023,September,Q3,Profit
+ORD-10515,2025-06-24,CUST-1057,Customer 164,West,Maharashtra,Nagpur,Small Business,Office Supplies,Tables,Desk,54000.0,6,0.0,45571.99,8428.01,0.1561,Cash,Standard,3.0,2025,June,Q2,Profit
+ORD-10517,2024-08-04,CUST-1128,Customer 53,South,Karnataka,Bengaluru,Small Business,Office Supplies,Chairs,Office Chair,35100.0,6,0.1,22791.28,12308.72,0.3507,UPI,Standard,2.0,2024,August,Q3,Profit
+ORD-10210,2024-02-24,CUST-1069,Customer 196,East,West Bengal,Durgapur,Corporate,Furniture,Storage,Bookshelf,42750.0,6,0.05,30588.56,12161.44,0.2845,Credit Card,Standard,6.0,2024,February,Q1,Profit
+ORD-10163,2023-08-26,CUST-1284,Customer 178,North,Rajasthan,Jaipur,Consumer,Technology,Printers,Printer,52250.0,5,0.05,31958.45,20291.55,0.3884,UPI,Standard,3.0,2023,August,Q3,Profit
+ORD-10670,2025-09-08,CUST-1097,Customer 177,South,Telangana,Hyderabad,Consumer,Office Supplies,Chairs,Office Chair,6500.0,1,0.0,5711.68,788.32,0.1213,Debit Card,Standard,5.0,2025,September,Q3,Profit
+ORD-10573,2024-07-24,CUST-1163,Customer 299,North,Delhi,Delhi,Consumer,Furniture,Seating,Sofa,25200.0,1,0.1,21096.67,4103.33,0.1628,Net Banking,Standard,2.0,2024,July,Q3,Profit
+ORD-10088,2023-04-26,CUST-1275,Customer 249,North,Uttar Pradesh,Agra,Corporate,Office Supplies,Chairs,Office Chair,5850.0,1,0.1,3421.51,2428.49,0.4151,Cash,Standard,3.0,2023,April,Q2,Profit
+ORD-10743,2023-06-22,CUST-1216,Customer 203,South,Karnataka,Bengaluru,Consumer,Office Supplies,Fasteners,Stapler,1995.0,7,0.05,1221.02,773.98,0.388,Net Banking,Standard,2.0,2023,June,Q2,Profit
+ORD-10608,2023-11-03,CUST-1021,Customer 79,South,Telangana,Hyderabad,Consumer,Technology,Computers,Laptop,123500.0,2,0.05,77864.72,45635.28,0.3695,Net Banking,Standard,7.0,2023,November,Q4,Profit
+ORD-10191,2023-12-11,CUST-1292,Customer 276,South,Kerala,Kochi,Small Business,Technology,Phones,Smartphone,57600.0,2,0.1,45540.42,12059.58,0.2094,Cash,Second Class,3.0,2023,December,Q4,Profit
+ORD-10179,2025-09-15,CUST-1101,Customer 29,East,West Bengal,Kolkata,Consumer,Furniture,Tables,Dining Table,125400.0,6,0.05,86456.62,38943.38,0.3106,Cash,First Class,4.0,2025,September,Q3,Profit
+ORD-10393,2025-10-30,CUST-1213,Customer 250,North,Rajasthan,Jaipur,Small Business,Furniture,Seating,Sofa,106400.0,4,0.05,89619.89,16780.11,0.1577,Credit Card,Standard,6.0,2025,October,Q4,Profit
+ORD-10996,2024-09-04,CUST-1205,Customer 125,West,Gujarat,Surat,Corporate,Furniture,Storage,Cabinet,34200.0,4,0.1,26676.19,7523.81,0.22,Cash,Standard,4.0,2024,September,Q3,Profit
+ORD-10563,2025-05-02,CUST-1138,Customer 224,East,West Bengal,Kolkata,Consumer,Office Supplies,Paper,Notebook,630.0,2,0.1,429.52,200.48,0.3182,,Standard,2.0,2025,May,Q2,Profit
+ORD-10914,2024-11-02,CUST-1130,Customer 280,East,West Bengal,Kolkata,Consumer,Furniture,Storage,Bookshelf,14250.0,2,0.05,9137.38,5112.62,0.3588,Credit Card,Standard,6.0,2024,November,Q4,Profit
+ORD-10892,2023-09-15,CUST-1204,Customer 154,South,Kerala,Thiruvananthapuram,Consumer,Office Supplies,Chairs,Office Chair,5850.0,1,0.1,4817.72,1032.28,0.1765,Debit Card,Standard,4.0,2023,September,Q3,Profit
+ORD-10512,2023-06-12,CUST-1268,Customer 217,East,West Bengal,Durgapur,Corporate,Technology,Phones,Smartphone,144000.0,5,0.1,126588.21,17411.79,0.1209,UPI,Standard,5.0,2023,June,Q2,Profit
+ORD-10615,2023-06-13,CUST-1164,Customer 122,East,Bihar,Gaya,Small Business,Technology,Phones,Smartphone,96000.0,3,0.0,68953.87,27046.13,0.2817,Debit Card,Second Class,6.0,2023,June,Q2,Profit
+ORD-10440,2025-02-04,CUST-1146,Customer 236,West,Gujarat,Vadodara,Small Business,Furniture,Bedroom,Bed,60000.0,2,0.0,41186.97,18813.03,0.3136,Credit Card,Standard,6.0,2025,February,Q1,Profit
+ORD-10472,2023-03-19,CUST-1052,Customer 278,West,Maharashtra,Mumbai,Consumer,Technology,Phones,Smartphone,91200.0,3,0.05,53513.37,37686.63,0.4132,Credit Card,Standard,7.0,2023,March,Q1,Profit
+ORD-10399,2023-04-22,CUST-1103,Customer 58,South,Tamil Nadu,Chennai,Consumer,Furniture,Tables,Coffee Table,13600.0,2,0.15,8626.04,4973.96,0.3657,Net Banking,Standard,3.0,2023,April,Q2,Profit
+ORD-10586,2024-01-11,CUST-1047,Customer 298,South,Telangana,Hyderabad,Consumer,Technology,Phones,Smartphone,30400.0,1,0.05,25488.13,4911.87,0.1616,Credit Card,First Class,7.0,2024,January,Q1,Profit
+ORD-10488,2024-08-03,CUST-1296,Customer 161,West,Maharashtra,Nashik,Corporate,Furniture,Storage,Cabinet,38000.0,4,0.0,28743.1,9256.9,0.2436,UPI,First Class,4.0,2024,August,Q3,Profit
+ORD-10701,2023-07-20,CUST-1216,Customer 293,West,Maharashtra,Mumbai,Corporate,Office Supplies,Tables,Desk,56700.0,7,0.1,39550.7,17149.3,0.3025,Cash,Standard,7.0,2023,July,Q3,Profit
+ORD-10798,2024-02-10,CUST-1164,Customer 66,West,Maharashtra,Mumbai,Consumer,Technology,Accessories,Headphones,20250.0,5,0.1,14127.72,6122.28,0.3023,Credit Card,Standard,2.0,2024,February,Q1,Profit
+ORD-10044,2025-09-14,CUST-1074,Customer 103,South,Kerala,Kochi,Consumer,Office Supplies,Writing,Pen Set,1080.0,3,0.2,736.99,343.01,0.3176,Net Banking,Second Class,5.0,2025,September,Q3,Profit
+ORD-10262,2024-02-29,CUST-1062,Customer 288,South,Kerala,Thiruvananthapuram,Small Business,Technology,Accessories,Monitor,88200.0,7,0.1,71886.6,16313.4,0.185,Net Banking,Standard,4.0,2024,February,Q1,Profit
+ORD-10733,2025-05-05,CUST-1212,Customer 16,East,Bihar,Gaya,Consumer,Furniture,Bedroom,Bed,85500.0,3,0.05,51338.99,34161.01,0.3995,Credit Card,First Class,5.0,2025,May,Q2,Profit
+ORD-10430,2025-11-09,CUST-1217,Customer 107,North,Uttar Pradesh,Noida,Corporate,Office Supplies,Writing,Pen Set,405.0,1,0.1,278.37,126.63,0.3127,Debit Card,Standard,2.0,2025,November,Q4,Profit
+ORD-10229,2025-06-19,CUST-1232,Customer 297,South,Tamil Nadu,Tiruchirappalli,Consumer,Office Supplies,Writing,Pen Set,382.5,1,0.15,267.92,114.58,0.2996,Cash,Second Class,6.0,2025,June,Q2,Profit
+ORD-10006,2024-03-20,CUST-1112,Customer 216,North,Rajasthan,Jodhpur,Consumer,Office Supplies,Chairs,Office Chair,30875.0,5,0.05,23059.22,7815.78,0.2531,Net Banking,Second Class,7.0,2024,March,Q1,Profit
+ORD-10981,2025-06-27,CUST-1177,Customer 82,East,West Bengal,Durgapur,Small Business,Technology,Accessories,Monitor,23800.0,2,0.15,18988.25,4811.75,0.2022,Net Banking,Second Class,2.0,2025,June,Q2,Profit
+ORD-10811,2023-12-13,CUST-1039,Customer 152,South,Telangana,Warangal,Consumer,Technology,Printers,Printer,29700.0,3,0.1,25402.24,4297.76,0.1447,Cash,First Class,7.0,2023,December,Q4,Profit
+ORD-10319,2024-01-13,CUST-1120,Customer 121,South,Kerala,Thiruvananthapuram,Consumer,Office Supplies,Writing,Pen Set,2565.0,6,0.05,1549.34,1015.66,0.396,Cash,Second Class,5.0,2024,January,Q1,Profit
+ORD-10872,2024-04-29,CUST-1058,Customer 271,West,Maharashtra,Mumbai,Consumer,Furniture,Bedroom,Bed,102000.0,4,0.15,69528.0,32472.0,0.3184,Cash,Second Class,6.0,2024,April,Q2,Profit
+ORD-10313,2024-04-07,CUST-1080,Customer 188,South,Telangana,Hyderabad,Corporate,Technology,Accessories,Headphones,19125.0,5,0.15,11434.38,7690.62,0.4021,Net Banking,Second Class,2.0,2024,April,Q2,Profit
+ORD-10076,2023-06-09,CUST-1139,Customer 215,East,West Bengal,Kolkata,Consumer,Furniture,Seating,Sofa,75600.0,3,0.1,64265.99,11334.01,0.1499,Debit Card,First Class,3.0,2023,June,Q2,Profit
+ORD-10174,2025-11-01,CUST-1033,Customer 4,East,Bihar,Patna,Corporate,Technology,Printers,Printer,31350.0,3,0.05,23954.26,7395.74,0.2359,Cash,Standard,2.0,2025,November,Q4,Profit
+ORD-10833,2025-06-10,CUST-1229,Customer 249,North,Uttar Pradesh,Noida,Consumer,Office Supplies,Storage,File Folder,450.0,2,0.1,288.55,161.45,0.3588,Credit Card,Second Class,6.0,2025,June,Q2,Profit
+ORD-10052,2023-09-20,CUST-1226,Customer 63,South,Telangana,Warangal,Corporate,Office Supplies,Tables,Desk,56700.0,7,0.1,33359.77,23340.23,0.4116,Credit Card,Standard,3.0,2023,September,Q3,Profit
+ORD-10552,2024-07-26,CUST-1049,Customer 114,East,Bihar,Patna,Corporate,Furniture,Storage,Bookshelf,6750.0,1,0.1,4460.05,2289.95,0.3393,Credit Card,Standard,1.0,2024,July,Q3,Profit
+ORD-10788,2023-12-09,CUST-1217,Customer 228,South,Tamil Nadu,Coimbatore,Corporate,Office Supplies,Chairs,Office Chair,6175.0,1,0.05,3743.49,2431.51,0.3938,Net Banking,First Class,6.0,2023,December,Q4,Profit
+ORD-10911,2023-01-23,CUST-1064,Customer 203,East,West Bengal,Durgapur,Corporate,Furniture,Bedroom,Bed,120000.0,4,0.0,76311.11,43688.89,0.3641,Debit Card,First Class,2.0,2023,January,Q1,Profit
+ORD-10221,2024-08-20,CUST-1049,Customer 12,East,Odisha,Cuttack,Small Business,Furniture,Storage,Cabinet,59850.0,7,0.1,49323.4,10526.6,0.1759,Net Banking,Second Class,4.0,2024,August,Q3,Profit
+ORD-10509,2024-09-09,CUST-1013,Customer 12,South,Tamil Nadu,Chennai,Consumer,Technology,Tablets,Tablet,146300.0,7,0.05,113954.26,32345.74,0.2211,Credit Card,First Class,3.0,2024,September,Q3,Profit
+ORD-10579,2024-01-26,CUST-1181,Customer 167,East,West Bengal,Durgapur,Corporate,Furniture,Storage,Bookshelf,52500.0,7,0.0,35672.97,16827.03,0.3205,Cash,Second Class,4.0,2024,January,Q1,Profit
+ORD-10388,2023-05-09,CUST-1214,Customer 7,South,Kerala,Thiruvananthapuram,Consumer,Office Supplies,Writing,Pen Set,1710.0,4,0.05,1135.75,574.25,0.3358,Debit Card,Second Class,4.0,2023,May,Q2,Profit
+ORD-10094,2023-07-27,CUST-1034,Customer 127,East,West Bengal,Kolkata,Consumer,Furniture,Storage,Cabinet,15200.0,2,0.2,9429.67,5770.33,0.3796,Cash,First Class,1.0,2023,July,Q3,Profit
+ORD-10149,2024-02-03,CUST-1144,Customer 246,North,Uttar Pradesh,Lucknow,Consumer,Office Supplies,Fasteners,Stapler,480.0,2,0.2,282.1,197.9,0.4123,Credit Card,Standard,3.0,2024,February,Q1,Profit
+ORD-10483,2024-12-10,CUST-1168,Customer 296,North,Uttar Pradesh,Agra,Consumer,Technology,Tablets,Tablet,20900.0,1,0.05,13807.36,7092.64,0.3394,Cash,First Class,5.0,2024,December,Q4,Profit
+ORD-10948,2023-06-19,CUST-1255,Customer 129,East,West Bengal,Durgapur,Consumer,Office Supplies,Writing,Pen Set,1215.0,3,0.1,1031.8,183.2,0.1508,Credit Card,Standard,6.0,2023,June,Q2,Profit
+ORD-10250,2024-09-15,CUST-1186,Customer 31,West,Gujarat,Ahmedabad,Corporate,Office Supplies,Storage,File Folder,500.0,2,,312.72,187.28,0.3746,Net Banking,Standard,3.0,2024,September,Q3,Profit
+ORD-10341,2025-09-11,CUST-1201,Customer 262,South,Kerala,Thiruvananthapuram,Small Business,Technology,Tablets,Tablet,132000.0,6,0.0,80441.1,51558.9,0.3906,Credit Card,Standard,2.0,2025,September,Q3,Profit
+ORD-10891,2023-10-23,CUST-1114,Customer 43,North,Uttar Pradesh,Noida,Consumer,Furniture,Tables,Dining Table,20900.0,1,0.05,16900.83,3999.17,0.1913,UPI,First Class,4.0,2023,October,Q4,Profit
+ORD-10201,2025-06-01,CUST-1226,Customer 73,East,Bihar,Patna,Consumer,Furniture,Storage,Cabinet,56525.0,7,0.15,42696.89,13828.11,0.2446,Credit Card,Standard,4.0,2025,June,Q2,Profit
+ORD-10092,2025-10-13,CUST-1140,Customer 28,West,Maharashtra,Nagpur,Consumer,Furniture,Tables,Dining Table,66000.0,3,0.0,49300.25,16699.75,0.253,Net Banking,Standard,5.0,2025,October,Q4,Profit
+ORD-10541,2024-02-29,CUST-1045,Customer 62,South,Kerala,Kozhikode,Consumer,Furniture,Storage,Bookshelf,52500.0,7,0.0,41029.41,11470.59,0.2185,Net Banking,Standard,6.0,2024,February,Q1,Profit
+ORD-10443,2024-08-16,CUST-1122,Customer 246,West,Maharashtra,Nagpur,Consumer,Office Supplies,Writing,Pen Set,3150.0,7,0.0,2073.8,1076.2,0.3417,Cash,Standard,3.0,2024,August,Q3,Profit
+ORD-10977,2023-05-19,CUST-1072,Customer 286,North,Delhi,New Delhi,Corporate,Furniture,Tables,Dining Table,138600.0,7,0.1,119064.27,19535.73,0.141,Cash,First Class,6.0,2023,May,Q2,Profit
+ORD-10281,2024-08-03,CUST-1231,Customer 107,North,Rajasthan,Jodhpur,Corporate,Furniture,Storage,Cabinet,9500.0,1,0.0,5755.48,3744.52,0.3942,Cash,Standard,3.0,2024,August,Q3,Profit
+ORD-10411,2025-11-09,CUST-1200,Customer 119,North,Uttar Pradesh,Lucknow,Corporate,Technology,Phones,Smartphone,201600.0,7,0.1,142076.71,59523.29,0.2953,Credit Card,First Class,3.0,2025,November,Q4,Profit
+ORD-10906,2025-11-19,CUST-1163,Customer 129,West,Gujarat,Ahmedabad,Consumer,Furniture,Tables,Coffee Table,24000.0,3,0.0,18771.04,5228.96,0.2179,Credit Card,Standard,2.0,2025,November,Q4,Profit
+ORD-10569,2024-03-10,CUST-1082,Customer 229,East,West Bengal,Kolkata,Consumer,Office Supplies,Fasteners,Stapler,1350.0,5,0.1,1110.57,239.43,0.1774,Credit Card,Second Class,6.0,2024,March,Q1,Profit
+ORD-10609,2025-02-17,CUST-1039,Customer 73,East,Bihar,Patna,Corporate,Technology,Accessories,Headphones,17100.0,4,0.05,14208.95,2891.05,0.1691,Credit Card,Standard,2.0,2025,February,Q1,Profit
+ORD-10918,2023-01-07,CUST-1106,Customer 194,North,Uttar Pradesh,Lucknow,Corporate,Technology,Phones,Smartphone,136000.0,5,0.15,87694.08,48305.92,0.3552,UPI,Standard,3.0,2023,January,Q1,Profit
+ORD-10336,2025-07-24,CUST-1172,Customer 135,South,Kerala,Thiruvananthapuram,Corporate,Furniture,Tables,Dining Table,125400.0,6,0.05,94025.61,31374.39,0.2502,UPI,First Class,4.0,2025,July,Q3,Profit
+ORD-10897,2024-07-27,CUST-1286,Customer 290,South,Kerala,Kozhikode,Consumer,Technology,Accessories,Monitor,70000.0,5,0.0,57272.64,12727.36,0.1818,Debit Card,Standard,5.0,2024,July,Q3,Profit
+ORD-10681,2023-12-04,CUST-1093,Customer 213,North,Rajasthan,Udaipur,Consumer,Furniture,Storage,Bookshelf,35625.0,5,0.05,28595.75,7029.25,0.1973,Cash,Standard,1.0,2023,December,Q4,Profit
+ORD-10915,2024-11-09,CUST-1110,Customer 205,East,Odisha,Bhubaneswar,Corporate,Office Supplies,Tables,Desk,54000.0,6,0.0,36048.96,17951.04,0.3324,Credit Card,Second Class,7.0,2024,November,Q4,Profit
+ORD-10507,2025-07-14,CUST-1103,Customer 233,North,Rajasthan,Udaipur,Consumer,Office Supplies,Storage,File Folder,750.0,3,,538.17,211.83,0.2824,Net Banking,First Class,7.0,2025,July,Q3,Profit
+ORD-10962,2023-03-09,CUST-1027,Customer 48,East,West Bengal,Durgapur,Consumer,Furniture,Tables,Dining Table,22000.0,1,0.0,15600.29,6399.71,0.2909,Net Banking,Standard,6.0,2023,March,Q1,Profit
+ORD-10752,2024-11-06,CUST-1271,Customer 113,North,Uttar Pradesh,Lucknow,Small Business,Technology,Accessories,Headphones,24300.0,6,0.1,18722.47,5577.53,0.2295,Cash,Second Class,4.0,2024,November,Q4,Profit
+ORD-10093,2023-11-07,CUST-1280,Customer 17,North,Delhi,New Delhi,Corporate,Technology,Computers,Laptop,123500.0,2,0.05,84328.18,39171.82,0.3172,Cash,Standard,4.0,2023,November,Q4,Profit
+ORD-10735,2023-06-03,CUST-1209,Customer 293,North,Delhi,Delhi,Consumer,Technology,Accessories,Headphones,4500.0,1,0.0,3359.99,1140.01,0.2533,Credit Card,Same Day,1.0,2023,June,Q2,Profit
+ORD-10731,2023-10-08,CUST-1103,Customer 29,East,Bihar,Gaya,Consumer,Office Supplies,Paper,Notebook,630.0,2,0.1,410.98,219.02,0.3477,Credit Card,Second Class,6.0,2023,October,Q4,Profit
+ORD-10854,2024-08-06,CUST-1143,Customer 170,West,Gujarat,Ahmedabad,Consumer,Technology,Printers,Printer,62700.0,6,0.05,45467.41,17232.59,0.2748,Net Banking,Standard,1.0,2024,August,Q3,Profit
+ORD-10903,2024-09-02,CUST-1141,Customer 88,East,West Bengal,Durgapur,Consumer,Technology,Printers,Printer,33000.0,3,0.0,23051.03,9948.97,0.3015,Debit Card,First Class,1.0,2024,September,Q3,Profit
+ORD-10576,2024-07-14,CUST-1002,Customer 67,West,Maharashtra,Nagpur,Corporate,Furniture,Storage,Cabinet,40375.0,5,0.15,31779.04,8595.96,0.2129,Cash,Standard,4.0,2024,July,Q3,Profit
+ORD-10574,2024-09-02,CUST-1098,Customer 99,South,Telangana,Warangal,Consumer,Furniture,Storage,Cabinet,27075.0,3,0.05,21914.38,5160.62,0.1906,UPI,Standard,1.0,2024,September,Q3,Profit
+ORD-10279,2025-05-05,CUST-1193,Customer 29,North,Uttar Pradesh,Agra,Consumer,Technology,Tablets,Tablet,74800.0,4,0.15,43879.16,30920.84,0.4134,Net Banking,Second Class,1.0,2025,May,Q2,Profit
+ORD-10280,2024-04-11,CUST-1092,Customer 114,South,Karnataka,Bengaluru,Small Business,Office Supplies,Fasteners,Stapler,810.0,3,0.1,708.55,101.45,0.1252,Credit Card,Second Class,2.0,2024,April,Q2,Profit
+ORD-10338,2024-05-02,CUST-1184,Customer 156,South,Tamil Nadu,Coimbatore,Corporate,Technology,Computers,Laptop,221000.0,4,0.15,165167.02,55832.98,0.2526,UPI,Standard,6.0,2024,May,Q2,Profit
+ORD-10228,2024-10-11,CUST-1049,Customer 288,West,Maharashtra,Nashik,Corporate,Technology,Tablets,Tablet,112200.0,6,0.15,84657.26,27542.74,0.2455,Cash,Second Class,1.0,2024,October,Q4,Profit
+ORD-10009,2023-02-05,CUST-1253,Customer 273,North,Rajasthan,Udaipur,Consumer,Technology,Accessories,Headphones,4050.0,1,0.1,3343.33,706.67,0.1745,UPI,Standard,4.0,2023,February,Q1,Profit
+ORD-10086,2024-09-05,CUST-1210,Customer 87,North,Rajasthan,Udaipur,Consumer,Office Supplies,Chairs,Office Chair,17550.0,3,0.1,13515.49,4034.51,0.2299,Cash,Standard,3.0,2024,September,Q3,Profit
+ORD-10861,2024-06-03,CUST-1172,Customer 141,South,Tamil Nadu,Salem,Consumer,Furniture,Tables,Coffee Table,7200.0,1,0.1,5777.78,1422.22,0.1975,Net Banking,Standard,7.0,2024,June,Q2,Profit
+ORD-10610,2024-05-18,CUST-1223,Customer 176,North,Uttar Pradesh,Noida,Corporate,Furniture,Tables,Dining Table,39600.0,2,0.1,29489.05,10110.95,0.2553,Credit Card,Standard,2.0,2024,May,Q2,Profit
+ORD-10724,2024-07-03,CUST-1066,Customer 128,North,Rajasthan,Udaipur,Consumer,Office Supplies,Tables,Desk,50400.0,7,0.2,35332.63,15067.37,0.299,Cash,Second Class,7.0,2024,July,Q3,Profit
+ORD-10832,2024-02-08,CUST-1123,Customer 186,East,Odisha,Bhubaneswar,Small Business,Technology,Computers,Laptop,432250.0,7,0.05,357556.9,74693.1,0.1728,Credit Card,Standard,4.0,2024,February,Q1,Profit
+ORD-10097,2024-10-31,CUST-1112,Customer 76,East,Bihar,Gaya,Small Business,Technology,Phones,Smartphone,182400.0,6,0.05,156046.71,26353.29,0.1445,Debit Card,Standard,7.0,2024,October,Q4,Profit
+ORD-10342,2025-02-28,CUST-1275,Customer 283,West,Gujarat,Ahmedabad,Small Business,Office Supplies,Storage,File Folder,1350.0,6,0.1,800.85,549.15,0.4068,Debit Card,Second Class,6.0,2025,February,Q1,Profit
+ORD-10122,2024-04-25,CUST-1032,Customer 2,East,Bihar,Patna,Consumer,Technology,Computers,Laptop,234000.0,4,0.1,142504.47,91495.53,0.391,Credit Card,Standard,3.0,2024,April,Q2,Profit
+ORD-10157,2025-04-01,CUST-1256,Customer 89,South,Telangana,Hyderabad,Small Business,Office Supplies,Fasteners,Stapler,1890.0,7,0.1,1157.46,732.54,0.3876,Cash,Standard,2.0,2025,April,Q2,Profit
+ORD-10744,2025-12-22,CUST-1024,Customer 61,East,Bihar,Gaya,Corporate,Furniture,Storage,Bookshelf,45000.0,6,0.0,38970.94,6029.06,0.134,Cash,Same Day,6.0,2025,December,Q4,Profit
+ORD-10639,2025-07-16,CUST-1164,Customer 192,North,Rajasthan,Jodhpur,Consumer,Furniture,Tables,Dining Table,105600.0,6,0.2,65659.57,39940.43,0.3782,UPI,Second Class,1.0,2025,July,Q3,Profit
+ORD-10674,2023-06-05,CUST-1200,Customer 267,East,Bihar,Patna,Consumer,Office Supplies,Chairs,Office Chair,5525.0,1,0.15,3295.22,2229.78,0.4036,Cash,First Class,2.0,2023,June,Q2,Profit
+ORD-10471,2024-02-03,CUST-1017,Customer 152,East,West Bengal,Durgapur,Corporate,Furniture,Storage,Bookshelf,37500.0,5,0.0,23958.31,13541.69,0.3611,Debit Card,First Class,7.0,2024,February,Q1,Profit
+ORD-10558,2024-06-12,CUST-1133,Customer 276,South,Tamil Nadu,Coimbatore,Corporate,Office Supplies,Storage,File Folder,712.5,3,0.05,604.98,107.52,0.1509,Cash,Same Day,1.0,2024,June,Q2,Profit
+ORD-10294,2023-10-04,CUST-1166,Customer 139,West,Maharashtra,Pune,Consumer,Office Supplies,Storage,File Folder,225.0,1,0.1,133.76,91.24,0.4055,Credit Card,Second Class,5.0,2023,October,Q4,Profit
+ORD-10814,2024-07-26,CUST-1085,Customer 94,North,Delhi,New Delhi,Consumer,Office Supplies,Fasteners,Stapler,270.0,1,0.1,222.07,47.93,0.1775,Net Banking,First Class,5.0,2024,July,Q3,Profit
+ORD-10738,2023-03-24,CUST-1116,Customer 19,South,Telangana,Warangal,Consumer,Office Supplies,Writing,Pen Set,2250.0,5,0.0,1559.39,690.61,0.3069,Net Banking,Standard,7.0,2023,March,Q1,Profit
+ORD-10165,2025-06-17,CUST-1197,Customer 188,South,Kerala,Kochi,Consumer,Office Supplies,Writing,Pen Set,2137.5,5,0.05,1588.81,548.69,0.2567,Net Banking,Second Class,1.0,2025,June,Q2,Profit
+ORD-10837,2024-12-04,CUST-1029,Customer 22,West,Maharashtra,Pune,Small Business,Office Supplies,Fasteners,Stapler,1440.0,6,0.2,882.66,557.34,0.387,Cash,Second Class,7.0,2024,December,Q4,Profit
+ORD-10283,2024-03-24,CUST-1085,Customer 84,South,Kerala,Kochi,Consumer,Furniture,Seating,Sofa,176400.0,7,0.1,117147.32,59252.68,0.3359,Net Banking,First Class,7.0,2024,March,Q1,Profit
+ORD-10365,2024-06-17,CUST-1196,Customer 220,East,Bihar,Gaya,Corporate,Technology,Phones,Smartphone,192000.0,6,0.0,149977.02,42022.98,0.2189,Debit Card,Standard,5.0,2024,June,Q2,Profit
+ORD-10311,2023-11-25,CUST-1092,Customer 86,South,Tamil Nadu,,Consumer,Office Supplies,Fasteners,Stapler,510.0,2,0.15,383.26,126.74,0.2485,Debit Card,Same Day,4.0,2023,November,Q4,Profit
+ORD-10511,2025-06-21,CUST-1181,Customer 177,North,Rajasthan,Jodhpur,Consumer,Technology,Tablets,Tablet,44000.0,2,0.0,37818.97,6181.03,0.1405,Net Banking,First Class,7.0,2025,June,Q2,Profit
+ORD-10180,2024-03-22,CUST-1256,Customer 151,North,Rajasthan,Jodhpur,Consumer,Furniture,Tables,Dining Table,146300.0,7,0.05,112985.98,33314.02,0.2277,Debit Card,Standard,2.0,2024,March,Q1,Profit
+ORD-10070,2024-12-08,CUST-1254,Customer 192,South,Karnataka,Mangaluru,Consumer,Technology,Computers,Laptop,455000.0,7,0.0,319399.61,135600.39,0.298,Net Banking,Standard,5.0,2024,December,Q4,Profit
+ORD-10926,2025-03-27,CUST-1055,Customer 54,South,Tamil Nadu,Chennai,Consumer,Furniture,Storage,Bookshelf,19125.0,3,0.15,15150.51,3974.49,0.2078,Cash,Standard,3.0,2025,March,Q1,Profit
+ORD-10887,2024-03-29,CUST-1289,Customer 105,South,Telangana,Warangal,Corporate,Furniture,Tables,Coffee Table,22800.0,3,0.05,16569.09,6230.91,0.2733,Net Banking,Same Day,7.0,2024,March,Q1,Profit
+ORD-10680,2025-07-31,CUST-1249,Customer 204,South,Kerala,Kochi,Corporate,Office Supplies,Storage,File Folder,1000.0,4,0.0,833.16,166.84,0.1668,UPI,Standard,1.0,2025,July,Q3,Profit
+ORD-10941,2023-05-05,CUST-1104,Customer 158,South,Kerala,Kozhikode,Consumer,Office Supplies,Fasteners,Stapler,285.0,1,0.05,227.82,57.18,0.2006,UPI,Standard,6.0,2023,May,Q2,Profit
+ORD-10059,2023-10-15,CUST-1289,Customer 173,West,Maharashtra,Nagpur,Consumer,Furniture,Storage,Cabinet,8075.0,1,0.15,7021.95,1053.05,0.1304,Debit Card,Second Class,7.0,2023,October,Q4,Profit
+ORD-10876,2024-10-16,CUST-1052,Customer 56,South,Karnataka,Bengaluru,Consumer,Furniture,Tables,Coffee Table,22800.0,3,0.05,19249.32,3550.68,0.1557,Net Banking,Standard,1.0,2024,October,Q4,Profit
+ORD-10991,2023-06-14,CUST-1242,Customer 33,West,Gujarat,Ahmedabad,Consumer,Furniture,Bedroom,Bed,162000.0,6,0.1,129322.87,32677.13,0.2017,UPI,Standard,6.0,2023,June,Q2,Profit
+ORD-10835,2024-08-24,CUST-1144,Customer 293,North,Rajasthan,Jaipur,Corporate,Furniture,Tables,Dining Table,123200.0,7,0.2,101058.7,22141.3,0.1797,Credit Card,Standard,2.0,2024,August,Q3,Profit
+ORD-10266,2025-10-30,CUST-1249,Customer 137,South,Telangana,Warangal,Consumer,Furniture,Tables,Dining Table,88000.0,4,0.0,74143.53,13856.47,0.1575,Cash,Standard,6.0,2025,October,Q4,Profit
+ORD-10845,2025-03-29,CUST-1069,Customer 253,West,Gujarat,Surat,Consumer,Office Supplies,Fasteners,Stapler,270.0,1,0.1,205.99,64.01,0.2371,Debit Card,Standard,2.0,2025,March,Q1,Profit
+ORD-10792,2024-07-12,CUST-1128,Customer 238,East,Bihar,Gaya,Consumer,Office Supplies,Fasteners,Stapler,1620.0,6,,1072.76,547.24,0.3378,,Second Class,4.0,2024,July,Q3,Profit
+ORD-10381,2023-01-19,CUST-1209,Customer 127,South,Tamil Nadu,Chennai,Consumer,Office Supplies,Chairs,Office Chair,5525.0,1,0.15,3501.24,2023.76,0.3663,Debit Card,Standard,6.0,2023,January,Q1,Profit
+ORD-10605,2024-08-23,CUST-1011,Customer 100,East,Odisha,Cuttack,Consumer,Office Supplies,Fasteners,Stapler,1785.0,7,0.15,1289.92,495.08,0.2774,Net Banking,First Class,3.0,2024,August,Q3,Profit
+ORD-10677,2024-06-29,CUST-1264,Customer 290,East,Odisha,Cuttack,Corporate,Furniture,Seating,Sofa,133000.0,5,0.05,85903.43,47096.57,0.3541,Debit Card,Same Day,6.0,2024,June,Q2,Profit
+ORD-10758,2024-11-03,CUST-1068,Customer 225,West,Gujarat,Vadodara,Consumer,Technology,Tablets,Tablet,123200.0,7,0.2,91585.56,31614.44,0.2566,Net Banking,Same Day,1.0,2024,November,Q4,Profit
+ORD-10722,2025-06-06,CUST-1125,Customer 290,West,Gujarat,Vadodara,Corporate,Office Supplies,Tables,Desk,9000.0,1,0.0,6153.06,2846.94,0.3163,Net Banking,First Class,1.0,2025,June,Q2,Profit
+ORD-10148,2023-03-14,CUST-1123,Customer 104,East,Odisha,Bhubaneswar,Consumer,Office Supplies,Storage,File Folder,450.0,2,0.1,286.2,163.8,0.364,Credit Card,Second Class,4.0,2023,March,Q1,Profit
+ORD-10252,2025-01-13,CUST-1084,Customer 106,South,Tamil Nadu,Salem,Corporate,Technology,Accessories,Monitor,35700.0,3,0.15,27085.73,8614.27,0.2413,Net Banking,Standard,6.0,2025,January,Q1,Profit
+ORD-10640,2024-11-18,CUST-1085,Customer 8,East,Odisha,Cuttack,Consumer,Technology,Phones,Smartphone,91200.0,3,0.05,53189.17,38010.83,0.4168,Net Banking,Standard,7.0,2024,November,Q4,Profit
+ORD-10889,2024-09-20,CUST-1067,Customer 2,South,Telangana,Warangal,Corporate,Furniture,Storage,Cabinet,25650.0,3,0.1,21875.98,3774.02,0.1471,UPI,Standard,5.0,2024,September,Q3,Profit
+ORD-10213,2025-12-22,CUST-1167,Customer 218,North,Rajasthan,Jaipur,Small Business,Furniture,Bedroom,Bed,57000.0,2,0.05,35029.0,21971.0,0.3855,Cash,Standard,3.0,2025,December,Q4,Profit
+ORD-10441,2024-06-19,CUST-1074,Customer 183,East,Odisha,Bhubaneswar,Consumer,Office Supplies,Fasteners,Stapler,1200.0,4,0.0,976.88,223.12,0.1859,Net Banking,First Class,4.0,2024,June,Q2,Profit
+ORD-10870,2024-02-24,CUST-1255,Customer 188,South,Telangana,Hyderabad,Small Business,Technology,Accessories,Headphones,29925.0,7,0.05,20696.87,9228.13,0.3084,Net Banking,Standard,6.0,2024,February,Q1,Profit
+ORD-10331,2025-06-10,CUST-1040,Customer 67,West,Maharashtra,Pune,Consumer,Furniture,Storage,Cabinet,66500.0,7,0.0,41469.27,25030.73,0.3764,Credit Card,Standard,1.0,2025,June,Q2,Profit
+ORD-10957,2023-02-28,CUST-1207,Customer 299,North,Rajasthan,Jodhpur,Small Business,Office Supplies,Fasteners,Stapler,600.0,2,0.0,504.54,95.46,0.1591,Credit Card,Standard,5.0,2023,February,Q1,Profit
+ORD-10277,2023-03-20,CUST-1128,Customer 101,East,Bihar,Gaya,Corporate,Technology,Phones,Smartphone,136000.0,5,0.15,111914.74,24085.26,0.1771,Credit Card,Standard,5.0,2023,March,Q1,Profit
+ORD-10793,2024-06-10,CUST-1022,Customer 272,South,Tamil Nadu,Chennai,Consumer,Furniture,Seating,Sofa,100800.0,4,0.1,87362.84,13437.16,0.1333,Net Banking,Standard,2.0,2024,June,Q2,Profit
+ORD-10896,2025-09-12,CUST-1253,Customer 65,East,West Bengal,Durgapur,Corporate,Furniture,Seating,Sofa,26600.0,1,0.05,18326.78,8273.22,0.311,UPI,Second Class,2.0,2025,September,Q3,Profit
+ORD-10661,2024-10-06,CUST-1235,Customer 212,South,Kerala,Thiruvananthapuram,Corporate,Furniture,Seating,Sofa,53200.0,2,0.05,43947.24,9252.76,0.1739,UPI,Standard,3.0,2024,October,Q4,Profit
+ORD-10686,2025-04-16,CUST-1285,Customer 83,South,Telangana,Hyderabad,Consumer,Office Supplies,Storage,File Folder,900.0,4,0.1,772.78,127.22,0.1414,Credit Card,First Class,5.0,2025,April,Q2,Profit
+ORD-10449,2024-10-25,CUST-1162,Customer 237,East,Bihar,Patna,Corporate,Furniture,Storage,Bookshelf,12750.0,2,0.15,9262.28,3487.72,0.2735,Credit Card,Standard,2.0,2024,October,Q4,Profit
+ORD-11000,2023-09-03,CUST-1241,Customer 111,North,Rajasthan,Jaipur,Consumer,Office Supplies,Paper,Notebook,315.0,1,0.1,232.66,82.34,0.2614,Cash,First Class,6.0,2023,September,Q3,Profit
+ORD-10698,2023-06-05,CUST-1073,Customer 49,North,Delhi,Delhi,Consumer,Technology,Phones,Smartphone,152000.0,5,0.05,90614.67,61385.33,0.4039,Credit Card,First Class,7.0,2023,June,Q2,Profit
+ORD-10525,2024-09-30,CUST-1184,Customer 291,West,Maharashtra,Mumbai,Consumer,Furniture,Bedroom,Bed,178500.0,7,0.15,116332.0,62168.0,0.3483,Cash,Second Class,7.0,2024,September,Q3,Profit
+ORD-10304,2023-12-16,CUST-1108,Customer 295,North,Delhi,Delhi,Small Business,Technology,Accessories,Monitor,37800.0,3,0.1,28711.7,9088.3,0.2404,Cash,Standard,5.0,2023,December,Q4,Profit
+ORD-10488,2024-08-03,CUST-1296,Customer 161,West,Maharashtra,Nashik,Corporate,Furniture,Storage,Cabinet,38000.0,4,0.0,28743.1,9256.9,0.2436,UPI,First Class,4.0,2024,August,Q3,Profit
+ORD-10730,2024-08-18,CUST-1293,Customer 196,West,Gujarat,Surat,Consumer,Furniture,Tables,Dining Table,99000.0,5,0.1,66562.23,32437.77,0.3277,Credit Card,First Class,7.0,2024,August,Q3,Profit
+ORD-10877,2023-02-10,CUST-1293,Customer 203,East,Odisha,Cuttack,Small Business,Technology,Computers,Laptop,195000.0,4,0.25,116001.95,78998.05,0.4051,UPI,Standard,2.0,2023,February,Q1,Profit
+ORD-10020,2024-11-12,CUST-1294,Customer 51,South,Karnataka,Mangaluru,Consumer,Office Supplies,Chairs,Office Chair,20800.0,4,0.2,18173.91,2626.09,0.1263,Net Banking,Standard,5.0,2024,November,Q4,Profit
+ORD-10325,2024-10-13,CUST-1019,Customer 43,South,Kerala,Kozhikode,Consumer,Technology,Computers,Laptop,308750.0,5,0.05,183812.79,124937.21,0.4047,Cash,Standard,6.0,2024,October,Q4,Profit
+ORD-10261,2024-01-28,CUST-1206,Customer 187,South,Telangana,Hyderabad,Small Business,Furniture,Bedroom,Bed,57000.0,2,0.05,47229.96,9770.04,0.1714,Net Banking,Second Class,7.0,2024,January,Q1,Profit
+ORD-10839,2024-09-09,CUST-1247,Customer 153,East,Odisha,Cuttack,Corporate,Furniture,Storage,Cabinet,53200.0,7,0.2,36329.16,16870.84,0.3171,Credit Card,Standard,2.0,2024,September,Q3,Profit
+ORD-10410,2025-11-03,CUST-1201,Customer 39,South,Karnataka,Mysuru,Consumer,Furniture,Storage,Bookshelf,6750.0,1,0.1,4198.47,2551.53,0.378,UPI,Standard,1.0,2025,November,Q4,Profit
+ORD-10401,2024-05-14,CUST-1027,Customer 115,South,Tamil Nadu,Chennai,Consumer,Office Supplies,Paper,Notebook,2205.0,7,,1499.97,705.03,0.3197,Net Banking,First Class,3.0,2024,May,Q2,Profit
+ORD-10995,2024-10-18,CUST-1144,Customer 35,West,Maharashtra,Nashik,Corporate,Technology,Phones,Smartphone,57600.0,2,0.1,36726.16,20873.84,0.3624,UPI,First Class,4.0,2024,October,Q4,Profit
+ORD-10055,2025-09-25,CUST-1232,Customer 12,South,Karnataka,Mangaluru,Small Business,Office Supplies,Storage,File Folder,1000.0,5,0.2,744.44,255.56,0.2556,UPI,First Class,4.0,2025,September,Q3,Profit
+ORD-10880,2023-07-21,CUST-1098,Customer 116,South,Kerala,Thiruvananthapuram,Small Business,Technology,Printers,Printer,19800.0,2,0.1,12832.25,6967.75,0.3519,UPI,Second Class,3.0,2023,July,Q3,Profit
+ORD-10151,2025-05-08,CUST-1255,Customer 200,East,West Bengal,Durgapur,Consumer,Office Supplies,Chairs,Office Chair,45500.0,7,0.0,32437.41,13062.59,0.2871,Debit Card,Standard,2.0,2025,May,Q2,Profit
+ORD-10874,2025-07-24,CUST-1196,Customer 299,West,Gujarat,Vadodara,Consumer,Office Supplies,Writing,Pen Set,405.0,1,0.1,324.56,80.44,0.1986,Credit Card,First Class,4.0,2025,July,Q3,Profit
+ORD-10710,2023-05-23,CUST-1164,Customer 225,West,Maharashtra,Nashik,Small Business,Furniture,Tables,Coffee Table,22800.0,3,0.05,18545.84,4254.16,0.1866,Debit Card,Standard,3.0,2023,May,Q2,Profit
+ORD-10697,2023-09-05,CUST-1225,Customer 129,North,Uttar Pradesh,Noida,Corporate,Technology,Computers,Laptop,325000.0,5,0.0,211191.01,113808.99,0.3502,Net Banking,First Class,3.0,2023,September,Q3,Profit
+ORD-10107,2024-09-18,CUST-1255,Customer 69,North,Delhi,New Delhi,Consumer,Office Supplies,Writing,Pen Set,2025.0,5,0.1,1329.1,695.9,0.3437,Net Banking,First Class,6.0,2024,September,Q3,Profit
+ORD-10717,2025-04-24,CUST-1153,Customer 141,North,Uttar Pradesh,Agra,Corporate,Office Supplies,Storage,File Folder,900.0,4,0.1,667.37,232.63,0.2585,UPI,Second Class,4.0,2025,April,Q2,Profit
+ORD-10025,2025-05-08,CUST-1044,Customer 213,East,Bihar,Patna,Consumer,Technology,Accessories,Monitor,53200.0,4,0.05,40340.1,12859.9,0.2417,Net Banking,First Class,6.0,2025,May,Q2,Profit
+ORD-10907,2023-07-14,CUST-1130,Customer 286,South,Tamil Nadu,Chennai,Consumer,Technology,Accessories,Headphones,8550.0,2,0.05,6114.15,2435.85,0.2849,Debit Card,Standard,5.0,2023,July,Q3,Profit
+ORD-10534,2023-01-21,CUST-1070,Customer 93,North,Delhi,Delhi,Consumer,Furniture,Tables,Coffee Table,27200.0,4,0.15,18251.63,8948.37,0.329,Net Banking,Standard,1.0,2023,January,Q1,Profit
+ORD-10809,2025-05-03,CUST-1103,Customer 218,South,Tamil Nadu,Tiruchirappalli,Consumer,Technology,Tablets,Tablet,20900.0,1,0.05,13037.55,7862.45,0.3762,Debit Card,Second Class,6.0,2025,May,Q2,Profit
+ORD-10083,2023-12-08,CUST-1296,Customer 256,East,West Bengal,Kolkata,Corporate,Office Supplies,Writing,Pen Set,1530.0,4,0.15,1012.23,517.77,0.3384,Debit Card,Standard,7.0,2023,December,Q4,Profit
+ORD-10834,2025-05-14,CUST-1082,Customer 237,South,Tamil Nadu,Coimbatore,Consumer,Technology,Printers,Printer,65450.0,7,0.15,47170.62,18279.38,0.2793,Net Banking,Second Class,7.0,2025,May,Q2,Profit
+ORD-10853,2023-01-19,CUST-1114,Customer 268,North,Uttar Pradesh,Agra,Small Business,Technology,Accessories,Headphones,24300.0,6,0.1,14138.08,10161.92,0.4182,Net Banking,Second Class,4.0,2023,January,Q1,Profit
+ORD-10614,2024-04-20,CUST-1091,Customer 6,North,Rajasthan,Jodhpur,Small Business,Furniture,Seating,Sofa,126000.0,5,0.1,95923.03,30076.97,0.2387,Net Banking,Second Class,3.0,2024,April,Q2,Profit
+ORD-10380,2024-12-03,CUST-1279,Customer 7,North,Rajasthan,Jodhpur,Consumer,Technology,Accessories,Headphones,12150.0,3,0.1,7400.44,4749.56,0.3909,Debit Card,Standard,6.0,2024,December,Q4,Profit
+ORD-10077,2023-05-29,CUST-1194,Customer 166,South,Telangana,Hyderabad,Consumer,Technology,Tablets,Tablet,56100.0,3,0.15,45870.58,10229.42,0.1823,Debit Card,Standard,4.0,2023,May,Q2,Profit
+ORD-10389,2024-05-29,CUST-1283,Customer 230,North,Delhi,Delhi,Consumer,Furniture,Bedroom,Bed,199500.0,7,0.05,136653.78,62846.22,0.315,Cash,Second Class,5.0,2024,May,Q2,Profit
+ORD-10407,2024-07-19,CUST-1254,Customer 78,North,Rajasthan,Jaipur,Corporate,Furniture,Seating,Sofa,156800.0,7,0.2,131700.55,25099.45,0.1601,Net Banking,Standard,3.0,2024,July,Q3,Profit
+ORD-10292,2025-11-06,CUST-1062,Customer 123,South,Tamil Nadu,Tiruchirappalli,Consumer,Office Supplies,Paper,Notebook,1575.0,5,0.1,1015.72,559.28,0.3551,Credit Card,Standard,5.0,2025,November,Q4,Profit
+ORD-10111,2023-10-13,CUST-1082,Customer 94,South,Tamil Nadu,Tiruchirappalli,Corporate,Office Supplies,Paper,Notebook,2082.5,7,0.15,1806.13,276.37,0.1327,Cash,Standard,5.0,2023,October,Q4,Profit
+ORD-10625,2024-01-21,CUST-1084,Customer 96,East,Odisha,Bhubaneswar,Small Business,Furniture,Tables,Dining Table,112200.0,6,0.15,89492.01,22707.99,0.2024,Debit Card,Standard,1.0,2024,January,Q1,Profit
+ORD-10785,2024-04-24,CUST-1112,Customer 161,South,Karnataka,Mangaluru,Consumer,Furniture,Tables,Dining Table,56100.0,3,0.15,43402.34,12697.66,0.2263,Cash,First Class,6.0,2024,April,Q2,Profit
+ORD-10953,2023-07-20,CUST-1276,Customer 105,North,Rajasthan,Jodhpur,Corporate,Office Supplies,Chairs,Office Chair,17550.0,3,0.1,12251.49,5298.51,0.3019,UPI,Second Class,3.0,2023,July,Q3,Profit
+ORD-10247,2024-09-20,CUST-1076,Customer 199,South,Telangana,Hyderabad,Corporate,Technology,Tablets,Tablet,70400.0,4,0.2,49202.12,21197.88,0.3011,Cash,Standard,6.0,2024,September,Q3,Profit
+ORD-10146,2025-10-27,CUST-1219,Customer 175,North,Rajasthan,Jodhpur,Consumer,Furniture,Tables,Dining Table,83600.0,4,0.05,66802.65,16797.35,0.2009,Debit Card,Standard,4.0,2025,October,Q4,Profit
+ORD-10129,2025-08-26,CUST-1248,Customer 38,North,Rajasthan,Jodhpur,Corporate,Office Supplies,Chairs,Office Chair,35100.0,6,0.1,26493.98,8606.02,0.2452,Debit Card,Second Class,2.0,2025,August,Q3,Profit
+ORD-10843,2024-07-06,CUST-1074,Customer 216,East,Bihar,Patna,Small Business,Furniture,Tables,Dining Table,93500.0,5,0.15,63096.64,30403.36,0.3252,Credit Card,Second Class,6.0,2024,July,Q3,Profit
+ORD-10623,2025-04-07,CUST-1281,Customer 210,North,Uttar Pradesh,Kanpur,Corporate,Office Supplies,Storage,File Folder,950.0,4,0.05,654.45,295.55,0.3111,Debit Card,First Class,7.0,2025,April,Q2,Profit
+ORD-10967,2025-03-31,CUST-1188,Customer 37,North,Uttar Pradesh,Noida,Consumer,Furniture,Bedroom,Bed,189000.0,7,0.1,120760.81,68239.19,0.3611,Credit Card,Standard,2.0,2025,March,Q1,Profit
+ORD-10937,2024-07-10,CUST-1011,Customer 253,South,Karnataka,Mysuru,Corporate,Technology,Computers,Laptop,165750.0,3,0.15,123516.59,42233.41,0.2548,Net Banking,Standard,7.0,2024,July,Q3,Profit
+ORD-10487,2025-07-10,CUST-1108,Customer 273,North,Rajasthan,Udaipur,Consumer,Furniture,Tables,Dining Table,125400.0,6,0.05,93616.13,31783.87,0.2535,UPI,Standard,5.0,2025,July,Q3,Profit
+ORD-10900,2025-07-09,CUST-1068,Customer 148,West,Maharashtra,Pune,Consumer,Furniture,Bedroom,Bed,135000.0,5,0.1,108335.91,26664.09,0.1975,UPI,Standard,2.0,2025,July,Q3,Profit
+ORD-10091,2023-10-14,CUST-1208,Customer 44,South,Karnataka,Bengaluru,Corporate,Technology,Computers,Laptop,175500.0,3,0.1,136805.2,38694.8,0.2205,Cash,Standard,2.0,2023,October,Q4,Profit
+ORD-10206,2025-02-23,CUST-1028,Customer 120,North,Uttar Pradesh,Agra,Corporate,Office Supplies,Chairs,Office Chair,13000.0,2,0.0,9513.13,3486.87,0.2682,Cash,Standard,1.0,2025,February,Q1,Profit
+ORD-10971,2025-01-31,CUST-1097,Customer 192,North,Uttar Pradesh,Agra,Consumer,Office Supplies,Fasteners,Stapler,855.0,3,0.05,639.47,215.53,0.2521,Debit Card,Same Day,7.0,2025,January,Q1,Profit
+ORD-10171,2025-09-20,CUST-1075,Customer 280,West,Maharashtra,Mumbai,Consumer,Office Supplies,Storage,File Folder,1062.5,5,0.15,835.97,226.53,0.2132,UPI,Standard,3.0,2025,September,Q3,Profit
+ORD-10910,2025-12-22,CUST-1172,Customer 292,East,Bihar,Patna,Corporate,Office Supplies,Tables,Desk,56700.0,7,0.1,43683.0,13017.0,0.2296,Debit Card,First Class,7.0,2025,December,Q4,Profit
+ORD-10057,2023-10-29,CUST-1064,Customer 130,North,Uttar Pradesh,Kanpur,Consumer,Technology,Accessories,Headphones,4275.0,1,0.05,2859.03,1415.97,0.3312,UPI,Standard,7.0,2023,October,Q4,Profit
+ORD-10405,2024-08-24,CUST-1082,Customer 234,North,Rajasthan,Jaipur,Consumer,Office Supplies,Paper,Notebook,1575.0,5,0.1,1306.91,268.09,0.1702,Debit Card,Standard,4.0,2024,August,Q3,Profit
+ORD-10242,2024-11-30,CUST-1195,Customer 226,East,Odisha,Cuttack,Consumer,Technology,Tablets,Tablet,62700.0,3,0.05,51470.65,11229.35,0.1791,Cash,Standard,5.0,2024,November,Q4,Profit
+ORD-10600,2025-12-03,CUST-1039,Customer 19,South,Tamil Nadu,Chennai,Consumer,Furniture,Seating,Sofa,100800.0,4,0.1,66094.0,34706.0,0.3443,UPI,Second Class,3.0,2025,December,Q4,Profit
+ORD-10347,2023-05-02,CUST-1042,Customer 47,South,Kerala,Thiruvananthapuram,Consumer,Office Supplies,Tables,Desk,21600.0,3,0.2,18657.89,2942.11,0.1362,Credit Card,Second Class,4.0,2023,May,Q2,Profit
+ORD-10098,2024-09-24,CUST-1005,Customer 231,East,Bihar,Patna,Corporate,Furniture,Seating,Sofa,186200.0,7,0.05,144293.16,41906.84,0.2251,Credit Card,Standard,5.0,2024,September,Q3,Profit
+ORD-10117,2025-10-09,CUST-1204,Customer 11,West,Maharashtra,Nashik,Corporate,Technology,Accessories,Monitor,98000.0,7,0.0,74689.78,23310.22,0.2379,Net Banking,First Class,5.0,2025,October,Q4,Profit
+ORD-10202,2023-09-20,CUST-1105,Customer 189,North,Delhi,New Delhi,Consumer,Office Supplies,Paper,Notebook,1260.0,4,0.1,1097.2,162.8,0.1292,Debit Card,Standard,3.0,2023,September,Q3,Profit
+ORD-10879,2023-04-15,CUST-1300,Customer 109,East,Odisha,Bhubaneswar,Small Business,Technology,Accessories,Headphones,24300.0,6,0.1,17484.11,6815.89,0.2805,Cash,Standard,5.0,2023,April,Q2,Profit
+ORD-10480,2023-02-19,CUST-1004,Customer 38,South,Tamil Nadu,Tiruchirappalli,Corporate,Technology,Phones,Smartphone,81600.0,3,0.15,69679.26,11920.74,0.1461,Cash,Standard,4.0,2023,February,Q1,Profit
+ORD-10324,2023-05-29,CUST-1093,Customer 241,West,Gujarat,Surat,Consumer,Office Supplies,Storage,File Folder,900.0,4,0.1,626.41,273.59,0.304,Net Banking,Standard,5.0,2023,May,Q2,Profit
+ORD-10194,2024-11-20,CUST-1098,Customer 181,North,Delhi,New Delhi,Corporate,Office Supplies,Fasteners,Stapler,1080.0,4,0.1,754.68,325.32,0.3012,Credit Card,First Class,5.0,2024,November,Q4,Profit
+ORD-10444,2023-06-08,CUST-1017,Customer 111,South,Tamil Nadu,Salem,Corporate,Office Supplies,Paper,Notebook,1260.0,4,0.1,993.49,266.51,0.2115,Net Banking,Standard,3.0,2023,June,Q2,Profit
+ORD-10807,2023-03-17,CUST-1100,Customer 141,West,Maharashtra,Nagpur,Consumer,Furniture,Storage,Cabinet,59850.0,7,0.1,45982.79,13867.21,0.2317,Cash,Standard,5.0,2023,March,Q1,Profit
+ORD-10455,2024-03-07,CUST-1078,Customer 288,South,Kerala,Kochi,Small Business,Furniture,Bedroom,Bed,67500.0,3,0.25,44985.74,22514.26,0.3335,UPI,Standard,7.0,2024,March,Q1,Profit
+ORD-10529,2024-05-06,CUST-1200,Customer 80,South,Karnataka,Bengaluru,Consumer,Furniture,Bedroom,Bed,171000.0,6,0.05,120248.02,50751.98,0.2968,Cash,Standard,4.0,2024,May,Q2,Profit
+ORD-10797,2024-08-27,CUST-1181,Customer 275,South,Kerala,Kochi,Consumer,Technology,Printers,Printer,62700.0,6,0.05,39734.78,22965.22,0.3663,Debit Card,Standard,2.0,2024,August,Q3,Profit
+ORD-10551,2024-08-15,CUST-1165,Customer 93,East,Bihar,Patna,Consumer,Office Supplies,Storage,File Folder,1425.0,6,0.05,999.78,425.22,0.2984,Net Banking,Standard,5.0,2024,August,Q3,Profit
+ORD-10810,2023-07-13,CUST-1047,Customer 77,South,Kerala,Thiruvananthapuram,Consumer,Technology,Printers,Printer,9900.0,1,0.1,8528.05,1371.95,0.1386,Credit Card,First Class,6.0,2023,July,Q3,Profit
+ORD-10272,2025-03-12,CUST-1266,Customer 267,North,Rajasthan,Udaipur,Small Business,Office Supplies,Fasteners,Stapler,1785.0,7,0.15,1311.77,473.23,0.2651,Net Banking,Standard,3.0,2025,March,Q1,Profit
+ORD-10985,2024-03-10,CUST-1269,Customer 132,South,Telangana,Hyderabad,Consumer,Technology,Accessories,Monitor,14000.0,1,0.0,10490.55,3509.45,0.2507,UPI,Standard,1.0,2024,March,Q1,Profit
+ORD-10297,2024-03-11,CUST-1147,Customer 50,North,Rajasthan,Udaipur,Consumer,Furniture,Storage,Bookshelf,47250.0,7,0.1,35739.91,11510.09,0.2436,Debit Card,Standard,4.0,2024,March,Q1,Profit
+ORD-10885,2024-12-13,CUST-1234,Customer 71,West,Gujarat,Vadodara,Corporate,Office Supplies,Storage,File Folder,1575.0,7,0.1,1367.83,207.17,0.1315,UPI,Second Class,7.0,2024,December,Q4,Profit
+ORD-10602,2023-08-15,CUST-1003,Customer 38,South,Telangana,Hyderabad,Consumer,Office Supplies,Fasteners,Stapler,900.0,4,0.25,567.59,332.41,0.3693,Cash,First Class,1.0,2023,August,Q3,Profit
+ORD-10816,2023-09-19,CUST-1188,Customer 191,East,Bihar,Gaya,Corporate,Furniture,Storage,Bookshelf,28500.0,4,0.05,19392.45,9107.55,0.3196,Net Banking,Standard,7.0,2023,September,Q3,Profit
+ORD-10396,2025-07-11,CUST-1010,Customer 263,East,West Bengal,Kolkata,Corporate,Office Supplies,Tables,Desk,20250.0,3,0.25,14170.95,6079.05,0.3002,UPI,Standard,7.0,2025,July,Q3,Profit
+ORD-10427,2023-07-07,CUST-1166,Customer 258,North,Rajasthan,Jodhpur,Corporate,Office Supplies,Fasteners,Stapler,765.0,3,0.15,597.29,167.71,0.2192,Debit Card,Standard,7.0,2023,July,Q3,Profit
+ORD-10812,2025-08-08,CUST-1285,Customer 239,South,Tamil Nadu,Madurai,Corporate,Technology,Computers,Laptop,110500.0,2,0.15,93509.6,16990.4,0.1538,Debit Card,Same Day,6.0,2025,August,Q3,Profit
+ORD-10560,2023-07-17,CUST-1166,Customer 140,North,Delhi,New Delhi,Consumer,Office Supplies,Writing,Pen Set,2992.5,7,0.05,1899.77,1092.73,0.3652,Cash,First Class,3.0,2023,July,Q3,Profit
+ORD-10526,2024-11-02,CUST-1116,Customer 180,South,Telangana,Hyderabad,Corporate,Furniture,Tables,Coffee Table,36000.0,6,0.25,29066.84,6933.16,0.1926,Net Banking,Standard,,2024,November,Q4,Profit
+ORD-10961,2025-10-04,CUST-1026,Customer 211,West,Gujarat,Ahmedabad,Consumer,Technology,Printers,Printer,39600.0,4,0.1,25127.99,14472.01,0.3655,Debit Card,Second Class,4.0,2025,October,Q4,Profit
+ORD-10015,2025-11-15,CUST-1167,Customer 262,North,Delhi,New Delhi,Corporate,Furniture,Storage,Cabinet,25650.0,3,0.1,20766.47,4883.53,0.1904,Cash,Standard,1.0,2025,November,Q4,Profit
+ORD-10253,2024-07-07,CUST-1207,Customer 224,North,Uttar Pradesh,Lucknow,Consumer,Technology,Printers,Printer,49500.0,5,0.1,29907.14,19592.86,0.3958,Cash,Standard,3.0,2024,July,Q3,Profit
+ORD-10239,2024-04-09,CUST-1080,Customer 257,North,Rajasthan,Udaipur,Small Business,Office Supplies,Chairs,Office Chair,18525.0,3,0.05,15590.16,2934.84,0.1584,Cash,First Class,5.0,2024,April,Q2,Profit
+ORD-10121,2024-05-23,CUST-1188,Customer 227,North,Uttar Pradesh,Lucknow,Corporate,Office Supplies,Writing,Pen Set,2295.0,6,0.15,1547.92,747.08,0.3255,Cash,Standard,2.0,2024,May,Q2,Profit
+ORD-10286,2025-10-28,CUST-1049,Customer 214,East,West Bengal,Kolkata,Small Business,Furniture,Storage,Cabinet,9025.0,1,0.05,6978.01,2046.99,0.2268,Cash,Same Day,2.0,2025,October,Q4,Profit
+ORD-10555,2023-02-12,CUST-1278,Customer 223,South,Karnataka,Mysuru,Consumer,Technology,Accessories,Headphones,21375.0,5,0.05,18228.08,3146.92,0.1472,Debit Card,Second Class,3.0,2023,February,Q1,Profit
+ORD-10197,2025-09-09,CUST-1061,Customer 238,West,Maharashtra,Nashik,Consumer,Technology,Computers,Laptop,276250.0,5,0.15,194392.68,81857.32,0.2963,Net Banking,Standard,5.0,2025,September,Q3,Profit
+ORD-10346,2025-06-06,CUST-1042,Customer 168,West,Gujarat,Surat,Consumer,Technology,Phones,Smartphone,121600.0,4,0.05,72190.95,49409.05,0.4063,Net Banking,First Class,2.0,2025,June,Q2,Profit
+ORD-10546,2025-10-13,CUST-1130,Customer 292,South,Tamil Nadu,Salem,Consumer,Office Supplies,Chairs,Office Chair,23400.0,4,0.1,15763.57,7636.43,0.3263,UPI,First Class,1.0,2025,October,Q4,Profit
+ORD-10251,2024-08-16,CUST-1246,Customer 285,East,Odisha,Bhubaneswar,Corporate,Furniture,Bedroom,Bed,199500.0,7,0.05,141611.37,57888.63,0.2902,Cash,Standard,7.0,2024,August,Q3,Profit
+ORD-10925,2024-01-30,CUST-1255,Customer 186,South,Telangana,Warangal,Consumer,Furniture,Tables,Coffee Table,22800.0,3,0.05,16815.34,5984.66,0.2625,Cash,Standard,4.0,2024,January,Q1,Profit
+ORD-10646,2024-06-27,CUST-1255,Customer 162,East,West Bengal,Durgapur,Consumer,Office Supplies,Fasteners,Stapler,1710.0,6,0.05,1258.84,451.16,0.2638,Credit Card,Standard,4.0,2024,June,Q2,Profit
+ORD-10821,2023-04-03,CUST-1101,Customer 177,South,Karnataka,Mangaluru,Small Business,Furniture,Seating,Sofa,126000.0,5,0.1,95626.46,30373.54,0.2411,Cash,Standard,5.0,2023,April,Q2,Profit
+ORD-10413,2025-10-11,CUST-1179,Customer 104,East,Bihar,Patna,Consumer,Technology,Printers,Printer,73150.0,7,0.05,51265.12,21884.88,0.2992,Net Banking,First Class,6.0,2025,October,Q4,Profit
+ORD-10486,2024-06-30,CUST-1056,Customer 236,South,Tamil Nadu,Chennai,Corporate,Technology,Printers,Printer,62700.0,6,0.05,42129.67,20570.33,0.3281,Net Banking,First Class,6.0,2024,June,Q2,Profit
+ORD-10431,2023-09-30,CUST-1001,Customer 251,East,West Bengal,Kolkata,Small Business,Technology,Phones,Smartphone,144000.0,5,0.1,109171.32,34828.68,0.2419,Net Banking,Standard,5.0,2023,September,Q3,Profit
+ORD-10784,2024-12-28,CUST-1035,Customer 167,South,Tamil Nadu,Salem,Corporate,Office Supplies,Chairs,Office Chair,5525.0,1,0.15,4430.17,1094.83,0.1982,Net Banking,Same Day,1.0,2024,December,Q4,Profit
+ORD-10759,2025-03-30,CUST-1299,Customer 127,South,Karnataka,Bengaluru,Consumer,Furniture,Tables,Dining Table,118800.0,6,0.1,71678.81,47121.19,0.3966,Credit Card,First Class,4.0,2025,March,Q1,Profit
+ORD-10291,2024-10-25,CUST-1185,Customer 194,South,Karnataka,Mangaluru,Corporate,Furniture,Storage,Bookshelf,27000.0,4,0.1,18764.04,8235.96,0.305,Debit Card,Standard,1.0,2024,October,Q4,Profit
+ORD-10017,2023-01-10,CUST-1216,Customer 140,South,Kerala,Thiruvananthapuram,Corporate,Technology,Phones,Smartphone,57600.0,2,0.1,48364.92,9235.08,0.1603,UPI,Standard,1.0,2023,January,Q1,Profit
+ORD-10159,2023-04-05,CUST-1009,Customer 254,North,Rajasthan,Udaipur,Small Business,Technology,Accessories,Monitor,71400.0,6,0.15,53954.78,17445.22,0.2443,Debit Card,Standard,7.0,2023,April,Q2,Profit
+ORD-10244,2024-12-03,CUST-1114,Customer 26,West,Gujarat,Ahmedabad,Consumer,Furniture,Tables,Dining Table,18700.0,1,0.15,11290.76,7409.24,0.3962,Credit Card,Second Class,7.0,2024,December,Q4,Profit
+ORD-10067,2025-12-29,CUST-1291,Customer 42,South,Kerala,Kochi,Corporate,Office Supplies,Fasteners,Stapler,1995.0,7,0.05,1516.75,478.25,0.2397,Credit Card,Second Class,1.0,2025,December,Q4,Profit
+ORD-10916,2024-03-15,CUST-1069,Customer 152,North,Uttar Pradesh,Agra,Consumer,Office Supplies,Storage,File Folder,675.0,3,0.1,543.09,131.91,0.1954,Cash,Second Class,7.0,2024,March,Q1,Profit
+ORD-10360,2023-07-22,CUST-1039,Customer 93,South,Telangana,Warangal,Consumer,Furniture,Tables,Coffee Table,36000.0,6,0.25,22419.61,13580.39,0.3772,Credit Card,Standard,6.0,2023,July,Q3,Profit
+ORD-10944,2024-06-25,CUST-1278,Customer 22,North,Rajasthan,Jodhpur,Consumer,Technology,Tablets,Tablet,83600.0,4,0.05,62872.97,20727.03,0.2479,UPI,Standard,1.0,2024,June,Q2,Profit
+ORD-10632,2023-02-09,CUST-1258,Customer 133,West,Maharashtra,Pune,Small Business,Furniture,Bedroom,Bed,142500.0,5,0.05,109641.32,32858.68,0.2306,Credit Card,Standard,7.0,2023,February,Q1,Profit
+ORD-10505,2024-07-01,CUST-1069,Customer 239,East,West Bengal,Kolkata,Small Business,Technology,Printers,Printer,19800.0,2,0.1,12397.48,7402.52,0.3739,Net Banking,Standard,6.0,2024,July,Q3,Profit
+ORD-10473,2023-05-04,CUST-1134,Customer 139,North,Rajasthan,Jodhpur,Consumer,Office Supplies,Paper,Notebook,997.5,3,0.05,836.4,161.1,0.1615,Net Banking,Standard,4.0,2023,May,Q2,Profit
+ORD-10955,2025-03-07,CUST-1275,Customer 146,East,Bihar,Patna,Small Business,Technology,Phones,Smartphone,136000.0,5,0.15,113745.53,22254.47,0.1636,Net Banking,Standard,7.0,2025,March,Q1,Profit
+ORD-10578,2023-02-01,CUST-1092,Customer 109,South,Telangana,Hyderabad,Corporate,Technology,Phones,Smartphone,60800.0,2,0.05,47713.54,13086.46,0.2152,Debit Card,Standard,3.0,2023,February,Q1,Profit
+ORD-10973,2025-07-30,CUST-1279,Customer 214,South,Telangana,,Corporate,Furniture,Storage,Bookshelf,33750.0,5,0.1,26327.64,7422.36,0.2199,Net Banking,Same Day,6.0,2025,July,Q3,Profit
+ORD-10522,2023-07-15,CUST-1218,Customer 253,East,West Bengal,Kolkata,Consumer,Technology,Accessories,Headphones,7650.0,2,0.15,6408.66,1241.34,0.1623,Credit Card,Second Class,1.0,2023,July,Q3,Profit
+ORD-10866,2024-12-27,CUST-1114,Customer 128,South,Tamil Nadu,Madurai,Corporate,Furniture,Tables,Dining Table,16500.0,1,0.25,10537.52,5962.48,0.3614,UPI,Standard,1.0,2024,December,Q4,Profit
+ORD-10531,2023-05-22,CUST-1075,Customer 22,East,Bihar,Gaya,Corporate,Technology,Printers,Printer,37400.0,4,0.15,32649.01,4750.99,0.127,Net Banking,Standard,3.0,2023,May,Q2,Profit
+ORD-10409,2023-07-28,CUST-1038,Customer 281,South,Kerala,Kochi,Corporate,Office Supplies,Fasteners,Stapler,270.0,1,0.1,212.66,57.34,0.2124,UPI,Standard,2.0,2023,July,Q3,Profit
+ORD-10666,2023-07-30,CUST-1186,Customer 273,South,Tamil Nadu,Chennai,Consumer,Office Supplies,Tables,Desk,16200.0,2,0.1,13051.28,3148.72,0.1944,Net Banking,Standard,5.0,2023,July,Q3,Profit
+ORD-10864,2025-10-01,CUST-1075,Customer 152,East,West Bengal,Durgapur,Corporate,Furniture,Tables,Coffee Table,38000.0,5,0.05,28355.52,9644.48,0.2538,Net Banking,Second Class,2.0,2025,October,Q4,Profit
+ORD-10433,2024-05-30,CUST-1185,Customer 222,East,West Bengal,Kolkata,Small Business,Furniture,Storage,Bookshelf,21375.0,3,0.05,13432.85,7942.15,0.3716,UPI,Standard,4.0,2024,May,Q2,Profit
+ORD-10432,2024-08-05,CUST-1135,Customer 221,West,Gujarat,Surat,Small Business,Furniture,Storage,Bookshelf,40500.0,6,0.1,30483.46,10016.54,0.2473,UPI,Same Day,4.0,2024,August,Q3,Profit
+ORD-10485,2025-01-26,CUST-1291,Customer 79,West,Maharashtra,Nashik,Corporate,Technology,Printers,Printer,41800.0,4,0.05,27339.59,14460.41,0.3459,Net Banking,Standard,6.0,2025,January,Q1,Profit
+ORD-10152,2023-05-10,CUST-1068,Customer 216,East,Bihar,Gaya,Corporate,Furniture,Tables,Coffee Table,53200.0,7,0.05,40705.01,12494.99,0.2349,Credit Card,Standard,,2023,May,Q2,Profit
+ORD-10328,2025-02-19,CUST-1277,Customer 6,South,Tamil Nadu,Chennai,Corporate,Office Supplies,Chairs,Office Chair,27625.0,5,0.15,20027.8,7597.2,0.275,Debit Card,Second Class,7.0,2025,February,Q1,Profit
+ORD-10257,2024-09-16,CUST-1165,Customer 24,South,Kerala,Thiruvananthapuram,Corporate,Office Supplies,Paper,Notebook,1330.0,4,0.05,1101.95,228.05,0.1715,Credit Card,Standard,6.0,2024,September,Q3,Profit
+ORD-10312,2025-08-19,CUST-1127,Customer 149,North,Delhi,New Delhi,Consumer,Office Supplies,Writing,Pen Set,2025.0,5,0.1,1286.79,738.21,0.3645,Credit Card,Standard,7.0,2025,August,Q3,Profit
+ORD-10867,2025-04-29,CUST-1062,Customer 287,East,West Bengal,Durgapur,Corporate,Office Supplies,Storage,File Folder,200.0,1,0.2,125.97,74.03,0.3701,Debit Card,Second Class,1.0,2025,April,Q2,Profit
+ORD-10305,2024-06-03,CUST-1266,Customer 281,West,Gujarat,Vadodara,Consumer,Office Supplies,Tables,Desk,28800.0,4,0.2,20282.18,8517.82,0.2958,Credit Card,Standard,1.0,2024,June,Q2,Profit
+ORD-10414,2025-12-29,CUST-1035,Customer 74,East,West Bengal,Kolkata,Consumer,Office Supplies,Storage,File Folder,950.0,4,0.05,699.09,250.91,0.2641,Net Banking,Second Class,1.0,2025,December,Q4,Profit
+ORD-10134,2024-02-10,CUST-1143,Customer 169,East,Bihar,Gaya,Small Business,Furniture,Storage,Bookshelf,35625.0,5,0.05,27849.92,7775.08,0.2182,Cash,First Class,5.0,2024,February,Q1,Profit
+ORD-10032,2025-07-03,CUST-1120,Customer 269,North,Uttar Pradesh,Lucknow,Consumer,Technology,Accessories,Headphones,10800.0,3,0.2,6997.12,3802.88,0.3521,Credit Card,Standard,2.0,2025,July,Q3,Profit
+ORD-10766,2023-03-09,CUST-1259,Customer 139,South,Karnataka,Mangaluru,Corporate,Office Supplies,Fasteners,Stapler,1890.0,7,0.1,1386.38,503.62,0.2665,UPI,Standard,5.0,2023,March,Q1,Profit
+ORD-10783,2024-04-26,CUST-1056,Customer 154,South,Tamil Nadu,Tiruchirappalli,Consumer,Furniture,Tables,Coffee Table,38000.0,5,0.05,31119.42,6880.58,0.1811,Credit Card,Second Class,1.0,2024,April,Q2,Profit
+ORD-10459,2024-04-25,CUST-1074,Customer 57,South,Karnataka,Bengaluru,Consumer,Office Supplies,Tables,Desk,6750.0,1,0.25,5402.58,1347.42,0.1996,Credit Card,Standard,4.0,2024,April,Q2,Profit
+ORD-10162,2025-04-01,CUST-1182,Customer 137,South,Telangana,Hyderabad,Consumer,Technology,Printers,Printer,59400.0,6,0.1,35468.22,23931.78,0.4029,Net Banking,Standard,4.0,2025,April,Q2,Profit
+ORD-10340,2023-05-04,CUST-1087,Customer 158,East,Odisha,Bhubaneswar,Consumer,Furniture,Tables,Dining Table,79200.0,4,0.1,47092.99,32107.01,0.4054,Net Banking,Standard,6.0,2023,May,Q2,Profit
+ORD-10287,2025-04-24,CUST-1265,Customer 166,North,Uttar Pradesh,Agra,Small Business,Furniture,Seating,Sofa,112000.0,5,0.2,77759.98,34240.02,0.3057,UPI,Standard,4.0,2025,April,Q2,Profit
+ORD-10249,2024-06-29,CUST-1044,Customer 122,West,Gujarat,Vadodara,Consumer,Furniture,Seating,Sofa,100800.0,4,0.1,62802.52,37997.48,0.377,UPI,Standard,7.0,2024,June,Q2,Profit
+ORD-10931,2025-04-12,CUST-1198,Customer 187,North,Delhi,Delhi,Small Business,Office Supplies,Paper,Notebook,350.0,1,0.0,203.1,146.9,0.4197,UPI,Standard,7.0,2025,April,Q2,Profit
+ORD-10580,2023-10-04,CUST-1231,Customer 37,West,Maharashtra,Nagpur,Corporate,Technology,Tablets,Tablet,93500.0,5,0.15,68271.25,25228.75,0.2698,UPI,Second Class,1.0,2023,October,Q4,Profit
+ORD-10890,2024-01-22,CUST-1030,Customer 84,North,Delhi,Delhi,Consumer,Office Supplies,Chairs,Office Chair,37050.0,6,0.05,27812.94,9237.06,0.2493,UPI,First Class,7.0,2024,January,Q1,Profit
+ORD-10928,2024-07-29,CUST-1026,Customer 42,South,Tamil Nadu,Chennai,Consumer,Furniture,Storage,Bookshelf,24000.0,4,0.2,17136.43,6863.57,0.286,Debit Card,Standard,4.0,2024,July,Q3,Profit
+ORD-10002,2025-06-27,CUST-1124,Customer 46,South,Telangana,Hyderabad,Consumer,Technology,Accessories,Monitor,79800.0,6,0.05,51108.59,28691.41,0.3595,Cash,First Class,4.0,2025,June,Q2,Profit
+ORD-10737,2024-10-23,CUST-1117,Customer 124,East,Bihar,Patna,Consumer,Office Supplies,Tables,Desk,53550.0,7,0.15,37764.45,15785.55,0.2948,Debit Card,Second Class,1.0,2024,October,Q4,Profit
+ORD-10208,2025-03-30,CUST-1076,Customer 34,South,Tamil Nadu,Tiruchirappalli,Consumer,Office Supplies,Paper,Notebook,2450.0,7,0.0,1904.71,545.29,0.2226,Debit Card,Standard,2.0,2025,March,Q1,Profit
+ORD-10630,2023-09-16,CUST-1069,Customer 92,North,Uttar Pradesh,Lucknow,Consumer,Office Supplies,Fasteners,Stapler,285.0,1,0.05,247.5,37.5,0.1316,Cash,Standard,5.0,2023,September,Q3,Profit
+ORD-10924,2023-05-06,CUST-1071,Customer 165,East,West Bengal,Durgapur,Consumer,Technology,Phones,Smartphone,201600.0,7,0.1,171236.33,30363.67,0.1506,Credit Card,Standard,7.0,2023,May,Q2,Profit
+ORD-10842,2025-03-27,CUST-1032,Customer 51,West,Gujarat,Vadodara,Corporate,Furniture,Tables,Dining Table,138600.0,7,0.1,109080.15,29519.85,0.213,Credit Card,Standard,6.0,2025,March,Q1,Profit
+ORD-10851,2023-05-07,CUST-1185,,South,Karnataka,Bengaluru,Consumer,Technology,Computers,Laptop,58500.0,1,0.1,35505.28,22994.72,0.3931,Debit Card,Standard,2.0,2023,May,Q2,Profit
+ORD-10265,2023-01-29,CUST-1007,Customer 282,South,Kerala,Thiruvananthapuram,Consumer,Technology,Computers,Laptop,55250.0,1,0.15,34106.03,21143.97,0.3827,Net Banking,Standard,4.0,2023,January,Q1,Profit
+ORD-10275,2023-07-19,CUST-1231,Customer 87,South,Tamil Nadu,Madurai,Corporate,Technology,Accessories,Headphones,11475.0,3,0.15,8969.72,2505.28,0.2183,Debit Card,Standard,2.0,2023,July,Q3,Profit
+ORD-10071,2024-07-14,CUST-1088,Customer 160,North,Delhi,New Delhi,Consumer,Office Supplies,Chairs,Office Chair,43225.0,7,0.05,26928.5,16296.5,0.377,Cash,First Class,1.0,2024,July,Q3,Profit
+ORD-10641,2024-09-04,CUST-1049,Customer 276,East,Odisha,Bhubaneswar,Consumer,Technology,Tablets,Tablet,66000.0,3,0.0,49056.3,16943.7,0.2567,UPI,Standard,7.0,2024,September,Q3,Profit
+ORD-10445,2023-03-01,CUST-1196,Customer 6,North,Delhi,New Delhi,Corporate,Technology,Printers,Printer,61600.0,7,0.2,46213.38,15386.62,0.2498,Cash,Second Class,1.0,2023,March,Q1,Profit
+ORD-10838,2023-11-14,CUST-1270,Customer 88,South,Karnataka,Mysuru,Corporate,Technology,Printers,Printer,8800.0,1,0.2,7436.93,1363.07,0.1549,Credit Card,Standard,7.0,2023,November,Q4,Profit
+ORD-10099,2023-02-24,CUST-1182,Customer 204,North,Uttar Pradesh,Agra,Consumer,Office Supplies,Chairs,Office Chair,15600.0,3,0.2,9532.07,6067.93,0.389,Net Banking,Standard,5.0,2023,February,Q1,Profit
+ORD-10857,2024-03-20,CUST-1157,Customer 292,East,Bihar,Patna,Consumer,Furniture,Storage,Cabinet,40375.0,5,0.15,34634.4,5740.6,0.1422,UPI,First Class,3.0,2024,March,Q1,Profit
+ORD-10022,2023-06-01,CUST-1189,Customer 104,East,Bihar,Gaya,Small Business,Office Supplies,Fasteners,Stapler,1890.0,7,0.1,1576.39,313.61,0.1659,Net Banking,Standard,2.0,2023,June,Q2,Profit
+ORD-10706,2024-10-01,CUST-1221,Customer 234,West,Gujarat,Ahmedabad,Corporate,Technology,Phones,Smartphone,115200.0,4,0.1,84403.38,30796.62,0.2673,Debit Card,First Class,7.0,2024,October,Q4,Profit
+ORD-10415,2024-11-28,CUST-1082,Customer 191,North,Rajasthan,Jaipur,Consumer,Office Supplies,Chairs,Office Chair,5850.0,1,0.1,5141.9,708.1,0.121,UPI,Standard,3.0,2024,November,Q4,Profit
+ORD-10518,2025-04-20,CUST-1173,Customer 218,South,Telangana,Warangal,Consumer,Technology,Printers,Printer,56100.0,6,0.15,47641.0,8459.0,0.1508,Net Banking,Standard,6.0,2025,April,Q2,Profit
+ORD-10150,2024-07-31,CUST-1189,Customer 161,East,West Bengal,Durgapur,Corporate,Furniture,Storage,Bookshelf,31875.0,5,0.15,21208.43,10666.57,0.3346,UPI,Standard,5.0,2024,July,Q3,Profit
+ORD-10648,2025-03-24,CUST-1026,Customer 161,South,Tamil Nadu,Chennai,Corporate,Office Supplies,Chairs,Office Chair,13000.0,2,0.0,10971.67,2028.33,0.156,UPI,First Class,4.0,2025,March,Q1,Profit
+ORD-10355,2023-10-29,CUST-1019,Customer 199,East,Bihar,Gaya,Consumer,Office Supplies,Chairs,Office Chair,24375.0,5,0.25,15935.26,8439.74,0.3462,UPI,Same Day,4.0,2023,October,Q4,Profit
+ORD-10942,2025-06-29,CUST-1046,Customer 231,North,Rajasthan,Udaipur,Small Business,Technology,Accessories,Headphones,19125.0,5,0.15,15508.92,3616.08,0.1891,Net Banking,Second Class,2.0,2025,June,Q2,Profit
+ORD-10053,2024-09-28,CUST-1057,Customer 29,North,Uttar Pradesh,Lucknow,Corporate,Furniture,Storage,Cabinet,9500.0,1,0.0,7309.42,2190.58,0.2306,UPI,First Class,7.0,2024,September,Q3,Profit
+ORD-10199,2023-05-29,CUST-1063,Customer 231,South,Kerala,Thiruvananthapuram,Consumer,Office Supplies,Storage,File Folder,1350.0,6,0.1,884.61,465.39,0.3447,Credit Card,First Class,3.0,2023,May,Q2,Profit
+ORD-10123,2023-04-24,CUST-1271,Customer 101,North,Rajasthan,Jodhpur,Consumer,Technology,Accessories,Headphones,24300.0,6,0.1,15383.58,8916.42,0.3669,Cash,Second Class,5.0,2023,April,Q2,Profit
+ORD-10204,2025-02-02,CUST-1255,Customer 19,West,Gujarat,Surat,Consumer,Office Supplies,Tables,Desk,27000.0,3,0.0,16162.5,10837.5,0.4014,Debit Card,Standard,7.0,2025,February,Q1,Profit
+ORD-10068,2024-02-29,CUST-1246,Customer 299,South,Tamil Nadu,Madurai,Consumer,Technology,Tablets,Tablet,112200.0,6,0.15,76552.67,35647.33,0.3177,Net Banking,Standard,5.0,2024,February,Q1,Profit
+ORD-10224,2024-02-09,CUST-1132,Customer 21,South,Karnataka,Mysuru,Corporate,Technology,Accessories,Monitor,70000.0,5,0.0,60645.88,9354.12,0.1336,Cash,First Class,4.0,2024,February,Q1,Profit
+ORD-10128,2025-01-30,CUST-1143,Customer 255,South,Tamil Nadu,Madurai,Small Business,Furniture,Tables,Dining Table,62700.0,3,0.05,55092.65,7607.35,0.1213,Cash,Same Day,5.0,2025,January,Q1,Profit
+ORD-10656,2023-05-11,CUST-1144,Customer 46,East,West Bengal,Durgapur,Consumer,Technology,Tablets,Tablet,74800.0,4,0.15,56744.02,18055.98,0.2414,Debit Card,Standard,4.0,2023,May,Q2,Profit
+ORD-10140,2024-07-14,CUST-1108,Customer 291,South,Kerala,Thiruvananthapuram,Consumer,Office Supplies,Storage,File Folder,237.5,1,0.05,178.97,58.53,0.2465,Cash,Standard,5.0,2024,July,Q3,Profit
+ORD-10418,2024-06-19,CUST-1004,Customer 284,South,Telangana,Warangal,Consumer,Furniture,Tables,Dining Table,56100.0,3,0.15,39202.7,16897.3,0.3012,UPI,Standard,3.0,2024,June,Q2,Profit
+ORD-10219,2025-09-08,CUST-1246,Customer 227,North,Delhi,Delhi,Corporate,Furniture,Tables,Coffee Table,50400.0,7,0.1,39033.29,11366.71,0.2255,UPI,First Class,1.0,2025,September,Q3,Profit
+ORD-10547,2023-11-23,CUST-1214,Customer 152,South,Tamil Nadu,Coimbatore,Consumer,Technology,Computers,Laptop,175500.0,3,0.1,124296.11,51203.89,0.2918,Debit Card,Standard,7.0,2023,November,Q4,Profit
+ORD-10158,2023-06-13,CUST-1220,Customer 256,West,Maharashtra,Pune,Small Business,Office Supplies,Fasteners,Stapler,1530.0,6,0.15,1107.03,422.97,0.2765,Cash,First Class,5.0,2023,June,Q2,Profit
+ORD-10095,2024-09-09,CUST-1018,Customer 168,North,Uttar Pradesh,Kanpur,Corporate,Technology,Computers,Laptop,58500.0,1,0.1,35587.05,22912.95,0.3917,UPI,Standard,3.0,2024,September,Q3,Profit
+ORD-10256,2024-02-01,CUST-1016,Customer 256,West,Gujarat,Vadodara,Corporate,Furniture,Tables,Coffee Table,45600.0,6,0.05,34473.02,11126.98,0.244,Net Banking,Standard,4.0,2024,February,Q1,Profit
+ORD-10979,2025-04-15,CUST-1106,Customer 20,East,Bihar,Gaya,Small Business,Office Supplies,Storage,File Folder,237.5,1,0.05,156.2,81.3,0.3423,Net Banking,First Class,3.0,2025,April,Q2,Profit
+ORD-10644,2025-08-23,CUST-1189,Customer 293,North,Uttar Pradesh,Kanpur,Consumer,Furniture,Tables,Coffee Table,21600.0,3,0.1,14842.61,6757.39,0.3128,UPI,Second Class,5.0,2025,August,Q3,Profit
+ORD-10739,2025-08-04,CUST-1237,Customer 102,East,West Bengal,Durgapur,Consumer,Furniture,Seating,Sofa,100800.0,4,0.1,84951.36,15848.64,0.1572,Cash,Standard,7.0,2025,August,Q3,Profit
+ORD-10040,2024-10-22,CUST-1220,Customer 120,East,Bihar,Gaya,Consumer,Technology,Accessories,Headphones,27000.0,6,0.0,20568.58,6431.42,0.2382,Cash,Standard,6.0,2024,October,Q4,Profit
+ORD-10131,2025-04-14,CUST-1263,Customer 25,North,Delhi,New Delhi,Consumer,Furniture,Tables,Dining Table,93500.0,5,0.15,63400.7,30099.3,0.3219,Debit Card,Same Day,1.0,2025,April,Q2,Profit
+ORD-10998,2023-03-05,CUST-1154,Customer 85,West,Gujarat,Ahmedabad,Consumer,Technology,Accessories,Monitor,12600.0,1,0.1,9585.33,3014.67,0.2393,Credit Card,First Class,7.0,2023,March,Q1,Profit
+ORD-10190,2025-02-16,CUST-1004,Customer 93,North,Uttar Pradesh,Noida,Corporate,Furniture,Tables,Coffee Table,25600.0,4,0.2,20734.93,4865.07,0.19,Credit Card,Second Class,7.0,2025,February,Q1,Profit
+ORD-10951,2024-10-07,CUST-1098,Customer 168,South,Kerala,Kochi,Corporate,Office Supplies,Tables,Desk,16200.0,2,0.1,13360.52,2839.48,0.1753,Cash,Standard,2.0,2024,October,Q4,Profit
+ORD-10590,2024-09-19,CUST-1226,Customer 240,North,Delhi,New Delhi,Small Business,Technology,Accessories,Monitor,42000.0,3,0.0,32705.15,9294.85,0.2213,UPI,Second Class,1.0,2024,September,Q3,Profit
+ORD-10403,2024-08-20,CUST-1018,Customer 41,East,Odisha,Cuttack,Small Business,Furniture,Tables,Coffee Table,7200.0,1,0.1,5083.22,2116.78,0.294,Debit Card,Second Class,2.0,2024,August,Q3,Profit
+ORD-10761,2025-03-31,CUST-1103,Customer 115,West,Maharashtra,Pune,Corporate,Office Supplies,Paper,Notebook,1750.0,5,0.0,1144.65,605.35,0.3459,UPI,Second Class,1.0,2025,March,Q1,Profit
+ORD-10039,2024-09-22,CUST-1018,Customer 131,South,Kerala,Kozhikode,Consumer,Technology,Computers,Laptop,292500.0,5,0.1,181142.95,111357.05,0.3807,Net Banking,Standard,5.0,2024,September,Q3,Profit
+ORD-10243,2024-01-30,CUST-1214,Customer 237,South,Tamil Nadu,Madurai,Consumer,Technology,Computers,Laptop,195000.0,3,0.0,144706.32,50293.68,0.2579,Debit Card,Second Class,6.0,2024,January,Q1,Profit
+ORD-10354,2024-10-22,CUST-1100,Customer 156,South,Tamil Nadu,Salem,Consumer,Office Supplies,Storage,File Folder,500.0,2,0.0,367.78,132.22,0.2644,Net Banking,Same Day,2.0,2024,October,Q4,Profit
+ORD-10621,2023-08-26,CUST-1159,Customer 182,South,Kerala,Kozhikode,Corporate,Office Supplies,Paper,Notebook,1750.0,5,0.0,1367.28,382.72,0.2187,Credit Card,Standard,1.0,2023,August,Q3,Profit
+ORD-10651,2025-10-09,CUST-1254,Customer 54,North,Delhi,Delhi,Consumer,Office Supplies,Chairs,Office Chair,26000.0,5,0.2,16159.3,9840.7,0.3785,Cash,Standard,4.0,2025,October,Q4,Profit
+ORD-10535,2025-09-10,CUST-1297,Customer 192,East,Bihar,Gaya,Consumer,Office Supplies,Chairs,Office Chair,6175.0,1,0.05,5029.95,1145.05,0.1854,Debit Card,First Class,2.0,2025,September,Q3,Profit
+ORD-10504,2025-09-11,CUST-1216,Customer 276,East,West Bengal,Durgapur,Consumer,Furniture,Seating,Sofa,28000.0,1,0.0,16409.16,11590.84,0.414,Credit Card,Same Day,6.0,2025,September,Q3,Profit
+ORD-10160,2025-04-12,CUST-1012,Customer 216,North,Rajasthan,Udaipur,Corporate,Furniture,Bedroom,Bed,178500.0,7,0.15,132520.6,45979.4,0.2576,Debit Card,First Class,4.0,2025,April,Q2,Profit
+ORD-10395,2023-08-19,CUST-1129,Customer 240,East,Odisha,Cuttack,Consumer,Office Supplies,Paper,Notebook,1330.0,4,0.05,861.04,468.96,0.3526,Credit Card,First Class,7.0,2023,August,Q3,Profit
+ORD-10538,2025-05-02,CUST-1199,Customer 128,East,Bihar,Gaya,Corporate,Office Supplies,Chairs,Office Chair,30875.0,5,0.05,26851.73,4023.27,0.1303,Credit Card,Standard,2.0,2025,May,Q2,Profit
+ORD-10696,2025-07-24,CUST-1014,Customer 138,South,Tamil Nadu,Salem,Corporate,Furniture,Tables,Coffee Table,16000.0,2,0.0,14052.79,1947.21,0.1217,Net Banking,Second Class,2.0,2025,July,Q3,Profit
+ORD-10241,2024-05-11,CUST-1027,Customer 198,North,Delhi,Delhi,Corporate,Technology,Printers,Printer,8800.0,1,0.2,6016.07,2783.93,0.3164,Credit Card,Standard,1.0,2024,May,Q2,Profit
+ORD-10014,2024-12-26,CUST-1236,Customer 246,South,Telangana,Hyderabad,Consumer,Technology,Accessories,Headphones,4500.0,1,0.0,2893.93,1606.07,0.3569,Net Banking,First Class,3.0,2024,December,Q4,Profit
+ORD-10658,2023-07-15,CUST-1047,Customer 118,West,Maharashtra,Pune,Consumer,Technology,Tablets,Tablet,35200.0,2,0.2,24874.35,10325.65,0.2933,Credit Card,Standard,5.0,2023,July,Q3,Profit
+ORD-10476,2024-08-24,CUST-1205,Customer 295,West,Maharashtra,Pune,Consumer,Furniture,Storage,Bookshelf,30000.0,4,0.0,22772.51,7227.49,0.2409,Credit Card,Standard,3.0,2024,August,Q3,Profit
+ORD-10904,2024-01-10,CUST-1231,Customer 278,West,Gujarat,Ahmedabad,Consumer,Office Supplies,Tables,Desk,30600.0,4,0.15,18218.6,12381.4,0.4046,Credit Card,Second Class,5.0,2024,January,Q1,Profit
+ORD-10875,2023-11-28,CUST-1092,Customer 198,West,Maharashtra,Pune,Small Business,Office Supplies,Chairs,Office Chair,16575.0,3,0.15,12584.22,3990.78,0.2408,Cash,Second Class,3.0,2023,November,Q4,Profit
+ORD-10315,2025-08-20,CUST-1182,Customer 141,North,Delhi,Delhi,Consumer,Technology,Phones,Smartphone,201600.0,7,0.1,163116.11,38483.89,0.1909,Credit Card,Standard,1.0,2025,August,Q3,Profit
+ORD-10362,2024-08-20,CUST-1197,Customer 284,South,Tamil Nadu,Tiruchirappalli,Corporate,Office Supplies,Fasteners,Stapler,1500.0,5,0.0,1119.63,380.37,0.2536,Debit Card,Standard,4.0,2024,August,Q3,Profit
+ORD-10591,2024-08-26,CUST-1053,Customer 136,North,Rajasthan,Udaipur,Consumer,Furniture,Tables,Coffee Table,30400.0,4,0.05,24488.65,5911.35,0.1945,Net Banking,Standard,3.0,2024,August,Q3,Profit
+ORD-10321,2023-07-09,CUST-1018,Customer 149,South,Karnataka,Mysuru,Corporate,Furniture,Storage,Cabinet,54150.0,6,0.05,34060.89,20089.11,0.371,Debit Card,First Class,6.0,2023,July,Q3,Profit
+ORD-10913,2024-07-13,CUST-1047,Customer 208,South,Tamil Nadu,Coimbatore,Corporate,Office Supplies,Tables,Desk,56700.0,7,0.1,42168.29,14531.71,0.2563,Net Banking,Second Class,1.0,2024,July,Q3,Profit
+ORD-10217,2023-06-04,CUST-1174,Customer 7,West,Maharashtra,Mumbai,Corporate,Furniture,Seating,Sofa,95200.0,4,0.15,74056.75,21143.25,0.2221,UPI,Standard,2.0,2023,June,Q2,Profit
+ORD-10673,2025-09-12,CUST-1021,Customer 160,South,Kerala,Kozhikode,Consumer,Furniture,Storage,Cabinet,9025.0,1,0.05,6168.63,2856.37,0.3165,UPI,Second Class,7.0,2025,September,Q3,Profit
+ORD-10565,2025-12-16,CUST-1170,Customer 153,South,Kerala,Kochi,Small Business,Technology,Accessories,Monitor,79800.0,6,,57923.0,21877.0,0.2741,Net Banking,Standard,7.0,2025,December,Q4,Profit
+ORD-10356,2023-08-26,CUST-1017,Customer 162,South,Tamil Nadu,Madurai,Corporate,Office Supplies,Writing,Pen Set,1710.0,4,0.05,1175.53,534.47,0.3126,,Standard,1.0,2023,August,Q3,Profit
+ORD-10035,2024-08-03,CUST-1070,Customer 186,East,Odisha,Cuttack,Small Business,Technology,Accessories,Monitor,39900.0,3,0.05,30627.2,9272.8,0.2324,Debit Card,Standard,2.0,2024,August,Q3,Profit
+ORD-10335,2023-09-30,CUST-1055,Customer 258,North,Rajasthan,Jodhpur,Corporate,Technology,Phones,Smartphone,128000.0,4,0.0,96276.45,31723.55,0.2478,Debit Card,Standard,4.0,2023,September,Q3,Profit
+ORD-10689,2025-07-19,CUST-1084,Customer 200,North,Uttar Pradesh,Agra,Consumer,Office Supplies,Fasteners,Stapler,810.0,3,0.1,594.31,215.69,0.2663,UPI,First Class,4.0,2025,July,Q3,Profit
+ORD-10377,2024-02-25,CUST-1286,Customer 282,South,Tamil Nadu,Madurai,Consumer,Furniture,Storage,Cabinet,48450.0,6,0.15,32684.81,15765.19,0.3254,Cash,Standard,3.0,2024,February,Q1,Profit
+ORD-10185,2025-12-19,CUST-1261,Customer 153,South,Tamil Nadu,Salem,Consumer,Technology,Tablets,Tablet,41800.0,2,0.05,28741.11,13058.89,0.3124,UPI,Standard,7.0,2025,December,Q4,Profit
+ORD-10824,2023-05-22,CUST-1176,Customer 185,South,Kerala,Kozhikode,Consumer,Office Supplies,Writing,Pen Set,427.5,1,0.05,264.91,162.59,0.3803,Cash,First Class,4.0,2023,May,Q2,Profit
+ORD-10424,2023-07-21,CUST-1150,Customer 22,East,Bihar,Gaya,Corporate,Furniture,Bedroom,Bed,178500.0,7,0.15,156626.58,21873.42,0.1225,Net Banking,Standard,4.0,2023,July,Q3,Profit
+ORD-10326,2025-02-08,CUST-1193,Customer 95,North,Uttar Pradesh,Agra,Corporate,Technology,Accessories,Monitor,88200.0,7,0.1,61681.61,26518.39,0.3007,Debit Card,Standard,2.0,2025,February,Q1,Profit
+ORD-10188,2023-10-14,CUST-1182,Customer 57,North,Uttar Pradesh,Lucknow,Consumer,Technology,Phones,Smartphone,182400.0,6,0.05,123071.11,59328.89,0.3253,Net Banking,Second Class,6.0,2023,October,Q4,Profit
+ORD-10285,2023-04-11,CUST-1213,Customer 244,East,Bihar,Gaya,Consumer,Furniture,Tables,Coffee Table,45600.0,6,0.05,32465.23,13134.77,0.288,Debit Card,Second Class,5.0,2023,April,Q2,Profit
+ORD-10392,2024-04-17,CUST-1148,Customer 223,West,Gujarat,Surat,Corporate,Office Supplies,Paper,Notebook,280.0,1,0.2,182.62,97.38,0.3478,Cash,Standard,1.0,2024,April,Q2,Profit
+ORD-10966,2023-12-31,CUST-1167,Customer 272,South,Telangana,Warangal,Corporate,Office Supplies,Storage,File Folder,1662.5,7,0.05,1281.12,381.38,0.2294,Cash,Second Class,4.0,2023,December,Q4,Profit
+ORD-10166,2024-04-27,CUST-1226,Customer 15,West,Gujarat,Surat,Small Business,Furniture,Storage,Cabinet,59850.0,7,0.1,38909.82,20940.18,0.3499,Cash,First Class,7.0,2024,April,Q2,Profit
+ORD-10348,2023-02-08,CUST-1276,Customer 203,West,Gujarat,Ahmedabad,Small Business,Technology,Phones,Smartphone,72000.0,3,0.25,59950.77,12049.23,0.1674,Cash,Second Class,1.0,2023,February,Q1,Profit
+ORD-10299,2024-05-13,CUST-1141,Customer 202,North,Uttar Pradesh,Agra,Consumer,Technology,Printers,Printer,10450.0,1,0.05,8568.32,1881.68,0.1801,Cash,Second Class,7.0,2024,May,Q2,Profit
+ORD-10536,2023-11-01,CUST-1020,Customer 103,South,Karnataka,Bengaluru,Small Business,Furniture,Storage,Bookshelf,6375.0,1,0.15,5162.2,1212.8,0.1902,Cash,Standard,6.0,2023,November,Q4,Profit
+ORD-10230,2023-03-06,CUST-1247,Customer 134,South,Tamil Nadu,Chennai,Corporate,Office Supplies,Writing,Pen Set,2835.0,7,0.1,1931.84,903.16,0.3186,Debit Card,First Class,4.0,2023,March,Q1,Profit
+ORD-10860,2025-09-14,CUST-1242,Customer 289,South,Kerala,Thiruvananthapuram,Corporate,Office Supplies,Writing,Pen Set,2992.5,7,0.05,1920.4,1072.1,0.3583,UPI,Standard,4.0,2025,September,Q3,Profit
+ORD-10828,2025-09-24,CUST-1002,Customer 216,South,Tamil Nadu,Salem,Corporate,Technology,Printers,Printer,29700.0,3,0.1,22953.3,6746.7,0.2272,Credit Card,Standard,4.0,2025,September,Q3,Profit
+ORD-10695,2024-04-27,CUST-1159,Customer 237,East,Bihar,Gaya,Consumer,Office Supplies,Chairs,Office Chair,38675.0,7,0.15,22844.44,15830.56,0.4093,Debit Card,First Class,1.0,2024,April,Q2,Profit
+ORD-10856,2025-08-14,CUST-1170,Customer 139,North,Delhi,New Delhi,Consumer,Technology,Computers,Laptop,247000.0,4,0.05,166059.02,80940.98,0.3277,Debit Card,First Class,6.0,2025,August,Q3,Profit
+ORD-10042,2025-03-15,CUST-1298,Customer 192,South,Telangana,Warangal,Consumer,Office Supplies,Writing,Pen Set,855.0,2,0.05,507.44,347.56,0.4065,Net Banking,First Class,7.0,2025,March,Q1,Profit
+ORD-10869,2024-09-30,CUST-1210,Customer 266,East,Bihar,Gaya,Consumer,Office Supplies,Fasteners,Stapler,510.0,2,0.15,345.96,164.04,0.3216,Cash,Second Class,4.0,2024,September,Q3,Profit
+ORD-10749,2025-10-08,CUST-1059,Customer 194,East,Odisha,Bhubaneswar,Consumer,Office Supplies,Chairs,Office Chair,29250.0,5,0.1,18406.62,10843.38,0.3707,Net Banking,Second Class,5.0,2025,October,Q4,Profit
+ORD-10940,2023-09-19,CUST-1100,Customer 130,North,Delhi,New Delhi,Consumer,Technology,Tablets,Tablet,118800.0,6,0.1,90296.96,28503.04,0.2399,Net Banking,Standard,1.0,2023,September,Q3,Profit
+ORD-10863,2023-06-23,CUST-1208,Customer 184,South,Telangana,Hyderabad,Consumer,Technology,Phones,Smartphone,224000.0,7,0.0,189356.97,34643.03,0.1547,UPI,Second Class,1.0,2023,June,Q2,Profit
+ORD-10588,2023-08-01,CUST-1187,Customer 238,South,Tamil Nadu,Madurai,Consumer,Technology,Printers,Printer,69300.0,7,0.1,59994.12,9305.88,0.1343,Net Banking,Second Class,5.0,2023,August,Q3,Profit
+ORD-10544,2025-06-13,CUST-1070,Customer 232,East,Bihar,Gaya,Consumer,Technology,Accessories,Headphones,25650.0,6,0.05,16468.46,9181.54,0.358,Net Banking,Second Class,1.0,2025,June,Q2,Profit
+ORD-10447,2023-07-30,CUST-1252,Customer 127,East,Bihar,Patna,Consumer,Furniture,Storage,Cabinet,17100.0,2,0.1,13688.68,3411.32,0.1995,Debit Card,Standard,3.0,2023,July,Q3,Profit
+ORD-10448,2024-02-10,CUST-1119,Customer 104,East,Bihar,Patna,Small Business,Technology,Tablets,Tablet,83600.0,4,0.05,63789.51,19810.49,0.237,Debit Card,First Class,7.0,2024,February,Q1,Profit
+ORD-10350,2025-02-18,CUST-1283,Customer 246,East,Odisha,Bhubaneswar,Corporate,Office Supplies,Tables,Desk,7650.0,1,0.15,4614.15,3035.85,0.3968,Credit Card,Standard,6.0,2025,February,Q1,Profit
+ORD-10046,2025-08-26,CUST-1180,Customer 139,South,Kerala,Thiruvananthapuram,Consumer,Technology,Phones,Smartphone,190400.0,7,0.15,163488.46,26911.54,0.1413,Net Banking,Standard,2.0,2025,August,Q3,Profit
+ORD-10972,2023-12-07,CUST-1016,Customer 218,South,Karnataka,Bengaluru,Consumer,Office Supplies,Storage,File Folder,1425.0,6,0.05,1193.27,231.73,0.1626,UPI,Standard,6.0,2023,December,Q4,Profit
+ORD-10109,2023-12-30,CUST-1108,Customer 216,East,Odisha,Cuttack,Corporate,Furniture,Tables,Dining Table,70400.0,4,0.2,52243.12,18156.88,0.2579,Credit Card,Standard,6.0,2023,December,Q4,Profit
+ORD-10618,2024-07-20,CUST-1193,Customer 163,East,West Bengal,Durgapur,Consumer,Technology,Tablets,Tablet,59400.0,3,0.1,47093.31,12306.69,0.2072,Debit Card,First Class,3.0,2024,July,Q3,Profit
+ORD-10662,2023-08-15,CUST-1149,Customer 113,North,Delhi,Delhi,Corporate,Office Supplies,Paper,Notebook,1400.0,5,0.2,1084.47,315.53,0.2254,Net Banking,Standard,3.0,2023,August,Q3,Profit
+ORD-10030,2025-05-06,CUST-1051,Customer 79,West,Gujarat,Vadodara,Corporate,Technology,Computers,Laptop,455000.0,7,0.0,301563.45,153436.55,0.3372,Debit Card,First Class,7.0,2025,May,Q2,Profit
+ORD-10182,2024-11-02,CUST-1171,Customer 270,North,Uttar Pradesh,Agra,Corporate,Office Supplies,Tables,Desk,59850.0,7,0.05,38123.3,21726.7,0.363,Cash,Standard,4.0,2024,November,Q4,Profit
+ORD-10622,2024-07-07,CUST-1103,Customer 249,East,Bihar,Patna,Corporate,Furniture,Tables,Dining Table,39600.0,2,0.1,31248.65,8351.35,0.2109,Cash,Standard,7.0,2024,July,Q3,Profit
+ORD-10420,2023-08-15,CUST-1204,Customer 123,North,Delhi,Delhi,Corporate,Technology,Accessories,Monitor,50400.0,4,0.1,31632.1,18767.9,0.3724,Debit Card,First Class,5.0,2023,August,Q3,Profit
+ORD-10635,2023-08-08,CUST-1189,Customer 187,North,Rajasthan,Udaipur,Corporate,Technology,Printers,Printer,28050.0,3,0.15,24196.42,3853.58,0.1374,UPI,Standard,2.0,2023,August,Q3,Profit
+ORD-10976,2023-10-27,CUST-1012,Customer 66,North,Delhi,Delhi,Corporate,Furniture,Tables,Dining Table,37400.0,2,0.15,29761.93,7638.07,0.2042,Net Banking,Standard,7.0,2023,October,Q4,Profit
+ORD-10105,2023-08-25,CUST-1186,Customer 85,South,Tamil Nadu,Chennai,Small Business,Office Supplies,Paper,Notebook,2082.5,7,0.15,1652.76,429.74,0.2064,UPI,First Class,7.0,2023,August,Q3,Profit
+ORD-10061,2025-10-02,CUST-1258,Customer 24,South,Telangana,Hyderabad,Corporate,Office Supplies,Fasteners,Stapler,1890.0,7,0.1,1601.05,288.95,0.1529,Debit Card,Standard,3.0,2025,October,Q4,Profit
+ORD-10659,2025-07-18,CUST-1013,Customer 189,West,Maharashtra,Nagpur,Corporate,Furniture,Seating,Sofa,23800.0,1,0.15,19409.36,4390.64,0.1845,Debit Card,Standard,6.0,2025,July,Q3,Profit
+ORD-10084,2024-12-27,CUST-1089,Customer 281,South,Telangana,Hyderabad,Small Business,Furniture,Tables,Coffee Table,13600.0,2,0.15,8777.0,4823.0,0.3546,Cash,First Class,3.0,2024,December,Q4,Profit
+ORD-10491,2024-12-04,CUST-1262,Customer 9,South,Kerala,Thiruvananthapuram,Corporate,Furniture,Storage,Cabinet,59850.0,7,0.1,36177.68,23672.32,0.3955,UPI,First Class,7.0,2024,December,Q4,Profit
+ORD-10316,2025-04-15,CUST-1025,Customer 69,South,Telangana,Warangal,Consumer,Office Supplies,Fasteners,Stapler,570.0,2,0.05,420.1,149.9,0.263,UPI,Standard,1.0,2025,April,Q2,Profit
+ORD-10451,2025-09-24,CUST-1045,Customer 257,North,Rajasthan,Jaipur,Corporate,Furniture,Tables,Coffee Table,53200.0,7,0.05,35026.87,18173.13,0.3416,Net Banking,Standard,4.0,2025,September,Q3,Profit
+ORD-10382,2023-01-23,CUST-1129,Customer 92,South,Kerala,Kochi,Corporate,Furniture,Tables,Coffee Table,28800.0,4,0.1,23594.52,5205.48,0.1807,Debit Card,Second Class,2.0,2023,January,Q1,Profit
+ORD-10423,2024-02-09,CUST-1206,Customer 286,North,Rajasthan,Jaipur,Corporate,Technology,Computers,Laptop,260000.0,4,0.0,221549.27,38450.73,0.1479,Cash,First Class,4.0,2024,February,Q1,Profit
+ORD-10497,2025-07-19,CUST-1077,Customer 266,North,Uttar Pradesh,Kanpur,Consumer,Technology,Tablets,Tablet,37400.0,2,0.15,26183.51,11216.49,0.2999,Cash,Standard,3.0,2025,July,Q3,Profit
+ORD-10947,2023-05-05,CUST-1114,Customer 49,South,Karnataka,Bengaluru,Corporate,Furniture,Seating,Sofa,151200.0,6,0.1,90800.47,60399.53,0.3995,Cash,Same Day,4.0,2023,May,Q2,Profit
+ORD-10740,2025-06-17,CUST-1105,Customer 77,North,Delhi,New Delhi,Corporate,Office Supplies,Storage,File Folder,1575.0,7,0.1,1341.25,233.75,0.1484,Net Banking,Standard,5.0,2025,June,Q2,Profit
+ORD-10524,2025-12-29,CUST-1117,Customer 268,North,Delhi,New Delhi,Corporate,Technology,Printers,Printer,49500.0,5,0.1,38732.16,10767.84,0.2175,Cash,Second Class,1.0,2025,December,Q4,Profit
+ORD-10446,2025-07-03,CUST-1297,Customer 236,West,Maharashtra,Nashik,Corporate,Technology,Computers,Laptop,208000.0,4,0.2,170325.6,37674.4,0.1811,Cash,Second Class,2.0,2025,July,Q3,Profit
+ORD-10664,2023-09-22,CUST-1166,Customer 128,West,Gujarat,Ahmedabad,Corporate,Office Supplies,Fasteners,Stapler,1020.0,4,0.15,731.76,288.24,0.2826,Cash,Standard,4.0,2023,September,Q3,Profit
+ORD-10001,2025-11-28,CUST-1139,Customer 134,North,Rajasthan,Udaipur,Consumer,Furniture,Bedroom,Bed,142500.0,5,0.05,119012.06,23487.94,0.1648,Cash,First Class,4.0,2025,November,Q4,Profit
+ORD-10780,2025-10-09,CUST-1028,Customer 205,West,Gujarat,Ahmedabad,Corporate,Office Supplies,Fasteners,Stapler,540.0,2,0.1,340.35,199.65,0.3697,Cash,Second Class,5.0,2025,October,Q4,Profit
+ORD-10982,2025-05-15,CUST-1282,Customer 202,North,Uttar Pradesh,Lucknow,Small Business,Furniture,Storage,Bookshelf,42750.0,6,0.05,26350.71,16399.29,0.3836,Credit Card,Standard,7.0,2025,May,Q2,Profit
+ORD-10627,2025-04-27,CUST-1051,Customer 86,South,Telangana,Warangal,Consumer,Office Supplies,Storage,File Folder,675.0,3,0.1,474.08,200.92,0.2977,Cash,Standard,1.0,2025,April,Q2,Profit
+ORD-10458,2023-04-23,CUST-1214,Customer 264,South,Telangana,Warangal,Consumer,Furniture,Tables,Dining Table,118800.0,6,0.1,79083.71,39716.29,0.3343,UPI,First Class,7.0,2023,April,Q2,Profit
+ORD-10489,2023-02-18,CUST-1141,Customer 175,West,Gujarat,Ahmedabad,Small Business,Office Supplies,Tables,Desk,8550.0,1,0.05,6052.97,2497.03,0.2921,Cash,First Class,3.0,2023,February,Q1,Profit
+ORD-10089,2024-10-23,CUST-1279,Customer 283,North,Delhi,New Delhi,Consumer,Furniture,Seating,Sofa,142800.0,6,0.15,114044.85,28755.15,0.2014,Cash,Second Class,4.0,2024,October,Q4,Profit
+ORD-10484,2024-07-16,CUST-1176,Customer 34,North,Delhi,Delhi,Corporate,Technology,Accessories,Headphones,26775.0,7,0.15,17125.11,9649.89,0.3604,UPI,Second Class,1.0,2024,July,Q3,Profit
+ORD-10461,2025-02-01,CUST-1067,Customer 98,East,West Bengal,Durgapur,Corporate,Furniture,Storage,Cabinet,24225.0,3,0.15,18300.74,5924.26,0.2446,UPI,Standard,5.0,2025,February,Q1,Profit
+ORD-10078,2025-02-14,CUST-1186,Customer 31,West,Gujarat,Surat,Consumer,Technology,Printers,Printer,59400.0,6,0.1,46504.75,12895.25,0.2171,Net Banking,Standard,5.0,2025,February,Q1,Profit
+ORD-10269,2025-02-27,CUST-1034,Customer 86,North,Uttar Pradesh,Lucknow,Consumer,Office Supplies,Writing,Pen Set,2835.0,7,0.1,2258.42,576.58,0.2034,Credit Card,First Class,7.0,2025,February,Q1,Profit
+ORD-10930,2025-07-18,CUST-1053,Customer 138,South,Telangana,Warangal,Consumer,Technology,Computers,Laptop,58500.0,1,0.1,37544.95,20955.05,0.3582,Net Banking,Second Class,7.0,2025,July,Q3,Profit
+ORD-10124,2025-01-18,CUST-1005,Customer 21,North,Uttar Pradesh,Kanpur,Consumer,Furniture,Storage,Bookshelf,49875.0,7,0.05,43700.52,6174.48,0.1238,Debit Card,First Class,,2025,January,Q1,Profit
+ORD-10298,2024-02-03,CUST-1161,Customer 118,North,Uttar Pradesh,Agra,Corporate,Technology,Phones,Smartphone,108800.0,4,0.15,74629.28,34170.72,0.3141,UPI,Second Class,5.0,2024,February,Q1,Profit
+ORD-10882,2025-06-28,CUST-1069,Customer 138,North,Rajasthan,Udaipur,Corporate,Furniture,Tables,Dining Table,132000.0,6,0.0,112960.64,19039.36,0.1442,Net Banking,Standard,7.0,2025,June,Q2,Profit
+ORD-10096,2024-03-21,CUST-1057,Customer 244,East,Bihar,Patna,Consumer,Furniture,Tables,Dining Table,138600.0,7,0.1,114962.53,23637.47,0.1705,Net Banking,Standard,7.0,2024,March,Q1,Profit
+ORD-10734,2023-09-27,CUST-1065,Customer 77,West,Maharashtra,Nashik,Consumer,Technology,Accessories,Monitor,26600.0,2,0.05,16921.25,9678.75,0.3639,UPI,Second Class,1.0,2023,September,Q3,Profit
+ORD-10012,2023-05-21,CUST-1242,Customer 70,North,Delhi,New Delhi,Consumer,Technology,Accessories,Monitor,44800.0,4,0.2,39315.98,5484.02,0.1224,UPI,Second Class,4.0,2023,May,Q2,Profit
+ORD-10115,2024-03-31,CUST-1282,Customer 220,South,Tamil Nadu,Chennai,Corporate,Technology,Printers,Printer,20900.0,2,0.05,15563.43,5336.57,0.2553,Debit Card,Standard,4.0,2024,March,Q1,Profit
+ORD-10844,2025-05-05,CUST-1171,Customer 176,South,Karnataka,Mysuru,Small Business,Technology,Accessories,Headphones,24300.0,6,0.1,14500.35,9799.65,0.4033,Cash,First Class,4.0,2025,May,Q2,Profit
+ORD-10429,2025-07-29,CUST-1088,Customer 262,South,Kerala,Thiruvananthapuram,Consumer,Technology,Tablets,Tablet,123200.0,7,0.2,86919.68,36280.32,0.2945,UPI,Standard,5.0,2025,July,Q3,Profit
+ORD-10258,2023-04-15,CUST-1145,Customer 109,South,Telangana,Warangal,Consumer,Office Supplies,Writing,Pen Set,1282.5,3,0.05,774.7,507.8,0.3959,Net Banking,Standard,2.0,2023,April,Q2,Profit
+ORD-10732,2024-02-28,CUST-1024,Customer 194,North,Delhi,Delhi,Small Business,Office Supplies,Storage,File Folder,800.0,4,0.2,520.06,279.94,0.3499,Debit Card,Second Class,6.0,2024,February,Q1,Profit
+ORD-10950,2025-11-24,CUST-1264,Customer 53,South,Kerala,Kochi,Consumer,Furniture,Seating,Sofa,159600.0,6,0.05,108265.12,51334.88,0.3216,Credit Card,Standard,2.0,2025,November,Q4,Profit
+ORD-10765,2023-02-10,CUST-1039,Customer 92,North,Delhi,New Delhi,Consumer,Technology,Accessories,Monitor,79800.0,6,0.05,46600.7,33199.3,0.416,UPI,First Class,5.0,2023,February,Q1,Profit
+ORD-10353,2025-10-18,CUST-1062,Customer 44,West,Maharashtra,Mumbai,Consumer,Technology,Computers,Laptop,390000.0,6,0.0,240624.2,149375.8,0.383,Debit Card,Standard,7.0,2025,October,Q4,Profit
+ORD-10986,2024-05-23,CUST-1161,Customer 77,East,West Bengal,Durgapur,Consumer,Furniture,Bedroom,Bed,45000.0,2,0.25,34207.87,10792.13,0.2398,Cash,Standard,6.0,2024,May,Q2,Profit
+ORD-10774,2024-03-07,CUST-1002,Customer 153,South,Karnataka,Mangaluru,Small Business,Furniture,Tables,Dining Table,146300.0,7,0.05,97536.83,48763.17,0.3333,UPI,Standard,7.0,2024,March,Q1,Profit
+ORD-10956,2023-03-18,CUST-1261,Customer 204,East,West Bengal,Kolkata,Corporate,Technology,Accessories,Headphones,12825.0,3,0.05,8746.67,4078.33,0.318,Debit Card,Standard,5.0,2023,March,Q1,Profit
+ORD-10691,2024-12-24,CUST-1232,Customer 180,South,Tamil Nadu,Chennai,Corporate,Furniture,Tables,Dining Table,74800.0,4,0.15,51795.07,23004.93,0.3076,Credit Card,Standard,4.0,2024,December,Q4,Profit
+ORD-10923,2025-10-03,CUST-1286,Customer 29,South,Tamil Nadu,Chennai,Small Business,Technology,Accessories,Headphones,6750.0,2,0.25,4877.08,1872.92,0.2775,Cash,Same Day,3.0,2025,October,Q4,Profit
+ORD-10791,2023-06-23,CUST-1065,,West,Gujarat,Ahmedabad,Small Business,Office Supplies,Writing,Pen Set,2520.0,7,0.2,1491.7,1028.3,0.4081,Net Banking,First Class,4.0,2023,June,Q2,Profit
+ORD-10532,2023-06-14,CUST-1237,Customer 225,East,Odisha,Bhubaneswar,Consumer,Furniture,Storage,Bookshelf,33750.0,5,0.1,26111.73,7638.27,0.2263,Credit Card,Standard,5.0,2023,June,Q2,Profit
+ORD-10868,2025-09-16,CUST-1102,Customer 253,South,Tamil Nadu,Coimbatore,Corporate,Furniture,Tables,Coffee Table,22800.0,3,0.05,19492.79,3307.21,0.1451,Credit Card,Standard,2.0,2025,September,Q3,Profit
+ORD-10170,2025-07-05,CUST-1078,Customer 169,North,Uttar Pradesh,Kanpur,Small Business,Office Supplies,Tables,Desk,54000.0,6,0.0,39389.71,14610.29,0.2706,Credit Card,First Class,5.0,2025,July,Q3,Profit
+ORD-10240,2025-09-21,CUST-1185,Customer 101,East,Odisha,Bhubaneswar,Corporate,Furniture,Tables,Dining Table,18700.0,1,0.15,14082.87,4617.13,0.2469,Cash,Second Class,1.0,2025,September,Q3,Profit
+ORD-10278,2025-08-13,CUST-1179,Customer 165,North,Uttar Pradesh,Lucknow,Corporate,Office Supplies,Fasteners,Stapler,255.0,1,0.15,220.62,34.38,0.1348,Cash,Same Day,6.0,2025,August,Q3,Profit
+ORD-10161,2023-12-02,CUST-1244,Customer 172,East,Odisha,Bhubaneswar,Consumer,Technology,Accessories,Monitor,37800.0,3,0.1,22899.6,14900.4,0.3942,Credit Card,Standard,3.0,2023,December,Q4,Profit
+ORD-10074,2024-05-31,CUST-1172,Customer 258,West,Gujarat,Ahmedabad,Consumer,Office Supplies,Tables,Desk,42750.0,5,0.05,31534.16,11215.84,0.2624,Debit Card,Standard,4.0,2024,May,Q2,Profit
+ORD-10530,2025-06-14,CUST-1031,Customer 135,South,Tamil Nadu,Coimbatore,Consumer,Furniture,Storage,Bookshelf,33750.0,5,0.1,21698.11,12051.89,0.3571,Debit Card,Second Class,7.0,2025,June,Q2,Profit
+ORD-10063,2025-01-13,CUST-1175,Customer 139,East,Bihar,Patna,Corporate,Furniture,Seating,Sofa,75600.0,3,0.1,56637.7,18962.3,0.2508,Cash,Second Class,7.0,2025,January,Q1,Profit
+ORD-10762,2025-09-27,CUST-1297,Customer 262,North,Uttar Pradesh,Lucknow,Consumer,Office Supplies,Fasteners,Stapler,1200.0,4,0.0,1005.47,194.53,0.1621,Cash,Standard,2.0,2025,September,Q3,Profit
+ORD-10493,2023-12-22,CUST-1232,Customer 113,East,West Bengal,Kolkata,Small Business,Technology,Tablets,Tablet,125400.0,6,0.05,79196.22,46203.78,0.3685,Credit Card,Standard,4.0,2023,December,Q4,Profit
+ORD-10741,2023-10-11,CUST-1259,Customer 229,East,West Bengal,Kolkata,Consumer,Furniture,Tables,Coffee Table,40000.0,5,0.0,29115.48,10884.52,0.2721,UPI,Second Class,6.0,2023,October,Q4,Profit
+ORD-10751,2025-07-22,CUST-1207,Customer 186,South,Tamil Nadu,Chennai,Corporate,Furniture,Tables,Coffee Table,30400.0,4,0.05,18749.18,11650.82,0.3833,Debit Card,First Class,3.0,2025,July,Q3,Profit
+ORD-10742,2025-09-06,CUST-1046,Customer 297,East,Bihar,Patna,Consumer,Office Supplies,Fasteners,Stapler,1125.0,5,0.25,763.93,361.07,0.321,UPI,Standard,2.0,2025,September,Q3,Profit
+ORD-10831,2024-07-08,CUST-1211,Customer 155,West,Maharashtra,Nashik,Corporate,Office Supplies,Fasteners,Stapler,270.0,1,0.1,185.96,84.04,0.3112,Credit Card,Second Class,3.0,2024,July,Q3,Profit
+ORD-10796,2025-03-30,CUST-1109,Customer 8,West,Gujarat,Vadodara,Corporate,Technology,Printers,Printer,49500.0,5,0.1,29350.04,20149.96,0.4071,Cash,Standard,5.0,2025,March,Q1,Profit
+ORD-10048,2024-05-23,CUST-1234,Customer 94,West,Maharashtra,Nashik,Corporate,Office Supplies,Chairs,Office Chair,23400.0,4,0.1,16838.67,6561.33,0.2804,Debit Card,First Class,2.0,2024,May,Q2,Profit
+ORD-10763,2023-11-30,CUST-1178,Customer 18,South,Karnataka,Bengaluru,Consumer,Furniture,Storage,Cabinet,25650.0,3,0.1,16175.99,9474.01,0.3694,Cash,Standard,1.0,2023,November,Q4,Profit
+ORD-10592,2025-02-20,CUST-1224,Customer 64,West,Maharashtra,Nashik,Consumer,Technology,Accessories,Monitor,26600.0,2,0.05,21907.33,4692.67,0.1764,UPI,First Class,2.0,2025,February,Q1,Profit
+ORD-10808,2024-08-01,CUST-1300,Customer 289,North,Uttar Pradesh,Agra,Small Business,Technology,Phones,Smartphone,192000.0,6,0.0,122420.13,69579.87,0.3624,Credit Card,Standard,7.0,2024,August,Q3,Profit
+ORD-10992,2025-09-25,CUST-1117,Customer 58,West,Maharashtra,Pune,Corporate,Office Supplies,Writing,Pen Set,405.0,1,0.1,347.0,58.0,0.1432,UPI,Standard,6.0,2025,September,Q3,Profit
+ORD-10506,2024-12-25,CUST-1084,Customer 10,West,Maharashtra,Mumbai,Corporate,Technology,Phones,Smartphone,172800.0,6,0.1,146163.12,26636.88,0.1541,Net Banking,Second Class,3.0,2024,December,Q4,Profit
+ORD-10021,2024-08-06,CUST-1246,Customer 151,North,Delhi,New Delhi,Consumer,Furniture,Storage,Bookshelf,42750.0,6,0.05,33436.98,9313.02,0.2178,UPI,Standard,7.0,2024,August,Q3,Profit
+ORD-10969,2025-08-04,CUST-1289,Customer 165,East,West Bengal,Durgapur,Consumer,Furniture,Seating,Sofa,134400.0,6,0.2,79625.17,54774.83,0.4076,Debit Card,Second Class,1.0,2025,August,Q3,Profit
+ORD-10425,2023-02-07,CUST-1159,Customer 259,South,Karnataka,Mangaluru,Small Business,Furniture,Storage,Bookshelf,20250.0,3,0.1,13010.52,7239.48,0.3575,Debit Card,Standard,7.0,2023,February,Q1,Profit
+ORD-10653,2023-09-26,CUST-1123,Customer 242,North,Uttar Pradesh,Kanpur,Consumer,Furniture,Seating,Sofa,126000.0,5,0.1,82528.98,43471.02,0.345,Credit Card,First Class,6.0,2023,September,Q3,Profit
+ORD-10193,2024-01-17,CUST-1215,Customer 275,West,Gujarat,Surat,Corporate,Office Supplies,Storage,File Folder,450.0,2,0.1,352.21,97.79,0.2173,Debit Card,Second Class,4.0,2024,January,Q1,Profit
+ORD-10643,2025-09-16,CUST-1218,Customer 39,East,Bihar,Gaya,Small Business,Office Supplies,Fasteners,Stapler,1785.0,7,0.15,1232.97,552.03,0.3093,Debit Card,First Class,1.0,2025,September,Q3,Profit
+ORD-10216,2024-06-02,CUST-1251,Customer 80,South,Tamil Nadu,Chennai,Small Business,Technology,Computers,Laptop,65000.0,1,0.0,45251.85,19748.15,0.3038,Debit Card,Standard,5.0,2024,June,Q2,Profit
+ORD-10245,2023-11-04,CUST-1242,Customer 121,North,Delhi,New Delhi,Small Business,Office Supplies,Chairs,Office Chair,18525.0,3,0.05,13889.21,4635.79,0.2502,Debit Card,Standard,4.0,2023,November,Q4,Profit
+ORD-10364,2023-08-23,CUST-1204,Customer 206,East,Bihar,Patna,Consumer,Technology,Accessories,Headphones,9000.0,2,0.0,5231.31,3768.69,0.4187,Credit Card,Standard,3.0,2023,August,Q3,Profit
+ORD-10060,2024-09-12,CUST-1213,Customer 208,South,Karnataka,Mysuru,Consumer,Technology,Printers,Printer,33000.0,3,0.0,19639.13,13360.87,0.4049,Debit Card,First Class,4.0,2024,September,Q3,Profit
+ORD-10222,2024-05-24,CUST-1294,Customer 291,South,Tamil Nadu,Salem,Consumer,Furniture,Tables,Coffee Table,7200.0,1,0.1,6207.49,992.51,0.1378,Cash,Standard,2.0,2024,May,Q2,Profit
+ORD-10177,2024-06-26,CUST-1105,Customer 16,South,Telangana,Warangal,Corporate,Technology,Computers,Laptop,61750.0,1,0.05,46617.49,15132.51,0.2451,Credit Card,Standard,1.0,2024,June,Q2,Profit
+ORD-10450,2024-06-25,CUST-1198,Customer 155,West,Maharashtra,Nagpur,Consumer,Furniture,Seating,Sofa,22400.0,1,0.2,13886.98,8513.02,0.38,UPI,Standard,7.0,2024,June,Q2,Profit
+ORD-10056,2024-11-30,CUST-1287,Customer 297,East,West Bengal,Durgapur,Consumer,Furniture,Tables,Dining Table,19800.0,1,0.1,12521.4,7278.6,0.3676,UPI,Standard,1.0,2024,November,Q4,Profit
+ORD-10804,2023-12-14,CUST-1022,Customer 46,East,West Bengal,Kolkata,Consumer,Technology,Phones,Smartphone,64000.0,2,0.0,44447.04,19552.96,0.3055,Debit Card,Standard,7.0,2023,December,Q4,Profit
+ORD-10255,2024-07-07,CUST-1156,,East,Odisha,Cuttack,Consumer,Furniture,Bedroom,Bed,27000.0,1,0.1,21776.58,5223.42,0.1935,UPI,Standard,7.0,2024,July,Q3,Profit
+ORD-10920,2025-04-12,CUST-1256,Customer 75,West,Gujarat,Ahmedabad,Corporate,Furniture,Seating,Sofa,168000.0,6,0.0,133482.3,34517.7,0.2055,Credit Card,Second Class,1.0,2025,April,Q2,Profit
+ORD-10386,2023-05-16,CUST-1271,Customer 132,West,Gujarat,Vadodara,Consumer,Furniture,Storage,Bookshelf,40500.0,6,0.1,34697.58,5802.42,0.1433,Debit Card,Standard,4.0,2023,May,Q2,Profit
